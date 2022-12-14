@@ -1,0 +1,1848 @@
+                level="requireAdministrator"
+                uiAccess="false"
+            />
+            <requestedExecutionLevel
+        </requestedPrivileges>
+        <requestedPrivileges>
+    </security>
+    <security>
+    name="Microsoft-Windows-Application-Experience-SDBInst"
+    processorArchitecture="x86"
+    type="win32"
+    version="5.1.0.0"
+ failed to update indexes for the library items list [%x]
+ failed to update indexes for the list of database child entries [%x]
+ Microsoft Corporation. All rights reserved.
+ Operating System
+ SVW3
+ u j h@V@
+ Windows
+!This program cannot be run in DOS mode.
+%%windir%%\system32\sdbinst.exe -u "%s"
+%08X%08X.%s
+%h|S@
+%hHl@
+%hs!%p: 
+%hs(%d) tid(%x) %08X %ws
+%hs(%u)\%hs!%p: 
+%hs: %hs
+%OSDataDrive%\SystemData\Temp
+%programfilesnative%
+%s#%d
+%s#%s
+%s%s.sdb
+%s,%s,%d,
+%s\%s
+%s\AslLog_%S_%s_%d.txt
+%s\Layers
+%s\Layers\%s
+%s\Temp
+%s\temp.%08X%08X.sdb
+%sysnative%
+%system32%
+%systemdrive%\Program Files
+%systemroot%
+%SYSTEMROOT%\AppPatch
+%SYSTEMROOT%\AppPatch\????????????????.*.sdb
+%SYSTEMROOT%\AppPatch\MergeSdbFiles
+%systemroot%\system32
+%TEMP%
+%USERNAME%
+%USERPROFILE%
+%windir%
+&PWSV
+(020<0
+(caller: %p) 
+*060B0J0k0
+.?AVbad_alloc@std@@
+.?AVexception@@
+.?AVlength_error@std@@
+.?AVlogic_error@std@@
+.?AVout_of_range@std@@
+.?AVResultException@wil@@
+.00cfg
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCU
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIY
+.CRT$XIZ
+.data
+.data$brc
+.data$r$brc
+.gfids
+.giats
+.idata
+.idata$2
+.idata$3
+.idata$4
+.idata$5
+.idata$6
+.rdata
+.rdata$brc
+.rdata$sxdata
+.rdata$voltmd
+.rdata$zETW0
+.rdata$zETW1
+.rdata$zETW2
+.rdata$zETW9
+.rdata$zzzdbg
+.rsrc$01
+.rsrc$02
+.text
+.text$di
+.text$mn
+.text$x
+.text$yd
+.xdata$x
+: :7:F:M:U:
+: :v:
+: ;P;s;
+:";x;
+:#<.<8<
+:(:4:T:`:
+:*:F:T:^:
+:,:[:
+:-:9:{:
+:=;G;o;
+:4:?:F:
+:5:?:
+:5:A:M:R:\:
+:7;B;N;X;
+:B:L:_:i:
+:C;l;x;
+:D:d:z:
+:d:n:
+:I:c:p:
+:L;f;
+:m:w:
+; ;m<
+;"<E<h<x<
+;#;-;R;\;
+;#;>;X;i;
+;$;,;4;<;H;h;t;
+;)<P<\<
+;*<1<N<]<y<
+;,;X;
+;/=a=
+;;;~;
+;'<4<}<
+;0<Y<h<
+;1<e<
+;2;<;[;z;
+;2<T<z<
+;3;P<
+;5;\;
+;7t%S
+;8;C;L;Z;
+;9;&<Y<v<R=\=
+;A<Q<[<
+;BDu8
+;C@v&
+;CD|3
+;D<j<
+;E;K;q;
+;R<\<
+;T;h;
+;X;b;
+? ?(?0?8?@?L?l?t?|?
+?#?f?
+?$?-?=?H?R?X?`?
+?%?=?W?j?
+?)?3?j?
+?*?4?
+?*?4?G?|?
+?/?I?
+?:?D?
+????????????????.*.sdb
+??_V@YAXPAX@Z
+??0exception@@QAE@ABQBD@Z
+??0exception@@QAE@ABQBDH@Z
+??0exception@@QAE@ABV0@@Z
+??0exception@@QAE@XZ
+??1exception@@UAE@XZ
+??1type_info@@UAE@XZ
+??3@YAXPAX@Z
+?8?[?~?
+?G?Z?a?
+?I?j?
+?I?m?w?
+?terminate@@YAXXZ
+?what@exception@@UBEPBDXZ
+@.reloc
+@.rsrc
+@_^[]
+@0[0e0}0
+@D9S@
+@L@ @0@
+[%hs(%hs)]
+[%hs]
+[0e0.181B1V1m1
+\$DVW
+\$pPh
+\apphelp.dll
+\AppPatch
+\AppPatch\
+\appraiser
+\CustomSDB
+\OSDATA\Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags
+\Registry\Machine
+\Registry\Machine\Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\InstalledSDB
+\REGISTRY\MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\ProfileList
+\Registry\Machine\Software\Microsoft\Windows NT\CurrentVersion\ProfileList
+\Registry\Machine\Software\Microsoft\Windows\CurrentVersion
+\Registry\Machine\System\CurrentControlSet\Control\Session Manager\Environment
+\Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags
+\SysARM32
+\SysNative
+\System32
+\SystemRoot\
+\SysWOW64
+__CxxFrameHandler3
+__dllonexit
+__iob_func
+__p__commode
+__p__fmode
+__set_app_type
+__setusermatherr
+__wgetmainargs
+_amsg_exit
+_callnewh
+_cexit
+_controlfp
+_CxxThrowException
+_except_handler4_common
+_exit
+_initterm
+_lock
+_onexit
+_purecall
+_unlock
+_vscwprintf
+_vsnprintf
+_vsnprintf_s
+_vsnwprintf
+_wcsicmp
+_wcslwr
+_wcsnicmp
+_wfullpath
+_XcptFilter
+`.data
+{%08lx-%04hx-%04hx-%02hx%02hx-%02hx%02hx%02hx%02hx%02hx%02hx}
+~p9~du
+~Sj+Z
++p,pL@
+< <,<6<{<
+<!-- Copyright (c) Microsoft Corporation -->
+<$<I<X<]<
+<%=0=<=F=
+<)=3=
+</assembly>
+</trustInfo>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<-<N<
+<0<K<
+<3<g<{<
+<6=A=K=
+<7=A=z=
+<8<L<l<x<
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1"  xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" manifestVersion="1.0">
+<assemblyIdentity
+<D=P=c=t=
+<description>Application Compatibility Database Installer</description>
+<F<Q<`<
+<J>|>
+<K=g=
+<L<l<~<
+<S<h<
+<trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+<Y<_<
+="=*=C=R=]=z=
+=#=+=
+=#=8=O=r=
+=$=.=]=
+=%=Q=^=
+=&=0=
+=<=G=^=
+=->@>J>
+=>=`={=
+='>2>A>
+=->C>M>r>
+=2=>=N=S=h=t=
+=2=E=^=p=z=
+=3>?>I>N>
+=3>G>\>
+=4=@=`=h=t=
+=5>X>
+=8=G=\=a=
+=8=h=
+=9=R=d=
+=b>i>u>
+=F=^=h=
+=I>S>o>
+=M?{?
+=Q>s>
+=S>_>i>
+=t>{>
+=U>w>
+>%?/?N?X?b?
+>&>I>
+>(>H>P>\>|>
+>*>4>G>V>
+>.?R?V?\?`?q?
+>/>>>
+>+>^>h>
+>+>5>
+>=>f>r>
+>-><>l>
+>2>>>
+>4?@?
+>9?B?I?g?s?
+>9>u>
+>N?p?
+>N>j>v>
+>R>i>
+>s?z?
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0
+0!1/1I1
+0"0(0,0A0c0{0
+0"1H1
+0$1>1H1o1
+0&0<0D0K0W0h0x0
+0(0w0
+0*000F0}0
+0*040G0k0
+0*141W1^1
+0,040<0L0\0h0
+0.0;0Q0[0%1k1
+0.1@1O1
+0.1i1
+0/0?0I0q0
+0:0D0s0
+0^0~0
+0+0=0G0
+0+2Y2b2n2v2
+0<0D0L0T0\0d0l0t0x0|0
+0'1=1Z1d1
+040904B0
+051W1w1
+090C0
+0A0K0^0}0
+0D0Q0X0]0
+0F0P0
+0P0w0
+0p1pP@
+1 1<1`1
+1!1{1
+1!1W1G2N2Z2f2
+1"232=2G2
+1"232Y2
+1$1(1.121B1F1a1
+1$1(1D1H1X1h1
+1$1,141<1D1L1T1\1d1l1t1|1
+1&1E1|1
+1&1f1
+1&2K2|2
+1(121O1Y1h1
+1;1E1X1w1
+1[1e1
+1_2i2u2*484L4X4
+1_3i3t3~3
+1`2f2z2
+1<1W1
+10.0.22621.1017
+10.0.22621.1017 (WinBuild.160101.0800)
+101<1]2
+10N0V0y0
+1'1l1
+131=1_1
+1E1W1a1
+1G2[2
+1n1s1}1
+1P2s2
+2!2+2I2
+2#2B2U2
+2$2,242<2D2L2T2\2d2l2t2|2
+2$393X4e4
+2%2}2n3u3{3
+2%3W3
+2(20282@2D2H2P2d2l2t2|2
+2*262B2N2Z2f2r2
+2/2W2
+2;2{2
+2@2J2o2
+2>2H2
+252?2R2
+252b2l2
+2a3k3q3y3
+2D2K2
+2E3O3
+2I3R3^3f3}3
+2L2[2
+2U2z2~2
+3 333;3W3~3
+3 343<3P3X3`3h3l3p3t3
+3!3'3-373A3P3m3s3|3
+3"3:3F3Z3d3m3
+3$3,343<3D3L3T3\3d3l3t3|3
+3$303
+3$3X3d3
+3(3:3?3I3Y3j3|3
+3)4>4M4j4
+3*3E3O3
+3,3F3h3s3
+3/494
+3;3[3
+3@3]3e3y3
+30>0E0L0h0
+334=4
+3-3G3Q3d3
+3'4x4
+363x3
+374A4q4{4
+3A3s3}3
+3e4l4x4
+3M4Z4
+3X4a4k4
+4!4'444:4D4c4i4s4y4
+4!5U5u5
+4"5.585u5
+4"555]5
+4$4,444<4D4L4T4\4d4l4t4|4
+4%474@4L4T4c4
+4(484G4
+4)434
+4+5$6P6
+424[4
+424U4
+43494C4Z4s4
+4'4:4L4Q4[4n4
+494H4Q4]4V5
+4B4\4f4y4
+4C4l4
+4C4M4
+4F5M5W5k5x5
+4F5z5
+4g5q5
+4L5r5
+4o4y4
+4SVWQQP
+4Y4c4
+5!5+5A5S5X5b5
+5$5,545<5D5P5T5l5p5t5|5
+5%5_5y5
+5%575@5L5T5f5
+5&5N5X5|5
+5&606^6h6
+5)5:5D5
+5)5l5v5
+5/6A6
+5+565K5X5c5u5
+5<5Z5d5w5
+5'515<5b5r5
+555F5c5
+5-575A5o5
+5'5S5X5z5
+586|6
+5A6R6]6o6
+5I5d5}5
+5Q6]6g6
+6 6$6,60646<6@6D6L6P6T6\6`6d6p6t6|6
+6!6)656>6C6I6S6]6m6}6
+6!7I7i7s7
+6"6I6S6
+6#7/7W7a7v7
+6$7S7]7
+6&606E6g6v6
+6&6-636=6G6U6q6
+6*6E6i6s6
+6,656>6D6I6N6U6]6r6
+6]7d7
+616?6d6
+637=7j7t7
+646N6T6e6
+676A6l6v6
+686n6
+696C6V6~6
+6A7J7
+6a7k7
+6F6R6\6
+6G6f6p6
+6O6V6l6y6
+6X7p7
+7$7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+7$7K7W7c7h7r7
+7$8q8
+7%717<7A7F7L7V7`7p7y7
+7%8,888?8
+7&707C7]7x7
+7(727[7g7
+7(7J7T7
+7*7M7~7
+7.8O8
+7:7m7
+7?7H7U7j7
+7[7g7o7
+7>9E9c9
+718]8g8
+737=7s7}7?8f8
+73797O7
+737B7a7q7
+7'7*848
+7'7/7N7V7i7q7
+787B7|7
+788~8
+788B8
+7A7R7\7
+7B7R7_7
+7B8Q8
+7F7V7]7{7
+7g8p8
+7h|*@
+7R8\8
+7Y7y7
+8 8*8J8
+8 848H8\8x8
+8!8>8D8W8i8s8
+8!8O8u8
+8"8.8
+8$8;8E8{8
+8&858U8
+8&8E8^8l8
+8*8V8e8m8y8
+8/9H9U9s9
+8+878C8H8R8k8|8
+8<8\8d8p8
+809I9i9
+82989G9[9s9y9
+838=8m8w8
+838E8g8
+838W8
+8-878G8Q8[8m8
+8E8O8o8
+8G9Q9
+8h(b@
+8q8~8
+8r9|9
+9 :Q:[:
+9"9,9
+9#:-:
+9$9+959
+9$909P9X9t9x9
+9%9`9q9~9
+9&:0:R:\:
+9&989I9p9
+9):A:G:V:c:
+9)939d9
+9)9K9f9p9
+9)9m9
+9.9:9F9K9U9p9|9
+9^:h:
+9|$$t
+9=;V;[;z;
+9=@(C
+9=9G9^9h9
+90^0l0
+929J9Y9^9h9}9
+93:J:v:
+93uHWV
+95,(C
+97s/j
+9'9R9^9q9
+9E:&;5;G;M;
+9E9O9
+9L9P9X9`9x9
+9n9z9
+9V:o:
+9y9J:
+A0U0j0
+A8;BLu
+AcquireSRWLockExclusive
+AcquireSRWLockShared
+acres.dll
+Activity
+ActivityResults
+address family not supported
+address in use
+address not available
+address_family_not_supported
+address_in_use
+address_not_available
+advapi32.dll
+ADVAPI32.dll
+AFailed to read registry value to get size (%d)
+already connected
+already_connected
+An RtlString API failed [%x]
+api-ms-win-eventing-provider-l1-1-0.dll
+Application Compatibility Database Installer
+AppPatch64
+appraiser.sdb
+argument list too long
+argument out of domain
+ASL_LOG FAIL: 
+AslAnsiStringCreate
+AslEnvBuildBasic
+AslEnvExpandStrings
+AslEnvExpandStrings failed [%x]
+AslEnvExpandStrings2
+AslEnvExpandStrings2 failed to expand strings for %ws [%x]
+AslEnvGetProcessWowInfo
+AslEnvGetProcessWowInfo failed [%x]
+AslEnvGetProcessWowInfo failed to determine processor info [%x]
+AslEnvGetSysNativeDirPathForGuestBuf
+AslEnvGetSystem32DirPathBuf
+AslEnvGetSystem32DirPathBuf failed [%x]
+AslEnvVarQuery failed [%x]
+AslFileMappingCreate
+AslFileMappingEnsureMappedAs
+AslGuidFromString
+AslGuidToString
+AslGuidToString failed [%x]
+AslGuidToString failed to convert guid to string [%x]
+AslGuidToString failed to format GUID as string (%d)
+AslGuidToString_UStr
+AslHashAddString
+AslHashCreate
+AslHashCreateEx
+AslHashCreateEx failed for Size = 8147 [%x]
+AslPathCombine
+AslPathCombine failed [%x]
+AslPathToSystemPath
+AslPathToSystemPathBuf
+AslPathToSystemPathBuf failed [%x]
+AslpEnvResolveVars
+AslpEnvResolveVars failed [%x]
+AslpEnvResolveVars failed to fail properly for null buffer
+AslpFileMappingGetFileKind
+AslpFileMappingGetFileKind failed %S [%x]
+AslRegistryBuildMachinePath
+AslRegistryBuildMachinePath failed for %ws [%x]
+AslRegistryGetKey
+AslRegistryGetKey failed to open ManifestedMergeStubSdbs key [%x]
+AslRegistryGetKey failed to open SdbUpdates key [%x]
+AslRegistryGetString
+AslRegistryGetStringExpand
+AslRegistryGetUInt32
+AslRegistryGetUInt32_UStr
+AslRegistryOpenKey
+AslRegistryOpenKey passed bad Path [%x]
+AslRegistryOpenSubKey
+AslRegistryOpenSubKey passed bad Path [%x]
+AslStringDuplicate
+AslStringDuplicate failed [%x]
+AslStringDuplicate failed with "%s" [%x]
+AslStringDuplicateA
+AslTelemetryCreate
+Attempt to copy from an unknown pdb to the output pdb
+Attempt to read past the end of the database offset 0x%lx size 0x%lx (0x%lx)
+bad address
+bad allocation
+bad file descriptor
+bad message
+bad_address
+bad_file_descriptor
+Began declaring indexes after writing other data
+BinFileVersion
+both tags
+broken pipe
+Buffer too small to query basic info.
+Buffer too small. Avail: %d, Need: %d
+CallContext:[%hs] 
+CandidateMergeSdbAdditions
+CandidateMergeSdbUpdates
+Cannot convert guid to unicode string [%x]
+Cannot obtain database information for "%ws"
+Cannot register database with no id "%ws"
+Can't read database header
+ChannelName
+CL;BLt3
+CloseHandle
+CloseThreadpoolTimer
+CommonFilesDir
+CommonFilesDir (x86)
+CommonProgramFiles
+CommonProgramFiles(x86)
+CompanyName
+CompilerVersion
+Compress callback failed to compress the sdb
+Compress callback was not set. Unable to compress SDB.
+Compressing result database as original was.
+connection aborted
+connection already in progress
+connection refused
+connection reset
+connection_aborted
+connection_already_in_progress
+connection_refused
+connection_reset
+ConstructPartialMsgIfA
+CopyFileW
+CorrelationVectors
+Counts
+CrcChecksum
+CreateDirectoryW
+CreateFileW
+CreateMutexExW
+CreateSemaphoreExW
+CreateThreadpoolTimer
+cross device link
+Custom
+Custom\Custom64
+D$$PS
+D$(#T$
+D$(Ph
+D$(PQ
+D$,f9D$J
+D$,PS
+D$@PSS
+D$|SP
+D$0Ph
+D$4Ph
+D$8Ph
+D$lPQQ
+D9,Ph
+DatabaseDescription
+DatabaseId
+DatabaseInstallTimeStamp
+DatabasePath
+DatabaseRuntimePlatform
+DatabaseType
+DataDrive
+DataDrive=
+DebugBreak
+DeleteCriticalSection
+DeleteFileW
+DeleteFileW failed to delete sdb file (%d)
+DeleteFileW failed to remove temp sdb (%d)
+destination address required
+destination_address_required
+device or resource busy
+directory not empty
+DisableDoubleQuerySdbs
+DisableMergeSdbs
+DisplayName
+drvmain.sdb
+DSVWj
+E(SVW
+EnterCriticalSection
+entirely
+en-US
+ERROR
+Error allocating database information
+Error beginning TAG_INDEX
+Error beginning TAG_INDEXES
+Error computing address of ref tagid
+Error creating hash table [%x]
+Error ending TAG_INDEX
+Error ending TAG_INDEXES
+Error getting ptr to tag data
+Error getting StringRef
+Error opening database file "%ws"
+Error opening database handle "%ws"
+Error reading buffer
+Error reading data
+Error reading size data
+Error reading tag
+Error reading tag data
+Error Retrieving Database information for "%ws"
+Error writing TAG_INDEX_BITS
+Error writing TAG_INDEX_FLAGS
+Error writing TAG_INDEX_KEY
+Error writing TAG_INDEX_TAG
+ERROR#%s#%d
+EtwEventRegister
+EtwEventUnregister
+EtwEventWrite
+EventRegister
+EventSetInformation
+EventUnregister
+EventWriteTransfer
+Exception
+Exception encountered [%x]
+executable format error
+Expand callback failed to expand SDB
+Expanded SDB file too small or too large to be valid.
+ExpandEnvironmentStringsW
+ExpandEnvironmentStringsW failed (%d)
+Expected field '%S' did not have the expected data type %d, actual %d
+F$_[^
+f;D$,t 
+F95,(C
+f9D$^
+f9D$h
+f9D$T
+Failed to add the merge entry to target key (%d)
+Failed to allocate %d bytes
+Failed to allocate %d bytes for user key buffer
+Failed to allocate %d bytes: Out of memory
+Failed to allocate 0x%lx bytes for the path buffer "%ws"
+Failed to allocate basic info.
+Failed to allocate DB structure
+Failed to allocate hash element
+Failed to allocate or convert stub path.
+Failed to allocate partial info.
+Failed to allocate path string [%x]
+Failed to allocate PDB
+Failed to allocate stub path.
+Failed to allocate zdb buffer.
+Failed to append change index information to array [%x]
+Failed to append dbinfo to array [%x]
+Failed to append file extension to ID for merge target (%d)
+Failed to append fix tagid refernce info.
+Failed to append table of contents entry [%x]
+Failed to append tag change information to array [%x]
+Failed to build full path for sdb to delete (%d)
+Failed to cat string [%x]
+Failed to check the registered state (%d)
+Failed to check timestamp [%x]
+Failed to close sdb file handle [%x]
+Failed to collect database information from pdb [%x]
+Failed to compute the registered file name (%d)
+Failed to compute the registered sdb file name (%d)
+Failed to compute the registration key path (%d)
+Failed to compute the sdb merge target (%d)
+Failed to concat stub dir search path (%d)
+Failed to concat the registered filename to the redirect full path (%d)
+Failed to concat the sdb merge input type registry key path (%d)
+Failed to concat the sdb merge target registry key path (%d)
+Failed to construct the sdb registry path (%d)
+Failed to copy merge sdb to merge sdb directory (%d)
+Failed to copy sdb path to redirect path (%d)
+Failed to copy sdb to temp dir (%d)
+Failed to copy TAG_TYPE_BYTE to output sdb
+Failed to copy TAG_TYPE_DWORD to output sdb
+Failed to copy TAG_TYPE_NULL to output sdb
+Failed to copy TAG_TYPE_QWORD to output sdb
+Failed to copy TAG_TYPE_WORD to output sdb
+Failed to copy tagid from original to new sdb.
+Failed to copy the full path (%d)
+Failed to create and expand apppatch path merge pattern (%d)
+Failed to create and expand merge dir path (%d)
+Failed to create buffer for reg value (%d)
+Failed to create file
+Failed to create file mapping [%x]
+Failed to create file mapping for redirected SDB file [%x]
+Failed to create in memory SDB
+Failed to create key "%ws" [%x]
+Failed to create merge sdb directory (%d)
+Failed to create merge sdb full path (%d)
+Failed to create the merge sdb directory (%d)
+Failed to delete file (%d)
+Failed to delete file from the merge sdb directory (%d)
+Failed to delete key "%ws" [%x]
+Failed to delete old sdb merge file key (%d)
+Failed to delete redirect value from SdbUpdates (%d)
+Failed to delete sdb file value '%S' in '%S' (%d).
+Failed to delete stub redirect value from SdbUpdates (%d)
+Failed to determine if index is for library items [%x]
+Failed to duplicate path [%x]
+Failed to duplicate string (%d)
+Failed to duplicate stub path.
+Failed to ensure the merge sdb directory (%d)
+Failed to expand / concat full sdb file path (%d)
+Failed to expand environment strings for "%ws" [%x]
+Failed to expand temp dir
+Failed to expand temp dir (%d)
+Failed to expand temp directory.
+Failed to expand: %ls %ls
+Failed to find database
+Failed to find DATABASE
+Failed to find sdb file '%S' (%d)
+Failed to find TAG_DATA_VALUETYPE for TAG_DATA entry (ti: 0x%08x)
+Failed to find TAG_DATABASE
+Failed to find TAG_DATABASE (%d)
+Failed to find TAG_DATABASE for pdb
+Failed to find TAG_DATABASE in original SDB
+Failed to find TAG_DATABASE in pdb [%x]
+Failed to find TAG_DATABASE in sdb
+Failed to find TAG_DATABASE in to-merge SDB
+Failed to find TAG_DATABASE_ID in sdb
+Failed to find TAG_NAME for TAG_DATA entry (ti: 0x%08x)
+Failed to find TAG_TIME under TAG_DATABASE in sdb
+Failed to find the database ID in original SDB
+Failed to find the database ID in to-merge SDB
+Failed to find the last backslash in the original sdb full path.
+Failed to find the merge info from the source ref/def (tag '0x%04X' kind '%d') source TAGID: 0x%08X
+Failed to find the parent tagid that should hold the definition that is being sought after
+Failed to find VALUE tag for TAG_DATA entry (ti: 0x%08x)
+Failed to format the reg key path for sdb merge target key (%d)
+Failed to gather information for sdb file '%S' (%d)
+Failed to get data from sdb (%d)
+Failed to get database tag, db is corrupt
+Failed to get file time for sdb file (%d)
+Failed to get manifested stub [%x]
+Failed to get ManifestedMergeStubSdbs stub values (%d)
+Failed to get old sdb merge database ID (%d)
+Failed to get old sdb merge file path (%d)
+Failed to get previous merge info from sdb (%d)
+Failed to get root tag
+Failed to get SdbUpdates redirect values (%d)
+Failed to get system root directory [%x]
+Failed to get the child index from root
+Failed to get the database ID
+Failed to get the database id
+Failed to get the merge sdb directory path (%d)
+Failed to get the merge target key path (%d)
+Failed to get the sdb merge dir path (%d)
+Failed to get the values for InputType '%S' key (%d)
+Failed to get the values for manifested stubs key (%d)
+Failed to get timestamp from %S. (%d)
+Failed to get timestamp from %S. [%x]
+Failed to get unique temp file name (%d)
+Failed to load file data from merged sdb (%d)
+Failed to load sdb data from file '%S' (%d)
+Failed to load sdb file information from redirected manifested stub sdb file (%d)
+Failed to load sdb file information from redirected sdb file (%d)
+Failed to map SDB [%x]
+Failed to move merge sdb as registration state is invalid
+Failed to move merge sdb to merge store directory (%d)
+Failed to move merged sdb to appPatch dir (%d)
+Failed to open copy of SDB in memory
+Failed to open file [%x]
+Failed to open key "%ws" [%x]
+Failed to open ManifestedMergeStubSdbs key (%d)
+Failed to open merge SDB
+Failed to open merge SDB (%d)
+Failed to open old sdb merge file key (%d)
+Failed to open original DB
+Failed to open original SDB
+Failed to open reg key [%x]
+Failed to open result SDB (%d)
+Failed to open SDB - File size too large or small.
+Failed to open sdb registration '%S' (%d)
+Failed to open SdbUpdate -> InputType '%S' key (%d)
+Failed to open SdbUpdates key (%d)
+Failed to open the SdbUpdates key (%d)
+Failed to open the target key (%d)
+Failed to open/create sdb merge file key (%d)
+Failed to query basic info.
+Failed to query key value [%x]
+Failed to query partial info.
+Failed to query reg value.
+Failed to read a previously written string
+Failed to read a string
+Failed to read compiler version string from sdb
+Failed to read database header
+Failed to read database id 0x%lx
+Failed to read GUID
+Failed to read information from orignal sdb '%S' (%d)
+Failed to read merge disabled registry value (%d)
+Failed to read original database guid from tagid
+Failed to read registration from registry (%d)
+Failed to read registry value '%S' (%d)
+Failed to read registry value (%d)
+Failed to read string from original sdb
+Failed to read string from pdb
+Failed to read TAG_NAME string from pdb
+Failed to read TAG_TIME
+Failed to read TAG_TIME or invalid time in sdb
+Failed to read tagid from original pdb
+Failed to read the tagid contained in the source TAGID ref
+Failed to read to-merge database guid from tagid
+Failed to remove merged sdb files no longer in use (%d)
+Failed to set last write time on key [%x]
+Failed to set reg value out param (%d)
+Failed to set value "%ws" [%x]
+Failed to set value "%ws" to "%ws" [%x]
+Failed to set value "%ws" to %ws [%x]
+Failed to set value "%ws" to 0x%lx [%x]
+Failed to sort index
+Failed to upcase unicode string "%ws"
+Failed to verify matching sdb checksums (%d)
+Failed to write binary data (size: %d)
+Failed to write compressed sdb.
+Failed to write DATA DWORD value 0x%08X
+Failed to write DATA NAME value "%S"
+Failed to write DATA QWORD value 0x%016X
+Failed to write DATA STRING value "%S"
+Failed to write DATA VALUETYPE value 0x%08X
+Failed to write database id to default value of merge target key (%d)
+Failed to write end list tag for the string table
+Failed to write end of DATA tag
+Failed to write end SDB_MERGE_INFO tag
+Failed to write end source/merge tag
+Failed to write file data to disk [%x]
+Failed to write open DATA tag
+Failed to write open SDB_MERGE_INFO tag
+Failed to write open source/merge tag
+Failed to write padding data 1 byte
+Failed to write registration information to registry for '%S': (%d)
+Failed to write registry value %S: (%d)
+Failed to write string/stringref to output sdb
+Failed to write stringtable item
+Failed to write stringtableitem into the string table
+Failed to write TAG_TARGET_DATABASE_CHECKSUM
+Failed to write TAG_TARGET_DATABASE_ID
+Failed to write TAG_TIME
+Failed to write the data
+Failed to write the header to disk
+Failed to write the redirect value to SdbUpdates key (%d)
+Failed to write the sdb [%x]
+Failed to write the zdb [%x]
+Failed to write the zdb header [%x]
+Failed writing DATABASE tag
+Failed writing end DATABASE tag
+Failed writing end LIBRARY tag
+Failed writing LIBRARY tag
+FailFast
+fgetwc
+Fh`x@
+file exists
+File mapping invalid [%x]
+file too large
+FileDescription
+filename too long
+filename_too_long
+FilePath
+FileTime
+FileVersion
+FindClose
+FindFirstFileExW
+FindFirstFileExW failed to search AppPatch for registered sdb files (%d)
+FindNextFileW
+first tag
+Flags:%d; DatabasePath:%ws
+FormatMessageW
+FreeLibrary
+frxmain.sdb
+function not supported
+G ;F u 
+G8;F8t
+generic
+GetConsoleMode
+GetCurrentProcess
+GetCurrentProcessId
+GetCurrentThreadId
+GetFileAttributesW
+GetFileInformationByHandle
+GetFileType
+GetLastError
+GetModuleFileNameA
+GetModuleFileNameW
+GetModuleHandleExA
+GetModuleHandleExW
+GetModuleHandleW
+GetNamedSecurityInfoW
+GetPathFunction (for SdbFileType %d, IsLtRs3: %d) failed [%x]
+GetProcAddress
+GetProcessHeap
+GetStdHandle
+GetSystemDirectoryW
+GetSystemTimeAsFileTime
+GetTickCount
+Global\SDBINST_MERGE_IN_PROGRESS
+HeapAlloc
+HeapFree
+HeapSetInformation
+Hit limit of %d indexes. Increase SDB_MAX_INDEXES and recompile
+host unreachable
+host_unreachable
+identifier removed
+illegal byte sequence
+Illegal to index non-LIST tag
+Illegal to use LIST type as a key
+Illegal to use trailing characters for non-string attribute
+Illegal to use trailing characters for unique index
+inappropriate io control operation
+Index missing TAG_INDEX_BITS
+Index missing TAG_INDEX_KEY
+Index missing TAG_INDEX_TAG
+Index referenced by 0x%x is not valid
+Index tagid 0x%lx is not referring to the index bits
+InitializeCriticalSectionEx
+InitOnceGetStringTableOffset
+InitOnceGetStringTableOffset succeeded but failed to find string table
+InitOnceScanIndexes
+Input DB was either too large or too small.
+Input DB was not in a valid state.
+Input type '%S' was not valid
+InputTestOnly
+InternalName
+interrupted
+invalid argument
+Invalid combination of Host/Current processor architectures passed to AslpEnvResolveVars Host: %x4 Current: %x4
+Invalid data size for TAG_DATABASE_ID (Size: %d)
+Invalid new buffer size
+Invalid parameter
+Invalid pdb
+Invalid SDB source.
+invalid seek
+Invalid size allocation request
+invalid string position
+Invalid tagid 0x%lx
+Invalid total buffer size
+Invalid value type
+invalid_argument
+io error
+iostream
+iostream stream error
+is a directory
+IsDebuggerPresent
+IVhh4@
+j%Xf9
+j%Yf;
+j%Zf9
+j.Yf;
+j.Zj)
+j:Zf9P
+j\Zf9TA
+j^htL@
+j=Xf;
+j=XSf
+JanFebMarAprMayJunJulAugSepOctNovDec
+JhD]@
+jNYQf
+kernel32.dll
+KERNEL32.dll
+kernelbase.dll
+KeyPathFromHKey failed to get the key path (%d)
+KeyPathFromHKey returned an invalid registry key path (too short).
+L$<jdZ
+L$0f;D$2
+L$4^3
+LdrGetDllFullName
+LdrGetDllHandle
+LdrGetProcedureAddress
+LeaveCriticalSection
+LegalCopyright
+list<T> too long
+LoadLibraryExW
+LoadLibraryW
+LoadStringW
+Local\SM0:%lu:%lu:%hs
+LocalAlloc
+LocalFree
+LogFlags
+LogHr
+LogNt
+LogStagedFeatureUsage
+Magic does not match a valid value: 0x%lx
+Magic doesn't match. Magic: 0x%08X, Expected: 0x%08X
+MajorVersion mismatch, MajorVersion 0x%lx Expected 0x%lx
+malloc
+ManifestedMergeFodSdbs
+ManifestedMergeStubSdbs
+memcmp
+memcpy
+memcpy_s
+memmove
+memmove_s
+memset
+Merge result has mismatched checksum (0x%x vs 0x%x)
+MergeInputType
+MergeSdb_FindAndMergeForTarget
+MergeSdb_FindAndMergeForTarget::<lambda_2d8a4f0ae7532cad706bda251921e6ba>::operator ()
+MergeSdb_RemoveUnusedSdbFiles
+MergeSdb_ScanRegistryForMergeFiles
+MergeSdbp_DeleteRegistrySdbFileValue
+MergeSdbp_GetManifestedStub
+MergeSdbp_ProcessMergeTargetSubKey
+MergeSdbp_ProcessMergeTargetSubKey failed (%d)
+MergeSdbp_VerifyPredictedMergeChecksumMatches
+MergeTarget
+Message
+message size
+Message too long!
+message_size
+Messages
+Metric
+Metrics
+Microsoft
+Microsoft Corporation
+Microsoft.Windows.Compatibility.Asl
+MoveFileExW
+Msg:[%ws] 
+msimain.sdb
+msvcrt.dll
+Names
+network down
+network reset
+network unreachable
+network_down
+network_reset
+network_unreachable
+no buffer space
+no child process
+No expand callback method set. Cannot expand ZDB file.
+no link
+no lock available
+no message
+no message available
+no protocol option
+No return context was supplied for InitOnceGetStringTableOffset
+No return context was supplied for InitOnceScanIndexes
+no space on device
+no stream resources
+No stringtable in DB
+no such device
+no such device or address
+no such file or directory
+no such process
+no_buffer_space
+no_protocol_option
+not a directory
+not a socket
+not a stream
+Not an index
+not connected
+not enough memory
+not supported
+not_a_socket
+not_connected
+NPPPPP
+NtClose
+NtCreateFile
+NtCreateKey
+NtDeleteKey
+ntdll.dll
+NtOpenKey
+NtOpenKey failed for %ws [%x]
+NtQueryInformationByName
+NtQueryInformationFile
+NtQueryInformationFile failed [%x]
+NtQueryKey
+NtQueryKey failed to query for KeyNameInformation (%d)
+NtQueryKey failed to query size for KeyNameInformation (%d)
+NtQueryWnfStateData
+NtSetInformationKey
+NtSetValueKey
+NtUpdateWnfStateData
+NtWriteFile
+Offset and region size add up to cause an integer overflow or underflow
+onecore\internal\sdk\inc\wil\opensource\wil\resource.h
+onecore\internal\sdk\inc\wil\opensource\wil\win32_helpers.h
+onecore\internal\sdk\inc\wil\Staging.h
+OpenSemaphoreW
+operation canceled
+operation in progress
+operation not permitted
+operation not supported
+operation would block
+operation_in_progress
+operation_not_supported
+operation_would_block
+OriginalFilename
+OSDataDrive
+OSDataDrive=
+Out of memory
+Out of memory [%x]
+OutputDebugStringA
+OutputDebugStringW
+owner dead
+PartA_PrivTags
+Pca::MergeSdb::Utils::CopyAclsFromParentDir
+Pca::MergeSdb::Utils::MergeSdbpUtilComputeRegDataKeyPath
+Pca::MergeSdb::Utils::MergeSdbpUtilGetFileLastWriteTimeForFile
+Pca::MergeSdb::Utils::RegistrationInfo::AddOrUpdateRegistration
+Pca::MergeSdb::Utils::RegistrationInfo::CheckRegisteredState
+Pca::MergeSdb::Utils::RegistrationInfo::DeleteFromMergeSdbFolder
+Pca::MergeSdb::Utils::RegistrationInfo::EnsureDirectory
+Pca::MergeSdb::Utils::RegistrationInfo::GatherInformationForFile
+Pca::MergeSdb::Utils::RegistrationInfo::GetMergeSdbDirectoryPath
+Pca::MergeSdb::Utils::RegistrationInfo::MoveToMergeSdbFolder
+Pca::MergeSdb::Utils::RegistrationInfo::ReadRegistrationFromRegistry
+Pca::MergeSdb::Utils::RegUtil::DeleteRegValue
+Pca::MergeSdb::Utils::RegUtil::EnumRegValue
+Pca::MergeSdb::Utils::RegUtil::GetRegValuesForKey
+Pca::MergeSdb::Utils::RegUtil::KeyPathFromHKey
+Pca::MergeSdb::Utils::RegUtil::ReadRegValue
+Pca::MergeSdb::Utils::RegValue::SetValue
+Pca::MergeSdb::Utils::SdbFileData::ComputeRegisteredFileName
+Pca::MergeSdb::Utils::SdbFileData::ComputeSdbMergeTarget
+Pca::MergeSdb::Utils::SdbFileData::GetMergeTargetRegistryKeyPathForTarget
+Pca::MergeSdb::Utils::SdbFileData::GetTimeAndTargetFromSdb
+Pca::MergeSdb::Utils::SdbFileData::GetUniqueTempDirectoryFileName
+Pca::MergeSdb::Utils::SdbFileData::LoadFromSdbFile
+pcamain.sdb
+PDB is not writeable
+pdb null
+PDB null or not writeable
+PDB was not supplied for InitOnceGetStringTableOffset
+PDB was not supplied for InitOnceScanIndexes
+pdbMergeHistoryItemInfo null
+permission denied
+permission_denied
+Ph 9@
+Ph(p@
+Ph\b@
+Ph|i@
+Ph8/@
+Ph8-@
+Phh-@
+PhHA@
+PhHn@
+PhL3@
+Pht{@
+PhT7@
+Phtl@
+PhxX@
+Pj0Z3
+PjDZ3
+PPj`j
+PQQSVW
+PQSVW
+PRINT
+ProductName
+ProductVersion
+ProfileImagePath
+ProgramData
+ProgramFiles
+ProgramFiles(x86)
+ProgramFilesDir
+ProgramFilesDir (x86)
+protocol error
+protocol not supported
+protocol_not_supported
+PSSSSSSSW
+PSSSSSSV
+PSWh(
+Public
+Pulled out a non-stringtable item
+PVh`*@
+PVhXP@
+PVVVVVV
+PWVSh
+q@;r@t
+Qh4T@
+QhT3@
+Qkkbal
+QQj`j
+QQPWQ
+QQQQP
+QQSV3
+QQSVW
+QQVW3
+QQVWj
+QQVWR
+qsort
+QSVW3
+QSVWf
+QueryPerformanceCounter
+Quirk definition '%ws' was not in the expected order.
+Quirk definition missing name: 0x%08X
+QUIRKS encountered without TAG_QUIRK_COMPONENT_CODE_ID child.
+QVVVP
+QVWj2^
+QWRPSj
+QWWWP
+RaiseFailFastException
+read only file system
+Reading from unfinished list
+Redirected merge sdb is already %S up-to-date with %d merges: '%S' -> '%S'
+Redirected merge sdb stub is already %S up-to-date with %d merges: '%S' -> '%S'
+RefSource was invalid. Failed to find the lookup source context.
+RegCloseKey
+RegCreateKeyExW
+RegDeleteKeyExW
+RegDeleteKeyValueW
+RegDeleteKeyValueW failed to delete value '%S' (%d)
+RegDeleteKeyW
+RegDeleteKeyW failed to delete key (%d)
+RegDeleteValueW
+RegDeleteValueW failed (%d)
+RegEnumKeyExW
+RegEnumKeyExW failed (%d)
+RegEnumKeyW
+RegEnumValueW
+RegEnumValueW failed (%d)
+RegEnumValueW failed on retry with alloc buffer (%d)
+RegGetValueW
+RegisteredName
+Registration missing one or more values
+RegOpenKeyExW
+RegOpenKeyExW failed to open ManifestedMergeStubSdbs key (%d)
+RegOpenKeyExW failed to open SdbUpdates key (%d)
+RegOpenKeyW
+RegQueryInfoKeyW
+RegQueryInfoKeyW failed for merge target key (%d)
+RegQueryInfoKeyW failed to query key (%d)
+RegQueryInfoKeyW failed to query key info (%d)
+RegQueryValueExW
+RegSetValueExW
+ReleaseMutex
+ReleaseSemaphore
+ReleaseSRWLockExclusive
+ReleaseSRWLockShared
+RemoteMergeStubSdbs
+resource deadlock would occur
+resource unavailable try again
+result out of range
+ReturnHr
+ReturnNt
+Root child tag is not index tagid 0x%lx
+RSDSr
+RtlAllocateHeap
+RtlAppendUnicodeStringToString
+RtlAppendUnicodeToString
+RtlArrayAppend failed [%x]
+RtlArrayInitialize failed to init affected indexes array [%x]
+RtlArrayInitialize failed to init library tag changes array [%x]
+RtlArrayInitialize failed to init merge info array [%x]
+RtlArrayInitialize failed to init tag changes array [%x]
+RtlArrayInitialize failed to init tagid refs to fix array [%x]
+RtlArrayInitialize failed to initialize array [%x]
+RtlArrayInitializeBase failed to initialize array [%x]
+RtlCompareMemory
+RtlCopyUnicodeString
+RtlDeleteCriticalSection
+RtlDisownModuleHeapAllocation
+RtlDllShutdownInProgress
+RtlDoesFileExists_U
+RtlDosPathNameToNtPathName_U_WithStatus
+RtlDosPathNameToNtPathName_U_WithStatus failed for %S [%x]
+RtlDosPathNameToRelativeNtPathName_U_WithStatus
+RtlEnterCriticalSection
+RtlEqualString
+RtlExpandEnvironmentStrings_U
+RtlFileMapInitializeByFilePath failed %S [%x]
+RtlFreeHeap
+RtlFreeUnicodeString
+RtlGetNativeSystemInformation
+RtlGetNativeSystemInformation failed [%x]
+-RtlGetNtSystemRoot
+RtlGUIDFromString
+RtlGUIDFromString failed [%x].
+RtlInitAnsiString
+RtlInitializeCriticalSection
+RtlInitString
+RtlInitUnicodeString
+RtlInitUnicodeStringEx
+RtlInitUnicodeStringEx failed [%x]
+RtlIsStateSeparationEnabled
+RtlLeaveCriticalSection
+RtlMultiByteToUnicodeN
+RtlNotifyFeatureUsage
+RtlNtStatusToDosError
+RtlNtStatusToDosErrorNoTeb
+RtlPcToFileHeader
+RtlQueryFeatureConfiguration
+RtlReAllocateHeap
+RtlRegisterFeatureConfigurationChangeNotification
+RtlRunOnceExecuteOnce
+RtlRunOnceExecuteOnce failed for InitOnceGetStringTableOffset [%x]
+RtlRunOnceExecuteOnce failed for InitOnceScanIndexes [%x]
+RtlSizeTAdd failed [%x]
+RtlSIZETMult failed for Size = %d [%x]
+RtlSizeTSub failed [%x]
+RtlStringCchCatW failed [%x]
+RtlStringCchCatW failed to cat file to path [%x]
+RtlStringCchCopyNW failed to copy path [%x]
+RtlStringCchCopyW failed [%x]
+RtlStringCchCopyW failed to copy FileName [%x]
+RtlStringCchLengthA failed [%x]
+RtlStringCchLengthW failed [%x]
+RtlStringCchPrintfW failed [%x]
+RtlStringFromGUID
+RtlUnregisterFeatureConfigurationChangeNotification
+RtlUpcaseUnicodeChar
+RtlUpcaseUnicodeString
+RuntimePlatform
+s*9|$$u
+s-1-5-18
+s-1-5-19
+s-1-5-20
+SDB compression algorithm does not match callback algorithm.
+SDB file contains no previous merge information.
+SDB file contains only test content.
+SDB file too small to be valid
+SDB info was null
+SDB is not compressed
+SdbBeginWriteListTag
+SdbBeginWriteListTag failed to write TAG_INDEX
+SdbBeginWriteListTag failed to write TAG_SDB_MERGE_METADATA
+SdbBeginWriteListTag failed to write TAG_UPDATED_ENTRY_INDEXES
+SdbCloseDatabase
+SdbCommitIndexes
+SdbCommitIndexes failed
+SdbDeclareIndexEx
+SdbDeclareIndexEx failed to create index.
+SdbEndWriteListTag
+SdbEndWriteListTag failed to write end of list tag
+SdbEndWriteListTag failed to write end of TAG_INDEX
+SdbEndWriteListTag failed to write end of TAG_SDB_MERGE_METADATA
+SdbEndWriteListTag failed to write end of TAG_UPDATED_ENTRY_INDEXES
+sdbf9E
+SdbFileDetails missing array item for SdbFileType: %d
+SdbFileDetails missing function pointer for path.
+SdbFindNextTag
+SdbFindNextTagBefore
+SdbGetBinaryTagData
+SdbGetBinaryTagData failed to return data
+SdbGetDatabaseID
+SdbGetDatabaseInformationByName
+SdbGetDatabaseInformationEx
+SdbGetIndex
+SdbGetMergeRedirectPath
+SdbGetMergeRedirectPath failed to check for sdb merge redirect [%x]
+SdbGetNextChild
+SdbGetPathCustomSdb
+SdbGetStringTagPtr
+SdbGetTagDataSize
+SdbGetTagFromTagID
+SdbGuestHostArchsToRuntimePlatformFlag
+SdbGuestTargetPlatformFlagsToRuntimePlatformFlags
+SdbInst
+sdbinst.exe
+sdbinst.pdb
+SdbIsDbRuntimePlatformSupportedOnHost
+SdbMakeIndexKeyFromStringEx
+SdbMerge: Both databases have the same target ID
+SdbMergeAppendEntryTocIndexes
+SdbMergeAppendEntryTOCIndexes failed to append table of contents to merge sdb [%x]
+SdbMergeCollectPreviousMergeInfoFromDb
+SdbMergeCollectPreviousMergeInfoFromDb failed to get merge info from sdb [%x]
+SdbMergeDatabases
+SdbMergeDatabases failed (%d)
+SdbMergeValidateQuirks
+SdbMergeValidateQuirks failed [%x]. Failing merge.
+SdbOpenDatabaseEx
+SdbpAddStringToTable
+SdbpCompressExistingDatabase
+SdbpCompressExistingDatabase failed to compress the resulting database. Writing out uncompressed.
+SdbpCreateDatabaseInMemory
+SdbpFinalizeMiniDbInMemory
+SdbpFinalizeMiniDbInMemory failed while finalizing database [%x]
+SdbpGetCustomSdbFileName
+SdbpGetCustomSdbFileName failed [%x]
+SdbpGetDatabaseDescriptionPtr
+SdbpGetDatabaseRuntimePlatform
+SdbpGetFileTimestamp
+SdbpGetFileTimestamp failed [%x]
+SdbpGetIndex
+SdbpGetIndex failed to get index data from an index in the original sdb
+SdbpGetManifestedMergeStubAlloc
+SdbpGetMappedData
+SdbpGetMappedStringFromTable
+SdbpGetMappedTagData
+SdbpGetMappedTagData returned null data pointer for data with size > 0. Null returned for %s
+SdbpGetMergeSdbsDisabled
+SdbpGetMergeSdbsDisabled failed [%x]
+SdbpGetNextTagId
+SdbpGetPathAppPatch
+SdbpGetPathAppPatchPreRS3
+SdbpGetPathAppraiser
+SdbpGetPathCustomSdb
+SdbpGetPathCustomSdbPreRS3
+SdbpGetPathSystem
+SdbpGetProcessHostGuestArchitectures
+SdbpGetProcessHostGuestArchitectures failed [%x]
+SdbpGetStringTableItemFromStringRef
+SdbpGetStringTableItemFromStringRef failed to get tagid for string ref
+SdbpGetSystemSdbFilePath
+SdbpGetSystemSdbFilePath failed [%x]
+SdbpGetTagHeadSize
+SdbpMergeAreTagValuesEqual
+SdbpMergeCheckForMergeSupport
+SdbpMergeCollectAllMergeInformation
+SdbpMergeCollectIndexesUsed
+SdbpMergeCollectPdbInformation
+SdbpMergeCopyItemToSdb
+SdbpMergeCopyItemToSdb failed to copy entry item
+SdbpMergeCountEntriesForIndex
+SdbpMergeCountEntriesForIndex failed because of more than 64 unique indexes
+SdbpMergeFindLibraryEntries
+SdbpMergeFindLibraryEntries failed to collect library entries [%x]
+SdbpMergeFindMatchingLibraryEntry
+SdbpMergeFindMatchingLibraryEntry failed to find referenced item [%x]
+SdbpMergeFindMatchingLibraryEntry failed while searching for referenced item [%x]
+SdbpMergeInitSdbContext
+SdbpMergeInitSdbContext failed to initialize sdb context [%x]
+SdbpMergeIsEntryInLibrary
+SdbpMergeIsEntryInLibrary failed because pIsInLibrary was NULL (Invalid parameter)
+SdbpMergeOrDiffDatabasesInMemoryImpl
+SdbpMergeOrDiffDatabasesInMemoryImpl failed to merge SDB files [%x]
+SdbpMergeTagDataToStruct failed [%x]
+SdbpMergeUpdateEntryIndexKeys
+SdbpMergeWriteDataHelper
+SdbpMergeWriteDataHelper failed to add DATA [%x]
+SdbpMergeWriteDbInfo
+SdbpMergeWriteDbInfo failed to write source db info [%x]
+SdbpMergeWriteItemsToSdb
+SdbpMergeWriteItemsToSdb failed to write merged library items [%x]
+SdbpMergeWriteMergeSourcesInformation
+SdbpMergeWriteMergeSourcesInformation failed to write sdb merge information [%x]
+SdbpOpenCompressedDatabase
+SdbpOpenCompressedDatabase failed to allocate expanded buffer - out of memory
+SdbpOpenCompressedDatabase failed to open compressed database.
+SdbpOpenDatabaseInMemory
+SdbpReadMappedData
+SdbpReadStringRef
+SdbpReadTagData
+SdbpSortIndex
+SdbpValidateAndApplyCompatFlags
+SdbpWriteBufferedData
+SdbpWriteCompressedDatabase
+SdbpWriteDatabase
+SdbpWriteDatabase failed
+SdbpWriteTagData
+SdbReadBinaryTag
+SdbReadBYTETag
+SdbReadDWORDTag
+SdbReadGUIDTag
+SdbReadQWORDTag
+SdbReadWORDTag
+SdbRegisterDatabaseEx
+SdbTime
+SdbUnregisterDatabase
+SdbWriteBinaryTag failed to write index bits
+SdbWriteDatabaseToFile
+SdbWriteDatabaseToFile failed to write the database to disk [%x]
+SdbWriteDWORDTag failed to write TAG_INDEX_FLAGS
+SdbWriteWORDTag failed to write TAG_INDEX_KEY
+SdbWriteWORDTag failed to write TAG_INDEX_TAG
+second tag
+SetFileAttributesW
+SetLastError
+SetNamedSecurityInfoW
+SetPriorityClass
+SetPriorityClass failed to set background mode %d
+SetProcessWorkingSetSizeEx
+SetProcessWorkingSetSizeEx failed %d
+SetThreadpoolTimer
+SetThreadPreferredUILanguages
+SetUnhandledExceptionFilter
+sh;{pr
+sh9{pv.W
+Sharing violation while getting file time for sdb file. Retry in 200ms
+SHELL32.dll
+Shim databases have different database ID values
+ShimFlushCache
+Simple
+SIZE_T arithmetic failed [%x]
+Skipping merge of tagid 0x%X. The entry had a merge key (0x%X) but key has was zero.
+Skipping merge tagid 0x%X as the entry had no merge key
+Sleep
+Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags
+Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Compatibility Assistant\Persisted
+Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Compatibility Assistant\Store
+Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Custom
+Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\InstalledSDB
+Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Layers
+Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\SdbUpdates
+SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\SdbUpdates
+Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\SdbUpdates\ManifestedMergeStubSdbs
+Software\Microsoft\Windows\CurrentVersion\Uninstall\
+sprintf_s
+SSj`j
+state not recoverable
+strchr
+strcpy_s
+stream timeout
+string too long
+StringCchCopyW failed to copy temp path input (%d)
+StringFileInfo
+sufficiently
+SVWh$A@
+SVWhX
+SVWj0j
+SVWjD
+SVWjLX
+SVWQh
+SVWQj
+SVWQQ
+sysmain.sdb
+system
+SystemDrive=
+systemroot
+SystemRoot=
+t h v@
+t hP@@
+t Ph 
+t PhP
+t Php
+t SVP
+t VSW
+t!VhD
+t!Wh 
+t!WhP
+t!Whp
+t"PVh
+t"PWh
+t#h8(C
+t#j]P
+T$0QQV
+t*hd3@
+t*Whh
+t?hT/@
+t=f;M
+t5jDjH
+t5Shh
+t5Wh 
+t7f;E
+TAG_DATABASE is not finished
+TagDatabaseWhenAllEntriesQualify
+TagID 0x%08X, Tag %04X not BINARY type
+TagID 0x%08X, Tag %04X not STRINGREF type
+TagID 0x%X, Tag 0x%X not of the expected type
+TAGID source reference contained a TAGID_NULL value
+TargetDatabaseChecksum
+TargetDatabaseId
+TelemetryClient
+TerminateProcess
+TestMergeOnlyDontMergeAggressively
+text file busy
+The source ref/def did not have the expected search-for tag (TAG_NAME)
+tHf97tCW
+This is not a list tag
+tIf9_
+timed out
+timed_out
+tiSourceMergeDb not either TAG_SOURCE_DB or TAG_MERGE_DB
+tolower
+too many files open
+too many files open in system
+Too many index entries for tag %04x, key %04x
+Too many indexes in file: recompile and increase SDB_MAX_INDEXES
+too many links
+too many symbolic link levels
+too_many_files_open
+towupper
+TRACE
+Translation
+tRPVh
+Trying to operate on non-list, non-root tag
+Trying to read mapped data past the end of the database offset 0x%x size 0x%x
+t'ShpG@
+tsj=V
+Types
+tyVVVV
+u h(J@
+u hh5@
+u htv@
+u hXY@
+u VWh
+u!h0'@
+u#h _@
+u#h@z@
+u#hpm@
+u#htz@
+u$9\$
+u$WSQ
+u,h\R@
+u,hly@
+u?f97u:3
+u=h|~@
+u2h8o@
+u7h@\@
+uA+w$
+uEPhX3@
+Unable to copy ACLs from parent (%d)
+Unable to get security info (%d)
+Unable to merge databases [%x]
+Unable to merge SDB files with different versions
+Unable to open SdbUpdates key (%d)
+Unable to set security info (%d)
+Unexpected TAG_DATA entry '%S' of type %d
+UnhandledExceptionFilter
+UninstallString
+unknown error
+Unknown reference kind encountered in TAGID 'ref to fix': %d
+Unknown tag type encountered for tag: %x
+uQhLW@
+uQhTr@
+uQVVVV
+USER32.dll
+u'VWh
+v h\&@
+v ht&@
+v$;w$v
+v0h4&@
+value too large
+VarFileInfo
+Vh(4@
+Vh,5@
+Vh|=@
+Vh<=@
+Vh<C@
+Vh<x@
+Vh0[@
+Vh0`@
+Vh4?@
+Vh4a@
+Vh4Q@
+Vh8O@
+Vhd@@
+VhD>@
+Vhh}@
+Vhh<@
+VhH4@
+Vhh4@
+VhH4@
+Vhh4@
+VhH4@
+VhHt@
+Vhl|@
+Vhl>@
+VhPu@
+Vht6@
+VQPh,
+VQPh\
+VQWWWP
+VS_VERSION_INFO
+VWhd`@
+VWj@Z
+VWjbZ
+VWjkZ
+W;B@u@
+WaitForSingleObject
+WaitForSingleObjectEx
+WaitForThreadpoolTimerCallbacks
+Warning - original TagId 0x%08X was updated by 0x%08X, however 0x%08X also is targeting it
+wcscat_s
+wcschr
+wcscpy_s
+wcsrchr
+wcsstr
+wdscore.dll
+WdsSetupLogMessageA
+Wh`]B
+Whlq@
+WideCharToMultiByte
+wil::str_printf_nothrow failed to format registered file name (%d)
+wil::str_printf_nothrow failed to format temp file name (%d)
+WilError_03
+WilFailureNotifyWatchers
+WilStaging_02
+WilStagingFeatureDescriptors$__m
+win32
+win64
+WinDir=
+wmain
+wn>Jj
+WriteConsoleW
+WriteFile
+wrong protocol type
+wrong_protocol_type
+WWj`j
+xDQWQ
+y VShX?@
+y%PWh`*@
+y,PWh
+y/Vhh
+Y__^[
+y4Vh|=@
+yAVh|=@
+YjwY;
+y'PhD|@
+Z\9;s
+zdbf=sdbft
+zdbft
+zt!Wh
+ZwClose
+ZwCreateFile
+ZwCreateSection
+ZwEnumerateKey
+ZwEnumerateValueKey
+ZwMapViewOfSection
+ZwOpenKey
+ZwQueryInformationFile
+ZwQuerySystemInformation
+ZwQuerySystemInformation failed [%x]
+ZwQuerySystemTime
+ZwQuerySystemTime failed to query system time [%x]
+ZwQueryValueKey
+ZwUnmapViewOfSection
+ZwWriteFile

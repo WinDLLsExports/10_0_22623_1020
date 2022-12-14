@@ -1,0 +1,2836 @@
+            <requestedExecutionLevel level="asInvoker" uiAccess="false"/>
+            language="*"
+            name="Microsoft.Windows.Common-Controls"
+            processorArchitecture="*"
+            publicKeyToken="6595b64144ccf1df"
+            type="win32"
+            version="6.0.0.0"
+        />
+        </requestedPrivileges>
+        <assemblyIdentity
+        <dpiAware  xmlns="http://schemas.microsoft.com/SMI/2005/WindowsSettings">true</dpiAware>
+        <requestedPrivileges>
+    </dependentAssembly>
+    </security>
+    </windowsSettings>
+    <dependentAssembly>
+    <security>
+    <windowsSettings>
+    name="Microsoft.Windows.Shell.ThemeUI"
+    processorArchitecture="x86"
+    type="win32"/>
+    version="5.1.0.0"
+ (%d)%s
+ /c:%u
+ /p %u
+ 4 q(
+ Microsoft Corporation. All rights reserved.
+ Operating System
+ q=8p%qt
+ qhh. qh
+ qj(P
+ qj:Z
+ qj+Z
+ qj=Z
+ qj7Z
+ qjGZ
+ qPSh
+ qSVW
+ qT8 q
+ qT8 qXq q
+- qWP
+ qWPV
+ qWVh
+ Windows
+!%qq!%q0!%qa!%qQ!%q
+!qpP!q
+!This program cannot be run in DOS mode.
+"%qb#%qR#%qB#%q2#%q"#%q
+"0+050?0J0U0\0k0z0
+"0A0W0
+"3%q"
+"Ph,Y qh
+"q O#q
+"q0 "q
+"qpP!q
+#020?0D0U0
+#q0H!q`
+#qPN!q
+#qSWV
+$%q|$%q[$%q
+$%q+$%q;$%qK$%q
+$%qO%%q
+$n qPj
+$q q3
+$qSh`
+$qVPh`
+$SVWP
+%%q?%%q/%%q
+%%q_%%q
+%<|%q
+%B%q"
+%d %d %d
+%hs!%p: 
+%hs(%d) tid(%x) %08X %ws
+%hs(%u)\%hs!%p: 
+%I64d
+%LOCALAPPDATA%\VirtualStore
+%MasterThemeSelector%
+%OEMBackground%
+%q@p%q
+%q[_^
+%q^[3
+%q^_[
+%q_[3
+%q_^[
+%q_^]
+%q_^3
+%q_^Y
+%q0^!q
+%q48 q
+%q93u
+%q9s0t
+%qC;]
+%qF;5L
+%qf9>
+%qh0t%q
+%qhDU qj
+%qhp%q
+%qhP. qP
+%qHPV
+%qhT8 q
+%qhT8 qh
+%qj"^
+%qj"_f9=
+%qj`S
+%qj`Sj
+%qj`W
+%qj`Wj
+%qj`Wjp
+%qjXV
+%qjZV
+%qP0 q
+%qPe!q
+%qPh`0 q
+%qPh0
+%qPj@
+%qpP!q
+%qQRPh([%q
+%qQWQ
+%qSh(
+%qSPhQ
+%qSSh
+%qSSS
+%qt@j
+%qu S
+%qu&j,
+%qu^3
+%qVPhQ
+%qWh`
+%qYf;
+%qYjCYf;
+%qYjS[f;
+%ResourceDir%
+%ResourceDir%\Themes\aero.theme
+%ResourceDir%\themes\Aero\AeroLite.msstyles
+%ResourceDirL%
+%s (%d)
+%s (%d).theme
+%s%s','%s','%s'
+%s.MUI
+%s.theme
+%s\%s
+%s\%s (%d).theme
+%s\%s.scr
+%s\%s\%s\%s
+%s\*.theme
+%s\.Current
+%s\custom.theme
+%s\roamed.theme
+%s\Theme
+%s\Themes\%s.theme
+%s=%s
+%sCURSORS\%s
+%sSYSTEM\%s
+%sSYSTEM32\%s
+%SystemRoot%
+%SystemRoot%\Resources\Ease of Access Themes\hc1.theme
+%SystemRoot%\Resources\Ease of Access Themes\hc2.theme
+%SystemRoot%\Resources\Ease of Access Themes\hcblack.theme
+%SystemRoot%\Resources\Ease of Access Themes\hcwhite.theme
+%SystemRoot%\Resources\Themes\Aero\Aero.msstyles
+%SystemRoot%\Resources\Themes\Aero\AeroLite.msstyles
+%SystemRoot%\resources\themes\Aero\AeroLite.msstyles
+%SystemRoot%\System32\imageres.dll,-109
+%SystemRoot%\System32\imageres.dll,-123
+%SystemRoot%\System32\imageres.dll,-25
+%SystemRoot%\System32\imageres.dll,-54
+%SystemRoot%\System32\imageres.dll,-55
+%SystemRoot%\Web\Wallpaper
+%SystemRoot%\web\wallpaper\Windows
+%ThemeDir%
+%Tt%q
+%WinDir%
+%windir%\Resources\Ease of Access Themes\
+%WinDir%\Resources\Ease of Access Themes\Basic.theme
+%windir%\Resources\Ease of Access Themes\basic.theme
+%WinDir%\Resources\Ease of Access Themes\Classic.theme
+%windir%\Resources\Ease of Access Themes\hc1.theme
+%windir%\Resources\Ease of Access Themes\hc2.theme
+%windir%\Resources\Ease of Access Themes\hcblack.theme
+%windir%\Resources\Ease of Access Themes\hcwhite.theme
+%windir%\Resources\Themes\
+%windir%\Resources\Themes\aero.theme
+%WinDir%\Resources\Themes\Aero.theme
+%WinDir%\Resources\Themes\Architecture.theme
+%WinDir%\Resources\Themes\Characters.theme
+%WinDir%\Resources\Themes\Landscapes.theme
+%WinDir%\Resources\Themes\Light.theme
+%windir%\Resources\Themes\Light.theme
+%WinDir%\Resources\Themes\Nature.theme
+%WinDir%\Resources\Themes\Scenes.theme
+%windir%\Resources\Themes\spotlight.theme
+%WinDir%\Resources\Themes\spotlight.theme
+%WinDir%\Resources\Themes\theme1.theme
+%windir%\Resources\Themes\theme1.theme
+%windir%\Resources\Themes\theme2.theme
+%WinDir%\Resources\Themes\theme2.theme
+%WinDir%\Resources\Themes\Windows Classic.theme
+%xw%qf
+&%qs&%q
+&0_0;1<2
+&0W0k0
+(2 qPj
+(C qPh
+(caller: %p) 
+(e qP
+(l qPj
+(U qG
+)hT8 q
+*.scr
+*.theme
+*hT8 q
+, qWP
+,0004080D0l0
+,1 qj
+,Y qW
+,Y qy
+. qWP
+.?AUhresult_access_denied@winrt@@
+.?AUhresult_canceled@winrt@@
+.?AUhresult_changed_state@winrt@@
+.?AUhresult_class_not_available@winrt@@
+.?AUhresult_class_not_registered@winrt@@
+.?AUhresult_error@winrt@@
+.?AUhresult_illegal_delegate_assignment@winrt@@
+.?AUhresult_illegal_method_call@winrt@@
+.?AUhresult_illegal_state_change@winrt@@
+.?AUhresult_invalid_argument@winrt@@
+.?AUhresult_no_interface@winrt@@
+.?AUhresult_not_implemented@winrt@@
+.?AUhresult_out_of_bounds@winrt@@
+.?AUhresult_wrong_thread@winrt@@
+.?AVbad_alloc@std@@
+.?AVbad_array_new_length@std@@
+.?AVexception@std@@
+.?AVinvalid_argument@std@@
+.?AVlogic_error@std@@
+.?AVResultException@wil@@
+.?AVtype_info@@
+.00cfg
+.0B0H0N0X0b0q0
+.7%q"
+.8%q"
+.avci
+.avcs
+.avif
+.avifs
+.CRT$XCA
+.CRT$XCU
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIC
+.CRT$XIZ
+.CRT$XPA
+.CRT$XPZ
+.CRT$XTA
+.CRT$XTZ
+.Current
+.data
+.data$brc
+.data$r$brc
+.data$rs$brc
+.Default
+.deskthemepack
+.didat$2
+.didat$3
+.didat$4
+.didat$5
+.didat$6
+.didat$7
+.edata
+.gfids
+.giats
+.heic
+.heics
+.heif
+.heifs
+.idata
+.idata$2
+.idata$3
+.idata$4
+.idata$5
+.idata$6
+.jfif
+.jpeg
+.MICROSOFT.COM
+.msstyles
+.None
+.rdata
+.rdata$brc
+.rdata$r$brc
+.rdata$sxdata
+.rdata$voltmd
+.rdata$zETW0
+.rdata$zETW1
+.rdata$zETW2
+.rdata$zETW9
+.rdata$zzzdbg
+.rsrc
+.rsrc$01
+.rsrc$02
+.rtc$IAA
+.rtc$IZZ
+.rtc$TAA
+.rtc$TZZ
+.text
+.text$di
+.text$mn
+.text$x
+.text$yd
+.theme
+.tiff
+.xdata$x
+/InstallVS:'
+/UserInstall
+: :$:,:0:8:<:@:H:P:T:\:`:h:l:t:x:
+: :(:8:@:P:`:d:h:l:p:t:x:|:
+: qhXB q
+: qPh
+: qPh@H q
+: qPhdC q
+: qPhlo q
+: qPhpE q
+: qPhX< q
+: qPQh
+: qPQhX< q
+:!:):/:8:@:a:k:
+:!q0N!q
+:":(:,:F:a:
+:":H:Q:u:
+:";E;g;
+:";J;
+:#:+:
+:$:[:`:|:
+:$:0:P:X:`:l:
+:$:2:B:P:`:n:
+:$;@;E;q;
+:%:<:S:t:z:
+:&:E:N:T:Y:x:
+:):4:N:
+:::n:
+:':@:H:U:^:g:
+:;:h:
+:@;m;
+:[:p:
+:[;b;
+:+:1;
+:+:3:w:
+:+:E:N:g:{:
+:=:N:
+:=;Y;d;{;
+:0;>;h;q;
+:3:9:N:`:l:}:
+:3:b:
+:4:;:R:Y:i:p:
+:5;u;
+:6;{;
+:7:D:U:m:
+:8:=:i:
+:9:@:G:L:d:k:}:
+:9:>:
+:B:Y:
+:C:M:R:W:
+:c:n:w:
+:C:Y:a:g:
+:c;y;
+:E;o;
+:F:]:
+:F:y:
+:P:b:
+:S:n::;Z;d;
+:t;{;
+:U;];~;
+; ;$;,;0;8;<;@;D;H;L;P;T;X;`;d;h;l;p;t;x;|;
+; ;,;4;D;x;
+; <2<W<j<
+; qPh
+; qPQh
+; qPQV
+; qW3
+; qWPh
+;!;/;6;N;V;
+;!;2;I;
+;!<?<y<
+;!q07!q`7!q
+;$;,;4;<;D;P;p;
+;%<L<U<m<u<
+;&;`;g;~;
+;&;4;;;I;P;^;e;s;z;
+;&;4;G;U;a;p;
+;&<+<
+;(;O;`;f;n;
+;(<Q<W<m<s<
+;);M;i;z;
+;)<i<
+;,<2<_<
+;.;=;L;`;v;
+;.;c;s;x;
+;.<H<
+;:;@;J;P;^;c;
+;:;R;p;
+;:;s;
+;';/;R;Z;q;|;
+;?;L;u;
+;@;K;V;_;m;x;
+;+;8;u;
+;<;E;X;];d;p;
+;<;X;a;m;
+;<;Y;b;o;
+;=;Y;
+;=<Q<]<i<u<
+;>;};
+;>;Y;
+;><P<
+;1;S;};
+;2<v<
+;3<q<
+;5;\;
+;5;b;s;
+;6<M<
+;7;H;s;
+;9;K;h;
+;9;M;j;y;
+;9<O<Z<k<~<
+;B;K;
+;I;[;o;t;
+;M;W;n;t;x;};
+;M<p<u<
+;V;c;t;
+? ?$?(?,?0?4?8?<?L?P?`?d?l?
+? ?-?A?Y?f?m?z?
+?!?;?T?
+?!q0@!q
+?"?.?:?F?R?^?j?v?
+?"?6?g?
+?"?M?V?q?
+?"?t?}?
+?#?2?P?W?
+?#?4?F?O?o?~?
+?#?F?U?\?
+?$?5?
+?&?4?
+?(?H?T?t?
+?)?0?:?V?^?t?
+?.?=?Z?m?
+?/?C?c?
+?:?X?{?
+?;?N?
+?'?/?4?\?
+???k?
+?@s-f
+?_Xlength_error@std@@YAXPBD@Z
+?+?[?~?
+?<?_?
+?>?G?
+?>?S?
+?0?n?
+?0?Q?
+?2?G?\?q?
+?9???V?\?q?{?
+?H?Q?X?
+?K?i?
+?Pt%j
+?R?k?
+@%WinDir%\system32\themecpl.dll,-1
+@.didat
+@.reloc
+@4 q,
+@t%q@
+@themeui.dll,-%d
+@Y qSV
+[%hs(%hs)]
+[%hs]
+[=8p%qt
+\!q W!q
+\!q0^!q
+\$ Ph<
+\$ PSjS
+\$(PQj
+\3%q"
+\Cursors
+\Ease of Access Themes
+\Microsoft\Windows\Shell\CreateObjectTask
+\Microsoft\Windows\Themes
+\Microsoft\Windows\Themes\Custom.theme
+\Microsoft\Windows\Themes\Roamed.theme
+\oem.theme
+\z%qt
+]!q ]!q
+]!q@]!q
+]!qP]!q
+^!qp`!q0
+_^[Y]
+__CxxFrameHandler3
+__std_terminate
+_0PSj
+_CxxThrowException
+_except_handler4_common
+_f90u
+_f9D$ 
+_initterm
+_initterm_e
+_o___std_exception_copy
+_o___std_exception_destroy
+_o___std_type_info_destroy_list
+_o___stdio_common_vsnprintf_s
+_o___stdio_common_vsprintf
+_o___stdio_common_vswprintf
+_o___stdio_common_vswscanf
+_o__cexit
+_o__CIsqrt
+_o__configure_narrow_argv
+_o__crt_atexit
+_o__errno
+_o__execute_onexit_table
+_o__get_errno
+_o__initialize_narrow_environment
+_o__initialize_onexit_table
+_o__invalid_parameter_noinfo
+_o__invalid_parameter_noinfo_noreturn
+_o__purecall
+_o__register_onexit_function
+_o__seh_filter_dll
+_o__set_errno
+_o__wcstoui64
+_o__wtoi
+_o_abort
+_o_iswspace
+_o_memcpy_s
+_o_towupper
+_o_wcsncpy_s
+` qhl
+`.data
+`t%qj(
+`t%qj(Y
+`t%qY
+`z%q 
+{%q`}!q
+{%q`4 q
+{%qX1 q
+{0AED6581-0330-4F3B-AF59-51479EBD1113}
+{1EB42FBD-9148-4EBF-924F-BAC3EEB48F32}
+{243BDDE4-9C9E-46E8-AC69-044C32825D15}
+{66E0B833-E210-4ABC-B1BD-2FE3666F84B6}
+{CD74DDA1-E8E9-4AE8-805A-81CC494BAB77}
+{F51434FA-A5B3-405E-8C31-41B5F747D993}
+|$$t&Q
+|C%q"
+|w%qf
+}1$_=C
+~>%q"
+~p_^]
+< <(<0<8<@<H<P<X<`<h<p<x<
+< <(<0<8<D<d<l<t<|<
+< <2<U<o<v<
+< <4<@<W<a<f<q<
+< qh8< q
+< qQf
+<!-- Copyright (c) Microsoft Corporation -->
+<!<&<+<0<5<:<?<J<Q<
+<!<.<Q<V<
+<!<'<z<
+<!<5<K<R<W<h<
+<"<=<P<U<`<o<
+<"<e<
+<"=(=F=
+<$<?<P<U<
+<$=1=H=Y=
+<$=F=M=
+<&<-<D<K<[<b<2=9=N=U=j=q=~=
+<&<3<s<
+<&=2=>=F=g=
+<(<:<k<
+<(<P<y<
+<)<0<7<><E<L<p<y<
+<,<2<
+<.<;<S<u<
+<.<b<v<
+</<;<f<o<~<
+</<J<
+</application>
+</assembly>
+</dependency>
+</trustInfo>
+<;=@=
+<?=w=
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<[ qQ
+<<=^=g=m=
+<<>U>
+<'<7<I<{<
+<'<c<h<
+<=<[<
+<'=<=I=b=g=
+<><G<U<m<v<
+<>=Z=|=
+<0@0H0P0h0
+<2<A<L<z<
+<3<I<P<Y<
+<4<D<O<\<k<q<
+<9<L<
+<application xmlns="urn:schemas-microsoft-com:asm.v3">
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+<assemblyIdentity
+<B<h<
+<c qQ
+<C<`<
+<dependency>
+<description>Windows Shell</description>
+<F<\<
+<H<]<
+<H=l=
+<K qVP
+<K=q=
+<L<f<
+<l<u<
+<M=R=
+<N=r=
+<r=y=
+<S=\=h=~=
+<SVWQQ
+<trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+<Z=c=k=
+= =(=0=8=@=H=P=X=`=h=p=x=
+= =(=0=8=D=d=l=t=|=
+=!=L=v=
+=!>a>n>
+=!>F>S>i>
+=#=2=9=U=
+=#>P>\>z>
+=$=+=2=9=D=J=R=Y=
+=%=>=
+=%=t=
+=&=<=D=K=W=h=x=
+=(=0=J=Y=^=f=l=u=
+=(=9=t={=
+=(>@>k>|>
+=(>M>
+=)=I=V=
+=*=3=c=l=
+=,=O=r=
+=,z%q
+=.=>=d=7>]>r>
+=;=A=
+=;>k>y>~>
+=?=/>o>
+=?>K>[>b>p>
+='?U?^?j?r?
+=@z%q
+=\z%q
+=]>b>
+=`z%q
+=|z%q
+=+=C=H=T=n=w=
+=+=j=v=~=
+=<|%q
+='=:=Y=w=
+=-=4=I=P=]=d=t={=
+=-=I=a=
+=->\>
+='>->e>
+=1=J=e=u=
+=2=C=P=
+=2>G>q>z>
+=5=?=D=O=s=
+=6===N=S=k=~=
+=7=@=h=}=
+=7=B=`=
+=8p%q
+=8p%qt
+=8p%qt!
+=8p%qt(
+=A=y=
+=C=Z=_=
+=dz%q
+=F=K=
+=H=N=i=}=
+=h>F?
+=hz%q
+=L>[>p>
+=Lz%q
+=R=X=
+=Tt%q
+=tz%q
+=Tz%q
+=Xz%q
+=xz%q
+> ?*?/?=?D?T?b?q?v?
+> >(>0>8>@>H>P>X>`>h>x>|>
+> >(>0>8>@>L>l>x>
+>!>3>
+>">0>9>[>b>
+>">9>A>H>N>_>
+>">9>N>
+>#?o?
+>#>2>i>
+>#>M>R>~>
+>$?^?
+>$>,>
+>$>G>_>
+>%>3>_>
+>&?2?
+>&>/>^>f>v>
+>&><>F>V>`>j>|>
+>&>2>G>g>
+>(>2>O>Y>h>
+>(>L>U>y>
+>*>f>
+>,?X?
+>.>6>Q>
+>;?W?s?
+>-???S?
+>@s5f
+>`>t>
+>+?R?j?
+>+?t?
+>=?W?m?
+>>%q"
+>'><>o>
+>0>>>C>^>
+>0>6>B>z>
+>3>U>^>
+>4%q"
+>7?<?A?
+>7?>?R?t?{?
+>8>]>g>v>
+>8>h>
+>9?N?
+>9?V?\?
+>9>L>x>
+>B>d>
+>D>j>
+>D>V>
+>J?o?z?
+>M?T?w?
+>M?W?n?|?
+>m>v>}>
+>N>S>c>
+>R?W?g?x?
+>V>t>
+>Z>_>
+0 0,0L0X0x0
+0 qPj
+0 qPSQ
+0!0.0B0r0{0
+0!1,181]1
+0!1-1D1a1m1
+0"0/0H0R0h0r0
+0"0+0E0N0f0x0
+0$0(0,0004080<0@0H0L0P0T0X0\0`0d0l0p0t0x0|0
+0$1*1R1<2C2
+0$1+1H1d1
+0$1G1|1
+0%0C0\0q0
+0%1_1
+0%161S1c1j1,2A2X2
+0&0^0
+0&0+040?0k0
+0&0T0
+0&111X1o1
+0&1Z1
+0(0-0F0K0X0
+0)0c0
+0)0L0b0y0
+0*0/0?0D0
+0,0V0`0
+0,161D1~1
+0.0j0
+0/0=0D0S0Y0z0
+0/1U1e1m1
+0+010M0a0p0
+0<0P0x0
+0'0[0b0
+0'010
+0-0P0
+0'101;1L1\1f1m1w1
+0'132~2D3
+03090h0n0
+04 q,
+040904B0
+041C1U1b1
+060P0Y0
+071F1Q1d1i1
+081\1d1j1
+0A1`1m1
+0A1w1}1
+0c qu
+0D0b0
+0E0S0X0k0
+0f;2u
+0G0c0n0y0
+0i0s0
+0J0Q0c0q0x0
+0J1q1
+0L0w0}0
+0L0z0
+0O0^0
+0S1Y1b1
+0t%q1E
+0t%q3
+0t%qQ3
+0t%qu
+0t%qVW
+0U0^0x0
+0U0t0
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+1 1(10141<1D1H1P1T1
+1 q8p%q
+1 qPj
+1!1-1G1}1
+1!1G1s1
+1!272`2t2{2
+1!2e2
+1!2M2
+1$1,181X1d1
+1$1L1l1
+1$2T2
+1(1m1u1{1
+1(1Z1c1l1
+1(262G2Q2b2p2y2
+1(272?2V2f2
+1)121<1N1
+1,1B1T1Y1r1}1
+1.13181>1T1Y1^1d1v1{1
+1.2]2
+1/1>1]1
+1/171l1s1
+1/1l1
+1/3;3N3i3
+1;1U1Z1k1
+1^1d1
+1+2U2t2
+1<1J1j1x1
+1=1g1m1
+1=2E2a2}2
+1>1N1t1z1
+10.0.22621.1017
+10.0.22621.1017 (WinBuild.160101.0800)
+101X1{1
+11>1R1b1r1
+14191>1D1\1a1f1l1
+1A1g1
+1b1h1
+1c1q1
+1C2X2q2
+1D2b2s2x2
+1d2k2+323R3Y3q3x3
+1E1~1
+1f;2u
+1H1t1
+1hT8 q
+1I2k2
+1J2R2Y2a2{2
+1N2X2j2
+1q1~1
+1shell\themes\themeui\textscale.cpp
+1U1_1
+1Z1o1{1
+1Z2c2n2u2
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+2 2(242T2\2h2
+2 qPj
+2!2F6
+2"222?2S2c2s2
+2#2L2
+2#3.3W3h3s3
+2#3L3
+2$2+2~2
+2$232G2
+2$3E3R3^3l3
+2%242
+2%3V3
+2&2_2
+2&2-2:2A2Q2X2h2o2
+2&3K3_3n3
+2&3S3`3r3
+2*222D2S2~2
+2*272O2n2t2
+2*2B2
+2?4F4
+2^2|2
+202C2Y2_2m2
+203]3
+21272
+212C2N2V2f2w2
+223?3V3g3s3
+2-2c2z2
+2'2E2T2
+2-2T2
+2-3;3X3e3l3~3
+2-3g3
+242?2V2g2
+243b3
+252G2k2
+272i2
+272N2T2q2w2
+273@3G3h3
+273>3Z3a3~3
+282Z2
+283Z6a6
+2A2H2
+2B2e2
+2B2O2T2Y2m2
+2C2b2n2w2
+2D3O3a3
+2E2R2^2}2
+2g2t2
+2g3v3
+2O3b3l3
+2R2_2v2}2
+2Rich
+2S2t2
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+3 3@3H3X3|3
+3 32393D3Q3p3v3
+3!3K3V3q3
+3#333C3S3c3t3
+3$4<4U4a4v4
+3%3<3i3
+3&31383S3a3g3m3s3y3
+3&363D3
+3&3G3P3Y3`3f3~3
+3)3/3v3|3
+3)424I4_4
+3)4M4d4v4
+3,3;3F3e3m3x3
+3,454
+3.3N3n3
+3.3O3d3q3
+3:3Y3d3l3r3
+3@3N3`3p3
+3+373O3o3{3
+3+3F3L3`3
+3+4f4
+3<3l3
+3<3V3[3l3q3
+3<4h4p4
+3=3K3j3
+303K3g3t3
+323X3u3
+324G4l4
+3-3=3N3S3
+3'313?3
+3-343G3N3Y3`3o3v3
+3'3x3
+3'434T4Z4_4r4
+363i3
+363O3j3q3
+3D4X4
+3F3T3y3
+3g4n4
+3I3[3s3:4@4L4Q4
+3K4R4
+3L3t3
+3N3V3f3
+3R4g4
+3r4z4
+3Y3}3
+3Y4l4~4
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+4 4V4{4
+4 qPh
+4!4)4N4x4
+4!4,4<4L4\4i4}4
+4"4:4X4w4
+4"5C5
+4#4<4J4Z4r4
+4#484`4
+4#4R6Y6
+4#5<5
+4$4/4?4H4Y4{4
+4$5*5M5V5x5
+4%404B4W4]4b4i4
+4&4-4B4I4V4]4p4w4
+4)5g5s5
+4*404
+4*595`5{5
+4,4@4W4
+4,454i4w4}4
+4,484X4d4
+4,4Y4o4|5
+4,595q5
+4.4L4k4v4
+4.535
+4.5b5
+4.5S5
+4/4:4v4
+4[ qu
+4+4K4g4s4|4
+40M0Y0
+41 qV
+414|4
+414Y4
+424`4
+424F4U4
+445`5
+4'4B4G4[4d4i4n4~4
+4-4P4s4
+4-4Q4
+474=4N4U4p4
+474T4
+494N4a4t4
+4C5v5
+4E4j4
+4E5n5{5
+4g4=5
+4J5b5
+4K4Y4o4
+4P5e5z5
+4q q3
+4Q4n4
+4R5Y5
+4t%q^
+4W5f5
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+5 5,5L5X5x5
+5 505@5P5`5p5
+5!515A5Q5
+5"5@5G5e5
+5"5\5
+5"5\5e5
+5"5'565;5E5K5|5
+5"5'5S5~5
+5#5/5N5{5 6)6X6
+5#5:5?5X5a5j5
+5#515J5`5x5
+5#535U5[5{5
+5#616t6
+5#6w6
+5%5A5U5[5
+5&5;5h5q5|5
+5&5c5o5u5{5
+5&5K5
+5&5R5Z5`5n5s5
+5(5/5<5C5P5W5
+5(z%q
+5)5]5o5
+5*5<5U5
+5*525N5b5j5v5
+5*6[6
+5/6h6
+5;5J5_5v5
+5;6F6P6_6
+5@{%q
+5`z%q
+5|z%q
+5+5F5f5n5s5
+5<{%q
+5<5B5w5
+5>5_5h5v5
+506>6
+50z%q
+526K6s6
+535:5_5
+535N5
+54{%q
+545;5K5R5
+555H5U5o5
+5-6@6P6
+5'606m6
+565F5Z5
+575k5r5w5
+576I6U6a6z6
+58 110 165
+586?6L6S6`6g6r6y6
+58p%qW
+59%q"
+5a6i6p6x6
+5E6l6u6
+5Hz%q
+5ineI
+5l6w6
+5Lz%q
+5lz%q
+5Lz%q
+5n5s5
+5ntel
+5P5c5
+5Pz%q3
+5T6\6e6
+5T6z6
+5tz%q
+5Xz%q
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+6!6B6S6
+6!7-797z7
+6"666<6}6
+6"6W6]6
+6$6<6@6\6`6p6
+6%636D6X6l6
+6%8+868=8B8H8
+6&6.6:6
+6)6.6u6
+6)6^6
+6*616=6D6
+6.636^6c6
+6.646P6V6m6s6
+6.656J6Q6^6e6
+6.6I6^6y6
+6.6Y6f6
+6:6D6h6
+6@6E6N6k6
+6^9}9N;
+6_7v8
+6+61676A6G6K6Q6U6c6i6
+6+666`6j6z6
+6+7C7o7
+6<6i6
+6<7E7
+6=6k6
+6=6N6Y6g6
+616@6I6N6g6p6v6
+616X6
+626?6S6`6t6
+656o6
+657C7\7d7k7r7x7
+6'616;6_6~6
+6-7@7p7
+686D6d6p6
+686f6
+686Y6
+687I7
+687N7\7
+6b6k6
+6B6W6b6
+6C6Z6
+6G6m6}6
+6G7M7j7
+6j6s6
+6N7W7
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+7 7A7
+7 8I8Y8j8
+7 qhxZ q
+7 qPh<
+7!q 8!q
+7!q`9!q
+7"7/7W7t7
+7"7'7-7
+7#8(8/8g8
+7$727?7L7Y7f7
+7$747I7S7\7a7
+7$787@7H7P7X7`7t7|7
+7%818l8y8
+7(7H7P7\7|7
+7)7@7F7L7R7X7^7d7
+7)7C7M7a7
+7*777?7D7t7
+7,72797C7Z7b7j7y7
+7.8@8K8]8
+7/7t7{7
+7:7C7L7f7l7
+7:7I7[7e7
+7;7]7b7
+7;7U7o7
+7;7Z7
+7;8Y8c8
+7[8m8~8
+7`7n7
+7+7;7K7[7k7
+7+8A8U8a8g8q8|8
+707;7D7
+717^7x7
+747^7p7
+767O7
+7'7\7{7
+7'7-7I7W7`7{7
+778<8L8\8a8q859@9S9
+7'7S7
+7-7V7[7
+787=7f7w7
+788V8a8
+7-8B8r8
+7-8w8
+7C7P7]7
+7I7g7
+7N7]7s7
+7P7V7
+7R7d7i7
+7R8j8z8
+7T7Y7
+7V8[8z8
+7X8_8
+8 8(8B8J8d8l8
+8 8,8<8
+8 qSj
+8!8)80878T8_8f8
+8!q09!q
+8#8*8U8b8i8
+8$8,848D8L8T8\8p8x8
+8%919Q9
+8&8K8
+8(929K9S9Y9g9s9
+8)8N8o8
+8,848H8P8d8l8
+8.9a9i9o9
+8:8b8h8}8
+8@8^8
+8@9Z9B:
+8\8t8
+8{%q3
+8<8b8
+8<8D8P8p8|8
+8<8Q8V8j8u8
+8<9`9~9
+818>8i8
+828<8
+828X8
+829O9l9}9
+848>8k8
+888A8J8c8
+889N9
+8'8H8c8l8
+8'9-9;9[9{9
+8A8Q8p8
+8B8Q8
+8B9S9
+8D<K<u<|<
+8J9R9X9i9
+8K8X8a8
+8K8Z8
+8l:s:
+8O8Y8b8h8|8
+8p%q;
+8p%q@|%q
+8p%q=8p%q
+8p%q=8p%qt
+8p%q=8p%qt'
+8p%q=8p%qt-
+8p%q=8p%qt 
+8p%q=8p%qt!
+8p%q=8p%qt"
+8p%q=8p%qt#
+8p%q=8p%qt$
+8p%q=8p%qt%
+8p%q=8p%qt&
+8p%q=8p%qt(
+8p%q=8p%qt)
+8p%q=8p%qt*
+8p%q=8p%qt,
+8p%q=8p%qt.
+8p%q=8p%qt/
+8p%q=8p%qt+
+8p%q=8p%qt>
+8p%q=8p%qt3
+8p%q=8p%qtA
+8p%q=8p%qtr
+8p%q=8p%qtR
+8p%qf
+8p%qj
+8p%qt
+8p%qt"
+8p%qt(
+8p%qt*
+8p%qtE
+8p%qtM
+8p9~9
+8R9V9\9`9q9
+8V9k9|9
+8W8]8
+9 :E:X:]:p:
+9 9(90989@9H9P9X9`9h9p9x9
+9 9C9{9
+9 9D9a9j9}9
+9 9N9g9
+9 qPQ
+9!:(:`:g:{:
+9!:2:C:m:
+9"9(949
+9"9o9
+9#9)9/9
+9#9`9o9
+9#9a9g9
+9%9,9
+9%949E9f9
+9(9@9o9
+9(90989@9H9P9X9`9h9p9x9
+9*9/9B9S9^9}9
+9*9_9d9
+9.9H9Z9l9v9
+9;9m9
+9?9i9n9y9
+9`9j9z9
+909<9\9h9
+90989R9Z9{9
+93uHWV
+949j9x9
+959Y9i9p9
+96:>:J:r:
+97:j:
+97s/j
+999G9V9|9
+9B9J9S9m9x9
+9b9k9
+9F:q:
+9F@t(9FDt#
+9h:o:
+9h:w:
+9H9g9u9
+9M:`:n:~:
+9N;|;
+9N59DJPG2G18
+9N6WZH11P7PH
+9NQ48RCBQ4LM
+9NRCB099Q5LV
+9NWHZJ3XFMJ7
+9P9b9
+9PN6SWSN93DC
+9R9W9p9
+9S:j:
+9s4t,
+9S9Y9y9
+9V:\:b:h:
+9wTtj
+9wTu2
+9X9q9
+A qhXB qh
+A qPW
+A qQP
+A!q0B!qPB!q
+AcquireSRWLockExclusive
+AcquireSRWLockShared
+ActivateActCtx
+ActiveBorder
+ActiveTitle
+ActivityError
+ActivityIntermediateStop
+ActivityStoppedAutomatically
+addend
+aero.msstyles
+AeroTest.msstyles
+Afternoon
+All themes
+AllowPersonalization
+AllowSpotlightCollection
+AllowWindowsSpotlight
+AnimationDuration
+AnyoneRead
+api-ms-win-core-com-l1-1-0.dll
+api-ms-win-core-debug-l1-1-0.dll
+api-ms-win-core-delayload-l1-1-0.dll
+api-ms-win-core-delayload-l1-1-1.dll
+api-ms-win-core-errorhandling-l1-1-0.dll
+api-ms-win-core-file-l1-1-0.dll
+api-ms-win-core-file-l1-2-4.dll
+api-ms-win-core-file-l2-1-2.dll
+api-ms-win-core-handle-l1-1-0.dll
+api-ms-win-core-heap-l1-1-0.dll
+api-ms-win-core-heap-l2-1-0.dll
+api-ms-win-core-interlocked-l1-1-0.dll
+api-ms-win-core-kernel32-legacy-l1-1-0.dll
+api-ms-win-core-libraryloader-l1-2-0.dll
+api-ms-win-core-libraryloader-l1-2-1.dll
+api-ms-win-core-localization-l1-2-0.dll
+api-ms-win-core-localization-obsolete-l1-2-0.dll
+api-ms-win-core-memory-l1-1-0.dll
+api-ms-win-core-path-l1-1-0.dll
+api-ms-win-core-privateprofile-l1-1-0.dll
+api-ms-win-core-privateprofile-l1-1-1.dll
+api-ms-win-core-processenvironment-l1-1-0.dll
+api-ms-win-core-processthreads-l1-1-0.dll
+api-ms-win-core-processthreads-l1-1-1.dll
+api-ms-win-core-profile-l1-1-0.dll
+api-ms-win-core-registry-l1-1-0.dll
+api-ms-win-core-registry-l2-1-0.dll
+api-ms-win-core-sidebyside-l1-1-0.dll
+api-ms-win-core-string-l1-1-0.dll
+api-ms-win-core-string-l2-1-0.dll
+api-ms-win-core-string-obsolete-l1-1-0.dll
+api-ms-win-core-synch-l1-1-0.dll
+api-ms-win-core-synch-l1-2-0.dll
+api-ms-win-core-synch-l1-2-1.dll
+api-ms-win-core-sysinfo-l1-1-0.dll
+api-ms-win-core-threadpool-l1-2-0.dll
+api-ms-win-core-winrt-l1-1-0.dll
+api-ms-win-core-winrt-string-l1-1-0.dll
+api-ms-win-crt-private-l1-1-0.dll
+api-ms-win-crt-runtime-l1-1-0.dll
+api-ms-win-crt-string-l1-1-0.dll
+api-ms-win-eventing-provider-l1-1-0.dll
+api-ms-win-security-base-l1-1-0.dll
+api-ms-win-security-sddl-l1-1-0.dll
+AppData
+AppearanceLaunchMSTheme
+Appevents\eventlabels\%s
+AppEvents\Schemes
+AppEvents\Schemes\
+AppEvents\Schemes\Apps
+AppEvents\Schemes\Apps\
+AppEvents\Schemes\Apps\.Default\.Default
+AppEvents\Schemes\Apps\.Default\AppGPFault
+AppEvents\Schemes\Apps\.Default\CCSelect
+AppEvents\Schemes\Apps\.Default\ChangeTheme
+AppEvents\Schemes\Apps\.Default\Close
+AppEvents\Schemes\Apps\.Default\CriticalBatteryAlarm
+AppEvents\Schemes\Apps\.Default\DeviceConnect
+AppEvents\Schemes\Apps\.Default\DeviceDisconnect
+AppEvents\Schemes\Apps\.Default\DeviceFail
+AppEvents\Schemes\Apps\.Default\FaxBeep
+AppEvents\Schemes\Apps\.Default\LowBatteryAlarm
+AppEvents\Schemes\Apps\.Default\MailBeep
+AppEvents\Schemes\Apps\.Default\Maximize
+AppEvents\Schemes\Apps\.Default\MenuCommand
+AppEvents\Schemes\Apps\.Default\MenuPopup
+AppEvents\Schemes\Apps\.Default\Minimize
+AppEvents\Schemes\Apps\.Default\Open
+AppEvents\Schemes\Apps\.Default\PrintComplete
+AppEvents\Schemes\Apps\.Default\RestoreDown
+AppEvents\Schemes\Apps\.Default\RestoreUp
+AppEvents\Schemes\Apps\.Default\ShowBand
+AppEvents\Schemes\Apps\.Default\SystemAsterisk
+AppEvents\Schemes\Apps\.Default\SystemExclamation
+AppEvents\Schemes\Apps\.Default\SystemExit
+AppEvents\Schemes\Apps\.Default\SystemHand
+AppEvents\Schemes\Apps\.Default\SystemNotification
+AppEvents\Schemes\Apps\.Default\SystemQuestion
+AppEvents\Schemes\Apps\.Default\WindowsLogoff
+AppEvents\Schemes\Apps\.Default\WindowsLogon
+AppEvents\Schemes\Apps\.Default\WindowsUAC
+AppEvents\Schemes\Apps\Explorer\ActivatingDocument
+AppEvents\Schemes\Apps\Explorer\BlockedPopup
+AppEvents\Schemes\Apps\Explorer\EmptyRecycleBin
+AppEvents\Schemes\Apps\Explorer\FaxError
+AppEvents\Schemes\Apps\Explorer\FaxLineRings
+AppEvents\Schemes\Apps\Explorer\FaxSent
+AppEvents\Schemes\Apps\Explorer\FeedDiscovered
+AppEvents\Schemes\Apps\Explorer\MoveMenuItem
+AppEvents\Schemes\Apps\Explorer\Navigating
+AppEvents\Schemes\Apps\Explorer\SearchProviderDiscovered
+AppEvents\Schemes\Apps\Explorer\SecurityBand
+AppEvents\Schemes\Apps\sapisvr\DisNumbersSound
+AppEvents\Schemes\Apps\sapisvr\HubOffSound
+AppEvents\Schemes\Apps\sapisvr\HubOnSound
+AppEvents\Schemes\Apps\sapisvr\HubSleepSound
+AppEvents\Schemes\Apps\sapisvr\MisrecoSound
+AppEvents\Schemes\Apps\sapisvr\PanelSound
+AppEvents\Schemes\Names
+AppEvents\Schemes\Names\
+AppEvents\Schemes\Names\Custom
+AppliedDPI
+AppMode
+AppStarting
+AppsUseLightTheme
+AppWorkspace
+Arrow
+AutoColorization
+B qh8S q
+B!q@C!q
+b!qPe!q
+B0S0j0o0t0z0
+Background
+background
+Background_Multimon
+Background_Path
+Background_TILE
+BackgroundSrc_Path
+bad allocation
+bad array new length
+BeginPaint
+BhT8 qhdU qQ
+BitBlt
+BrandIcon
+BrandImage
+bubbles
+ButtonAlternateFace
+ButtonDkShadow
+ButtonFace
+ButtonHilight
+ButtonLight
+ButtonShadow
+ButtonText
+buttonTextBackground
+buttonTextText
+C Ph@4 qQ
+C qPh
+C++/WinRT version:2.0.220110.5
+Cabinet.dll
+CabinetWClass
+callContext
+CallContext:[%hs] 
+callerModule
+callerReturnAddressOffset
+Calligraphy
+CallWindowProcW
+CaptionFont
+CBaseAppear::_ScaleSizesSinceDPIChanged() AFTER Apply(%d)->New(%d) on DPI chang
+CBaseAppear::_ScaleSizesSinceDPIChanged() BEFORE Apply(%d)->New(%d) on DPI chang
+CBaseAppearancePage::_SaveState() pushing to live
+Characters
+CharLowerW
+CharNextW
+CharUpperBuffW
+CheckDlgButton
+Cityscape
+CloseHandle
+CloseThreadpoolTimer
+CloseThreadpoolWork
+CLSID\{
+CLSID\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\DefaultIcon:DefaultValue
+CLSID\{59031A47-3F72-44A7-89C5-5595FE6B30EE}\DefaultIcon:DefaultValue
+CLSID\{645FF040-5081-101B-9F08-00AA002F954E}\DefaultIcon:empty
+CLSID\{645FF040-5081-101B-9F08-00AA002F954E}\DefaultIcon:full
+CLSID\{F02C1A0D-BE21-4350-88B0-7367FC96EF3C}\DefaultIcon:DefaultValue
+CLSIDFromString
+CoCreateCOMTaskServerObject
+CoCreateFreeThreadedMarshaler
+CoCreateGuid
+CoCreateInstance
+CoCreateInstanceAsSystem
+CoGetInterfaceAndReleaseStream
+CoGetMalloc
+CoIncrementMTAUsage
+CoInitialize
+CoInitializeEx
+Color
+ColorizationColor
+ColorName
+Colors
+ColorSetFromTheme
+ColorStyle
+CoMarshalInterThreadInterfaceInStream
+combase.dll
+comctl32.dll
+CompanyName
+CompareFileTime
+CompareStringOrdinal
+ContentDeliveryManager-License-ContentDeliveryAllowed
+contentId
+Control Panel\Accessibility\HighContrast
+Control Panel\Appearance
+Control Panel\Appearance\New Schemes\Current Settings SaveAll
+Control Panel\Colors
+Control Panel\Cursors
+Control Panel\Cursors\Schemes
+Control Panel\Desktop
+Control Panel\Desktop\WindowMetrics
+Control Panel\Personalization\Desktop Slideshow
+ConvertedWallpaper
+ConvertSidToStringSidW
+CopyFileW
+CopyRect
+CopySid
+CoReleaseMarshalData
+CoTaskMemAlloc
+CoTaskMemFree
+CoTaskMemRealloc
+CoUninitialize
+CoverWindowClass
+CreateActCtxW
+CreateCompatibleBitmap
+CreateCompatibleDC
+CreateDIBSection
+CreateDirectoryW
+CreateEventExW
+CreateEventW
+CreateFileMappingW
+CreateFileW
+CreateFontIndirectW
+CreateMutexExW
+CreateMutexW
+CreateProcessW
+CreatePropertySheetPageW
+CreateRectRgn
+CreateSemaphoreExW
+CreateSolidBrush
+CreateStreamOnHGlobal
+CreateThread
+CreateThreadpoolTimer
+CreateThreadpoolWork
+CreateWindowExW
+CreateWindowInBand
+Crosshair
+CryptAcquireContextW
+CryptCreateHash
+CryptDestroyHash
+CryptDestroyKey
+CryptHashData
+CryptImportKey
+CryptReleaseContext
+CRYPTSP.dll
+CryptVerifySignatureW
+Current
+Current theme only
+currentContextId
+currentContextMessage
+currentContextName
+CurrentTheme
+CursorType
+Custom
+CustomThemeBackgrounds
+CustomThemeRTM
+CXRRf
+d!q@e!q0e!q e!q
+D$ Pj
+D$ PQ
+D$ PSjT
+D$$Ph
+D$$Pj
+D$$PQ
+D$$PSSh
+D$$PSShDS q
+D$(PhdU q
+D$(Pj
+D$(PQ
+D$(PSj
+D$,Ph
+D$,PQQ
+D$@PQQ
+D$`SV
+D$<VW
+D$4PQ
+D$hPQ
+D$HPQQ
+D$L(e q8Y
+D$lPh
+D$LPV
+D$lPW
+D$PdU q
+D$PPh(
+D$PPj
+D$TPh
+D$TSV
+D$TVW
+d:%q"
+D:(A;CIOI;KA;;;SY)(A;CIOI;KA;;;LA)(A;CIOI;KR;;;WD)
+D;%q"
+D{%qt:3
+DABJDKT
+DeactivateActCtx
+DebugBreak
+DefaultMetrics
+DefaultSystemMetrics
+DefaultThemeId
+DefaultValue
+DefaultVisualStyleOff
+DefaultVisualStyleOn
+DefWindowProcW
+DelayLoadFailureHook
+DeleteCriticalSection
+DeleteDC
+DeleteFileW
+DeleteObject
+Delta
+desk.cpl
+Desktop
+DesktopBackground
+DesktopSpotlightEnabled
+DestroyIcon
+DestroyPropertySheetPage
+DestroyWindow
+disabledText
+DisableEnclosureDownload
+DisableSpotlightCollectionOnDesktop
+DisableThreadLibraryCalls
+DisableWindowsSpotlightFeatures
+DispatchMessageW
+DisplayName
+DllCanUnloadNow
+DllGetActivationFactory
+DllGetClassObject
+DllInstall
+DllName
+DO NOT
+DosDateTimeToFileTime
+DrawIconEx
+DrawTextW
+DuplicateHandle
+dV%q"
+dwmapi.dll
+Dz%q@
+dz%qt
+e qj+
+e qQV
+e qWV
+e!q@f!q
+E0N0Z0b0y0
+eB%q"
+Education
+empty
+enabled
+EnabledFeatureUsage
+EnableEduThemes
+EnableWindow
+EndPaint
+EndTask
+EnterCriticalSection
+EnumChildWindows
+EnumWindows
+en-US
+EtwEventActivityIdControl
+EtwEventRegister
+EtwEventSetInformation
+EtwEventUnregister
+EtwEventWriteTransfer
+EtwGetTraceEnableFlags
+EtwGetTraceEnableLevel
+EtwGetTraceLoggerHandle
+EtwRegisterTraceGuidsW
+EtwTraceMessage
+EtwUnregisterTraceGuids
+EventActivityIdControl
+EventWriteTransfer
+ew|>&=4_
+Exception
+ExcludeFromCPL
+ExpandEnvironmentStringsW
+Experience
+ExtFloodFill
+ext-ms-win-com-sta-l1-1-0.dll
+ext-ms-win-devmgmt-policy-l1-1-0.dll
+ext-ms-win-devmgmt-policy-l1-1-1.dll
+ExtractIconW
+f q0g q
+f qPf q
+f!q@e!q0e!q e!q
+F!qPG!qpN!q
+F;t$ r
+F0T0g0{0
+f9\$(tz
+f9~"t
+f99Yu
+f9D$ u
+f9D$^r
+Failed to apply desktop background.
+Failed to apply desktop icons.
+Failed to apply desktop spotlight
+Failed to apply glass color.
+Failed to apply immersive color modes.
+Failed to apply logon background flag.
+Failed to apply mouse pointers.
+Failed to apply sounds.
+Failed to apply visual style.
+FailFast
+Failure to add file to themepack
+failureCount
+failureId
+failureType
+FallbackError
+FALSE
+false
+featureBaseVersion
+FeatureError
+featureId
+featureStage
+FeatureUsage
+FeatureVariantUsage
+featureVersion
+Festival
+FileDescription
+fileName
+FileTimeToDosDateTime
+FileTimeToLocalFileTime
+FileVersion
+FillRect
+FindClose
+FindFirstFileExW
+FindFirstFileW
+FindNextFileW
+FindStringOrdinal
+FindWindowExW
+FindWindowW
+Flags
+ForceDWMColorization
+FormatMessageW
+FreeLibrary
+FreeLibraryAndExitThread
+Fullscreen
+FullscreenCXHRunning
+function
+G.%q"
+G0M0d0~0
+G0N0l0
+g7gNULL
+Garden
+GDI32.dll
+GdiAlphaBlend
+GetClassInfoW
+GetClassNameW
+GetClientRect
+GetCurrentProcess
+GetCurrentProcessId
+GetCurrentThemeName
+GetCurrentThread
+GetCurrentThreadId
+GetDC
+GetDeviceCaps
+GetDiskFreeSpaceExW
+GetDlgCtrlID
+GetDlgItem
+GetDlgItemInt
+GetExitCodeThread
+GetFileAttributesExW
+GetFileSize
+GetFocus
+GetLastError
+GetLengthSid
+GetLocaleInfoW
+GetLongPathNameW
+GetMessageW
+GetModuleFileNameA
+GetModuleFileNameW
+GetModuleHandleExA
+GetModuleHandleExW
+GetModuleHandleW
+GetMonitorInfoW
+GetNumberFormatW
+GetObjectW
+GetParent
+GetPixel
+GetPrivateProfileStringW
+GetProcAddress
+GetProcessHeap
+GetRegionData
+GetShellWindow
+GetStockObject
+GetSysColor
+GetSysColorBrush
+GetSystemDirectoryW
+GetSystemMetrics
+GetSystemTimeAsFileTime
+GetTempFileNameW
+GetTempPath2W
+GetThemeDocumentationProperty
+GetTickCount
+GetTokenInformation
+GetUserDefaultUILanguage
+GetUserNameExW
+GetWindow
+GetWindowLongW
+GetWindowsDirectoryW
+Global\ShellCreateObjectTaskReadyEvent
+GradientActiveTitle
+GradientInactiveTitle
+GrayText
+h , q
+h A q
+h a q
+h A q
+h a qj
+h E%q
+h P qh
+h qxe q
+h!:%qd
+H!q0H!qPH!q@?!q
+h$* q
+h$W qh
+h$W qS
+h(l qj
+h(n qh
+h(V%q
+h,i qhPi q
+h,K qW
+h,o q
+h,Y q
+h,Y qQ
+h,Y%q
+h;-%qd
+h?C%qd
+h@, q
+h@E%q
+h@H q
+h\l qj
+h\Y%q
+H` qPQh<` q
+h`2 q
+h`2 qh
+h`2 qW
+h`b q
+h`b qVh
+h|%q3
+h|%qA
+h|%qh
+h|* q
+h|b q
+h|Y%q
+h<0%qd
+h<W qS
+h<W%q
+h<Y%q
+h0. q
+h0[ qj
+h0a qh
+h0E%q
+h1 qP
+h31%qd
+h4l qh
+h4m qj
+h8e q
+h8k q
+h8T q
+HD qPh4D q
+hD* q
+hD3 qW
+hdB q
+hdB qf
+hdB qj
+hdB qV
+hDK qP
+hDl qh
+hDT q
+HeapAlloc
+HeapFree
+HeapReAlloc
+Heritage
+hH7 qh
+hHb qj
+hHc qVh
+hhd q
+hhI q
+hhI qS
+hHj q
+hHj qS
+hHK qV
+hhl q
+hhl qh
+hHV%q
+hHW qh
+hHW qS
+High Contrast Scheme
+HighContrast
+HighContrastEnabled
+Hilight
+HilightText
+hj/%qd
+hl. q
+hln qhxn q
+hLP qj
+hLW%q
+hlY%q
+hLY%q
+HotTrackingColor
+hp. q
+hP[ qQ
+hpA q
+hpa qj
+hpE q
+hPE%q
+hpi qhPi q
+hPk q
+hPn qh
+hresult
+Ht%q@
+hT8 q
+hT8 qj
+hTA q
+hTb qj
+hX- qW
+hX< q
+hX6 qh
+hxl qh
+hxX q
+hyperlinks
+hz%qt
+hz%qu
+hz%quoSS
+i qhPi q
+I qPQh
+I qVj
+I#qpJ#q
+I@%q"
+IBeam
+IconFont
+IconMetrics
+idPowerSettings
+Image
+IMAGE
+ImagesRoot
+ImagesRootPath
+ImagesRootPIDL
+ImmersiveColorSet
+InactiveBorder
+InactiveTitle
+InactiveTitleText
+InflateRect
+InfoText
+InfoWindow
+InitCommonControlsEx
+InitializeCriticalSection
+InitializeCriticalSectionEx
+InitializeSListHead
+InitOnceBeginInitialize
+InitOnceComplete
+InitPropVariantFromCLSID
+InstallTheme
+InstallThemeLight
+InstallVisualStyle
+InstallVisualStyleColor
+InstallVisualStyleSize
+InterlockedPushEntrySList
+internal\shellcommondesktopbase\inc\contentdeliverymanager\desktopspotlighthelpers.h
+InternalName
+Interval
+InvalidateRect
+is not
+IsCharUpperW
+IsCompositionActive
+IsDebuggerPresent
+IsDlgButtonChecked
+isFirstLogin
+isHighContrast
+isLightThemeEnabled
+IsProcessDPIAware
+IsProcessorFeaturePresent
+IsThemeActive
+isThemeNewCustom
+isThemeOldCustom
+IStream_Reset
+IStream_Size
+IsValidSid
+IsWindow
+Item%uPath
+IUnknown_Set
+IUnknown_SetSite
+j Pj{
+j Pj{h
+j Pj~
+j qh,Y q
+j qhPi q
+J qWh
+j Xf;
+j Yf9
+j Yj:Z
+j:Yj Z
+j\Xf;
+j\XPj
+j`[SW
+j`YjXW
+j0%q"
+jB^f;
+jCXf;
+j'Phlo q
+k qh,Y q
+kernelbase.dll
+KillTimer
+kW<<;
+L q(L q<L qPL q`L qT8 q
+L qj+
+L qSV
+L#q`7!q@L#q0K#q
+L$ jCXS
+L$,^3
+L$,jxZ
+L$\^[3
+L$\_^3
+L$4^3
+L$D_^3
+L$hQW
+l. qVWjbZ
+Landscape
+landscapeImage
+LangID
+LastHighContrastTheme
+LastTickHigh
+LastTickLow
+LastUpdatedThemeId
+LaunchCflScenario
+LaunchUserOOBE
+LCMapStringW
+LeaveCriticalSection
+LegalCopyright
+length
+lH qPQ
+Light
+lineNumber
+LoadCursorW
+LoadIconW
+LoadLibraryExW
+LoadLibraryW
+LoadStringW
+Local\%s{34C08E7C-946E-4C99-BBD6-B810626DCF83}
+Local\%s{A82C030A-ED47-42FA-97A6-00186F63438A}
+Local\SM0:%lu:%lu:%hs
+LocalAlloc
+LocalFileTimeToFileTime
+LocalFree
+LogHr
+LogNt
+LogStagedFeatureUsage
+lstrcmpiW
+lstrlenW
+Lt%q[3
+M q`O qhN q
+M!q N!q
+MapViewOfFile
+MasterThemeSelector
+MediaPath
+memcmp
+memcpy
+memmove
+memset
+MenuBar
+MenuFont
+MenuHilight
+MenuText
+message
+MessageBoxW
+MessageFont
+Metrics
+MicroImageDir
+Microsoft
+Microsoft Corporation
+Microsoft Visual Style Signature
+Microsoft.PowerOptions
+Microsoft.Windows.Shell.CoCreateInstanceAsSystem
+Microsoft.Windows.Shell.Desktop.Themes
+Microsoft.Windows.Wil.FeatureLogging
+Microsoft\Windows\Themes\
+MicrosoftCorporationII.Flowerlight_8wekyb3d8bbwe
+MicrosoftTelemetryAssertTriggeredUM
+MicroThemePackDir
+module
+MonitorFromPoint
+MoveWindow
+Msg:[%ws] 
+MsgWaitForMultipleObjects
+msvcp_win.dll
+MulDiv
+MultiByteToWideChar
+MultimonBackgrounds
+mystify
+N q|N q4N qLM q
+N!q@N!q
+N!q@O#q
+N!q`N!q
+N!q0O#q
+N!qPN!q
+n0u0]1a1e1
+NewCurrent
+newHCTheme
+NoCoverWindow
+NonclientMetrics
+NormalColor
+NormalSize
+NoThemeInstall
+ntdll.dll
+NtQuerySystemInformation
+NtQueryWnfStateData
+NtUpdateWnfStateData
+NWPen
+oem.theme
+OEMBackground
+OffsetRect
+oldHCTheme
+OLEAUT32.dll
+onecore\internal\sdk\inc\wil/Staging.h
+onecore\internal\sdk\inc\wil\opensource/wil/result.h
+onecore\internal\sdk\inc\wil\opensource\wil\resource.h
+OpenEventW
+OpenIcon
+OpenProcessToken
+OpenSemaphoreW
+OpenThreadToken
+OriginalFilename
+originatingContextId
+originatingContextMessage
+originatingContextName
+originCallerModule
+originCallerReturnAddressOffset
+originFile
+originLineNumber
+originModule
+originName
+OutputDebugStringW
+P!q@P!q
+p%qPPh
+P, q;
+P, q3
+P, qPj
+page=SettingsPageThemes
+PartA_PrivTags
+PathAddBackslashW
+PathAppendW
+PathCchAddExtension
+PathCchAppend
+PathCchCanonicalize
+PathCchCombine
+PathCchRenameExtension
+PathCombineW
+PathCommonPrefixW
+PathFileExistsW
+PathFindExtensionW
+PathFindFileNameW
+PathFindNextComponentW
+PathIsDirectoryW
+PathIsFileSpecW
+PathIsPrefixW
+PathIsRelativeW
+PathQuoteSpacesW
+PathRemoveExtensionW
+PathRemoveFileSpecA
+PathRemoveFileSpecW
+PathStripPathA
+PathStripToRootW
+PathUnExpandEnvStringsW
+pc qPQh
+PCSVRQ
+PeekMessageW
+Personalization-Enabled
+PersonalizationThemeChangeListener
+Ph 4 qQ
+Ph$j q
+Ph$q qV
+Ph$W q
+Ph$W qP
+Ph(d qj
+Ph,Y q
+Ph@Y q
+Ph`2 qh
+Ph`2 qV
+Ph|* q
+Ph|K q
+Ph|K qV
+Ph|K qW
+Ph|R q
+Ph<o qhXB q
+Ph0{$q
+Ph04 qQ
+Ph4U qj
+Ph8d qj
+PhdC q
+PhdY qV
+Phh. q
+PhHd qQ
+PhHd qWQ
+Phhj q
+PhhP qQ
+PhhS q3
+PhLP q
+photoscreensaver
+Php4 qh,Y q
+Php4 qSQ
+PhpE q
+PhpE qh
+PhpL q3
+PhT8 qh
+PhT8 qhhj qh
+PhT8 qhHj qh
+PhT8 qhHW qh
+PhtI q
+PhtI qP
+PhTP q
+PhTP qQ
+PhX< q
+PhXB q
+PhXB qh
+PhXd qj
+Phxl qh
+PhxZ q
+PicturePosition
+Pj@WV
+Pk qSVW
+pK qWVQ
+PlaySoundW
+PolicyManager_FreeGetPolicyData
+PolicyManager_GetPolicy
+PolicyManager_GetPolicyInt
+PolicyManager_IsPolicySetByMobileDeviceManager
+portraitImage
+PostMessageW
+PostQuitMessage
+PostThreadMessageW
+PPh,i qhPi q
+PPh`i qhPi q
+PPhpi qhPi q
+PPPPh
+PPPPPP
+PQhh: q
+PQhHc q
+PQQh`
+PQQSVW
+PQRj;h
+PQRj+
+PQRjAh
+PQSVW
+PreApplyHighContrastState
+Pre-High Contrast Scheme
+Previous High Contrast Scheme MUI Ptr
+Previous High Contrast Scheme MUI Value
+process
+ProductName
+ProductVersion
+PROPSYS.dll
+PropVariantClear
+PropVariantToBSTR
+PropVariantToGUID
+PropVariantToInt32
+PropVariantToStringAlloc
+PropVariantToUInt32
+PSCreateMemoryPropertyStore
+PSPropertyBag_ReadBOOL
+PSPropertyBag_ReadDWORD
+PSPropertyBag_ReadStr
+PSPropertyBag_ReadUnknown
+PSPropertyBag_WriteBOOL
+PSPropertyBag_WriteDWORD
+PSPropertyBag_WriteStr
+PSPropertyBag_WriteUnknown
+PSSh 
+PSSh P q
+PSSh@
+PSSh`
+PSShp
+PSShP
+PSShp
+PSSSSSSVh
+Pt%q;
+Pt%qV
+PVhhj qh
+PVjMhxd q
+PVWhp
+PVWQRj+
+PWh8k qS
+PWhhj qh
+PWhPk qS
+PWjJV
+PWVhHm qh
+PWVSR
+PWVSRj
+PWWWW
+Qh a qQ
+Qh(d qP
+Qh@, q
+Qh\; qj
+Qh8p qP
+QhdB qQ
+QhHp qP
+QPh4D q
+QPPhp
+QQh(0 q
+QQhl. q
+QQhp. q
+QQSPj
+QQSVW
+QQSVW3
+QQSVWj
+QQSVWj X
+QQSVWj,
+QQVW3
+QRPh(\%q
+QRPhh[%q
+QRPhH[%q
+QRPhh\%q
+QRPhH\%q
+QSVWj,
+QSWh8
+QueryPerformanceCounter
+Quirky
+QVQPQQQQh
+QWQQ3
+r"%q1"%qR"%qb"%q
+R#qPS#q
+r^Wh,Y qh
+RaiseException
+RaiseFailFastException
+ReadFile
+RedrawWindow
+RegCloseKey
+RegCreateKeyExW
+RegDeleteKeyW
+RegDeleteValueW
+RegEnumKeyExW
+RegEnumValueW
+RegGetValueW
+RegisterClassExW
+RegisterClassW
+RegOpenKeyExW
+RegQueryInfoKeyW
+RegQueryValueExW
+RegSetValueExW
+ReleaseActCtx
+ReleaseDC
+ReleaseMutex
+ReleaseSemaphore
+ReleaseSRWLockExclusive
+ReleaseSRWLockShared
+ResetEvent
+ResolveDelayLoadedAPI
+RestoreDC
+ResumeThread
+ReturnHr
+ReturnNt
+ribbons
+RJSPBS
+RoActivateInstance
+Roamed.theme
+RoamedThemeFiles
+RoGetActivationFactory
+RoOriginateLanguageException
+RQhXB qh
+RQj*Y
+RSQWPV
+RssFeed
+RtlDisownModuleHeapAllocation
+RtlDllShutdownInProgress
+RtlNotifyFeatureUsage
+RtlNtStatusToDosErrorNoTeb
+RtlQueryFeatureConfiguration
+RtlRegisterFeatureConfigurationChangeNotification
+RtlUnregisterFeatureConfigurationChangeNotification
+S#q R#q
+s(Vh@4 qj
+s,Vh@4 qj
+Savanna
+SaveDC
+ScanSystemDirOnly
+Scheme Source
+SchemeLangID
+SchemeName
+ScreenSaveActive
+ScreenSaveMaxTimeOut
+ScreenSaver_Path
+ScreenSaverIsSecure
+ScreenSaverPowerButton
+ScreenSaverSettingsButton
+ScreenSaveTimeOut
+SCRNSAVE
+scrnsave
+SCRNSAVE.EXE
+Scrollbar
+Sdtohd
+selectedTextBackground
+selectedTextText
+SelectObject
+SendDlgItemMessageW
+SendMessageTimeoutW
+SendMessageW
+SendNotifyMessageW
+SetBkMode
+SetCursor
+SetDlgItemInt
+SetDlgItemTextW
+SetEvent
+SetFileAttributesW
+SetFilePointer
+SetFileTime
+SetForegroundWindow
+SetLastError
+SetLayout
+SetLogonBackground
+SetMagicColors
+SetStretchBltMode
+SetSysColors
+SetTextColor
+SetThreadpoolTimer
+SetTimer
+Settings_DPIAppliedValue
+Settings_DPIModifiedValue
+SetUnhandledExceptionFilter
+SetupThemeForUser
+SetupVersion
+SetVisualStyle
+SetWindowLongW
+Sh@Y q
+Sh\; qj
+Sh<o qh
+Sh4* q
+SHChangeNotify
+SHCORE.dll
+SHCreateItemFromIDList
+SHCreateItemFromParsingName
+SHCreateItemWithParent
+SHCreateShellItemArrayFromIDLists
+SHCreateShellItemArrayFromShellItem
+SHCreateStreamOnFileEx
+SHCreateThread
+SHCreateThreadWithHandle
+SHDeleteKeyW
+SHDeleteValueW
+Shell Icon Size
+Shell Small Icon Size
+shell\lib\comtaskserverutil.cpp
+shell\themes\themepack\lib\themepackmanager.cpp
+shell\themes\themeui\dllreg.cpp
+shell\themes\themeui\themeapply.cpp
+shell\themes\themeui\themefile.cpp
+shell\themes\themeui\thememanager.cpp
+shell\themes\themeui\themeutils.cpp
+SHELL32.dll
+SHFileOperationW
+SHGetFolderPathEx
+SHGetIDListFromObject
+SHGetKnownFolderPath
+SHGetNameFromIDList
+SHGetValueW
+Shl. q
+SHLWAPI.dll
+ShowWindow
+Shp4 q
+SHParseDisplayName
+SHQueryRecycleBinW
+SHRegGetPathW
+SHRegGetUSValueW
+SHRegGetValueW
+SHRegSetPathW
+SHSetValueW
+SHStrDupW
+Shuffle
+SHUnicodeToUnicode
+SizeAll
+SizeName
+SizeNESW
+SizeNS
+SizeNWSE
+SizeWE
+Sleep
+Slideshow
+slideshow.ini
+SlideshowDisabled
+SlideshowEnabled
+SmCaptionFont
+Software\Classes\%s
+Software\Microsoft\Accessibility
+Software\Microsoft\Plus!\Themes\Current
+Software\Microsoft\Windows NT\CurrentVersion\ScreenSavers
+SOFTWARE\Microsoft\Windows\CurrentVersion
+SOFTWARE\Microsoft\Windows\CurrentVersion\Authentication\CFL\ExperienceManagerData
+SOFTWARE\Microsoft\Windows\CurrentVersion\Authentication\LogonUI\Background
+Software\Microsoft\Windows\CurrentVersion\Authentication\LogonUI\Background
+SOFTWARE\Microsoft\Windows\CurrentVersion\CloudExperienceHost
+SOFTWARE\Microsoft\Windows\CurrentVersion\Control Panel\Cursors\Default
+Software\Microsoft\Windows\CurrentVersion\Control Panel\Glass Colorization\Swatches
+Software\Microsoft\Windows\CurrentVersion\Explorer
+Software\Microsoft\Windows\CurrentVersion\Explorer\CLSID\{645FF040-5081-101B-9F08-00AA002F954E}\DefaultIcon
+Software\Microsoft\Windows\CurrentVersion\Explorer\DesktopOptimization
+Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.theme\UserChoice
+Software\Microsoft\Windows\CurrentVersion\Explorer\Wallpapers\Images
+Software\Microsoft\Windows\CurrentVersion\Lock Screen
+SOFTWARE\Microsoft\Windows\CurrentVersion\OOBE
+SOFTWARE\Microsoft\Windows\CurrentVersion\Personalization
+Software\Microsoft\Windows\CurrentVersion\Policies\System
+SOFTWARE\Microsoft\Windows\CurrentVersion\SystemProtectedUserData
+Software\Microsoft\Windows\CurrentVersion\ThemeManager
+Software\Microsoft\Windows\CurrentVersion\Themes
+Software\Microsoft\Windows\CurrentVersion\Themes\HighContrast
+Software\Microsoft\Windows\CurrentVersion\Themes\InstalledThemes\SQM
+Software\Microsoft\Windows\CurrentVersion\Themes\LastTheme
+SOFTWARE\Microsoft\Windows\CurrentVersion\Themes\Personalize
+SOFTWARE\Microsoft\Windows\CurrentVersion\Themes\Spotlight
+Software\Microsoft\Windows\CurrentVersion\Themes\VisualStyleDirs
+Software\Microsoft\Windows\DWM
+Software\Policies\Microsoft\Internet Explorer\Feeds
+Software\Policies\Microsoft\Windows\CloudContent
+Software\Policies\Microsoft\Windows\Control Panel\Desktop
+Software\Policies\Microsoft\Windows\Personalization
+Sonata
+Sounds
+SPhT8 qhln qhxn q
+spotlight
+spotlight.theme
+SS;FX
+SSDemoParent
+SSjW3
+SspiCli.dll
+SSShH` qh
+SSSjy
+SSSRV
+SSSSSSS
+sstext3d
+StatusFont
+StrChrW
+StrCmpIW
+StrCmpNIW
+StrCmpNW
+StrCmpW
+StrDupW
+StretchBlt
+StrFormatByteSizeW
+string too long
+StringFileInfo
+StringFromCLSID
+StringFromGUID2
+StrRChrA
+StrRChrW
+StrRStrIW
+StrStrIW
+StrStrW
+StrToIntExW
+StrToIntW
+StrTrimW
+SubmitThreadpoolWork
+SVWh@
+SVWj Pj
+SVWPj
+SVWQh
+sysmetrics
+System.FileName
+system.ini
+SystemMetrics
+SystemMetricsAll_Load() AFTER P->DPI loading AppearSchm
+SystemMetricsAll_Load() BEFORE P->DPI loading AppearSchm
+SystemMode
+SystemModeColorChanged
+SystemParametersInfoW
+SystemUsesLightTheme
+Sz(Brdr=%d, Scrl=%d, Cap=%d, Menu=%d, Icon=%d, DXIn=%d) Ft(Cap=%d(%d), SmCap=%d(%d), Menu=%d(%d), Stus=%d(%d), Msg=%d(%d))
+T qSj
+t QWQ
+t"jXV
+t#QPQ
+T$(RP
+T$,h Y qP
+T$0QQV
+t$4PVVV
+t$pj Y
+T$pRQ
+t$Vh,Y q
+t%95L
+t&VhX8 q
+t:SPj
+t=QSQ
+t1f92t,
+t5Wh<o qhXB q
+T8 q3
+T8 qP
+T8 qPVhHj qh
+T8 qQPj
+T8 qS
+T8 qY
+t9hhP q
+TaskDialog
+TaskDialogIndirect
+TerminateProcess
+TextScaleFactor
+Theme
+Theme_ApplySettings
+Theme_CustomizeTheme
+Theme_HasSystemMetrics
+themea
+ThemeApply
+themeApplyFlags
+ThemeApplySoundPlayed
+themeb
+themec
+ThemeChangesDesktopIcons
+ThemeChangesMousePointers
+themed
+ThemeFile
+ThemeFilter:
+ThemeId
+ThemeLaunchTheme
+ThemeName
+themePackFlags
+Themes
+ThemesServiceDisabled
+THEMEUI
+ThemeUI.dll
+ThemeUI.DLL
+ThemeUI.pdb
+threadId
+TileWallpaper
+TitleText
+tLWh,Y qh
+tmF;5L
+tP90uLWVh`
+TranslateMessage
+Translation
+TSVjD3
+tuj\XPj
+-tw%q
+Tz%qu)
+U qj+
+U qWQ
+u!SVj
+u$hD/ q
+u$WSQ
+u%q_^
+u%qW3
+u@f9D$
+u+j0Xj1Zf;E
+u=j,P
+u0h0u
+u19D$ 
+u9Sj@
+u'hd/ q
+UnhandledExceptionFilter
+Unknown exception
+UnmapViewOfFile
+UnregisterClassW
+uOf9D$
+UpArrow
+UrlCompareW
+USER32.DLL
+USER32.dll
+UWPAppsUseLightTheme
+UxTheme.dll
+v h . qWP
+V!q`]!q0]!q
+v$h4- qW
+v%qtFh
+V@1l|=
+V<%q"
+V1%q"
+ValidateRect
+VarFileInfo
+variant
+variantKind
+Vh$j q
+Vh(9 qh
+Vh@2 qW
+Vh@Y q
+Vh`2!q
+Vh`3 qW
+Vh|* q
+Vh0. q
+Vh4* q
+VhdB qVP
+VhdY q
+Vhl. q
+Vhpj!q
+VhX< q
+VisualStyle_Color
+VisualStyle_Path
+VisualStyle_Size
+VisualStyles
+VisualStyleVersion
+VPj@Z
+VPQj)
+VPWWh 
+VQhx^ qQ
+VS_VERSION_INFO
+VSBehavior_FlatMenus
+vThl- qWP
+VVh8k qW
+VVhPk qW
+VVVhX
+VVVVVh
+VVVVVVV
+VVWjph
+VWjkZ
+VWPhT8 qhln qhxn q
+W qj(
+W qj+
+W qPP
+W qVh
+W%q W%q
+w.%q"
+w=PVQ
+w1P9u
+WaitForInputIdle
+WaitForMultipleObjects
+WaitForSingleObject
+WaitForSingleObjectEx
+WaitForThreadpoolTimerCallbacks
+Wallpaper
+WallpaperSetFromTheme
+WallpaperStyle
+WallpaperWriteTime
+wcschr
+wcscspn
+wcsstr
+wD9wHt
+WEVT_TEMPLATE
+Wh,Y qh
+Wh,Y qQ
+Wh@Y q
+Whpk q
+WhT* qW
+WhTW q
+WideCharToMultiByte
+wilActivity
+WilError_03
+WilFailureNotifyWatchers
+wilResult
+WilStaging_02
+Window
+WindowColor
+WindowFrame
+Windows
+Windows Theme API
+windows.immersivecontrolpanel_cw5n1h2txyewy!microsoft.windows.immersivecontrolpanel
+Windows.Services.TargetedContent.Internal.TargetedContentSubscriptionInternal
+WindowsCreateStringReference
+WindowsSpotlight
+WindowsSpotlightTheme
+WindowsThemeElement
+WindowsUdk.Management.Deployment.PackageManager
+WindowText
+WINMM.dll
+WinSqmAddToStream
+WinSqmIncrementDWORD
+WinSqmIsOptedIn
+WinSqmSetDWORD
+WJ?,C
+WPhpE q
+WPSSh 
+WriteFile
+WritePrivateProfileSectionW
+WRQhXB q
+WWhhj qS
+WWWWj
+X qj:
+X qj>
+X qj6
+X qjB
+x"h A q
+x$ShT
+x@f9\$(t9
+x@Sh`
+X[_^]
+x[jBXf
+x=f9\$(t6
+x>jPY
+x5Php
+x6h A q
+X8 q3
+X8 qj
+X8 qPj
+X8 qPVWQRj+
+X8 qSj
+X8 qWj
+X8 qWQRj
+xbSh<o qhXB q
+xg;D$
+xg9|$
+x-h A q
+xjVj:
+xKh A q
+xohdB q
+Xp qdp qtp q
+xW%q\W%q
+Xz%q3
+xz%qp
+xZh,K q
+Y!q Y!q
+Y!q`^!q
+Y!qp]!q0[!q
+y%q_^[3
+Y__^[
+yA%q"
+yHWhh. qVh@Y qh^
+YPh0e qh
+yVh S qh
+YY_^]
+Z qPQV
+z%qh(/ qP
+Z\9;s

@@ -1,0 +1,5019 @@
+-----------------------------------------------------------
+      ->cbSize = %u
+   dwFlags = 0x%08lx
+   ReturnedData = %p
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGH
+ http://www.microsoft.com/windows0
+ Microsoft Corporation. All rights reserved.
+ Microsoft Operations Puerto Rico1&0$
+ Operating System
+ Windows
+!]_0t
+!|$03
+!9~$t
+!sfx!
+!This program cannot be run in DOS mode.
+!TkjE
+"%s\ntvdm.exe"  %s%c
+"%s\ntvdm.exe" -i%lx %s%c
+"/\[]:|<>+=;,?
+"Microsoft Window
+#0H0|0
+#HMDuV
+#i@fffff
+#'S~T
+$0.0h0
+$Extend\$Reparse:$R:$INDEX_ALLOCATION
+$Microsoft Ireland Operations Limited1
+$SVW3
+%.16ls|%I64x
+%016I64x
+%04hx
+%08I32x
+%9`%C@
+%ls version block after re-mapping as image [%x]
+%Microsoft Windows Production PCA 2011
+%Microsoft Windows Production PCA 20110
+%programfilesnative%
+%PVWRj
+%s -u -p %d -s %I64d
+%s\%s
+%s\system32\%s
+%sysnative%
+%system32%
+%systemdrive%\Program Files
+%systemroot%
+%systemroot%\system32
+%windir%
+%ws %d -P %ws
+%ws not a full path we can operate on [%x]
+%ws%u\DosDevices\%ws
+%ws\%ld%ws
+%ws\DosDevices\%ws
+&0<0e0
+&go`4
+&S|9a
+(050a0
+(null)
+(SVWj
+)`)`*`*`E@E@+`+`
+)0/040:0E0P0V0
+)070Q0
+)Microsoft Root Certificate Authority 20100
+*V@PW
+,~~ =T
+,CckAVrKFuuvAmZoBcMARgiZKriLICftqkkoGugn8z9A=0Z
+,KLf05
+,SVWj
+.00cfg
+.bss$00
+.bss$dk00
+.bss$pr00
+.bss$zz
+.Config
+.data
+.data$00
+.data$dk00
+.data$dk00$brc
+.data$pr00
+.data$zz
+.data$zz$brc
+.debug
+.didat
+.didat$2
+.didat$3
+.didat$4
+.didat$5
+.didat$6
+.didat$7
+.edata
+.gfids
+.giats
+.idata$2
+.idata$3
+.idata$4
+.idata$5
+.idata$6
+.Local
+.Manifest
+.rdata
+.rdata$00
+.rdata$00$brc
+.rdata$brc
+.rdata$sxdata
+.rdata$voltmd
+.rdata$zETW0
+.rdata$zETW1
+.rdata$zETW2
+.rdata$zETW9
+.rdata$zz
+.rdata$zz$brc
+.rdata$zzzdbg
+.reloc
+.rsrc
+.rsrc$01
+.rsrc$02
+.rsrc1
+.securom
+.t7!T
+.text
+.text$lp00kernel32.dll!20_pri7
+.text$mn
+.text$mn$00
+.text$np
+.text$zy
+.text$zz
+.xdata$x
+/0]0g0
+/u*j:Xf9F
+: w"3
+:!:-:7:
+:":2:B:R:b:r:
+:":2:H:
+:":8:R:b:C;V;f;v;
+:":E:
+:";,;8;
+:";H;
+:#;-;
+:#;1;^;
+:#;5;o;
+:$<)=M=
+:$DATA
+:%:<:R:h:
+:%:2:i:
+:(:<:P:d:x:
+:(:H:h:
+:(:J:k:
+:(;];l;
+:(;J;g;|;
+:);\;
+:);0;p;w;
+:);5;W;
+:*:>:n:
+:,:J:V:
+:,:L:
+:,;H;
+:,;V;
+:/;6;K;R;g;n;
+:;:E:W:a:
+:?:M:_:h:n:s:~:
+:+:6:
+:<:Z:u:
+:<;F;P;v;{;
+:=;J;W;a;
+:0:N:Z:
+:0;H;r;
+:2:M:b:x:
+:4:>:N:f:~:
+:5:?:z:
+:5:d:
+:5=B=
+:8:X:
+:8:X:x:
+:8;\;
+:A:^:
+:A;k;
+:D:T:p:
+:E:O:r:
+:E;e;o;
+:g;};
+:H;z;
+:I;];z;
+:J:W:j:w:
+:l:5;p<
+:L;w;
+:N=v=
+:o;|;
+:S;\;g;U<s<
+:Tt3n
+; ;$;(;<;@;D;H;L;P;T;h;l;p;t;x;|;
+; ;(;0;8;@;H;P;X;`;h;p;x;
+; <L<p<
+; =f=
+;!@Install@!UTF-8!
+;!<m=r={=C>
+;";>;D;_;
+;";0;<;E;a;n;
+;";2;B;R;b;r;
+;";8;X;x;
+;#;B;M;x;
+;#<C<
+;$;3;:;N;U;h;s;
+;&<1<g=|=
+;);.;5;F;l;
+;);D;Y;q;
+;)<0<
+;,;0;P;p;
+;.;W;
+;.<=<
+;.<D=i=X>e>p>
+;/<o<
+;:;U;
+;';;;x;
+;;<u<
+;@;j;v;
+;\;g;q;b<l<
+;^<f<q<x<
+;_^[]
+;<<X<{<
+;0;H;T;l;x;
+;2;H;h;
+;2<@<J<Z<`<j<x<
+;7;I;Y;
+;8;>;G;N;|;
+;8;X;x;
+;9;R;_;c;
+;a>~>
+;C,s:
+;E;P;\;e;n;w;
+;F`s%
+;I;S;
+;K<U<
+;N;_;i;
+;O;i;r;
+;O<i<
+;Q<^<s<
+;t$,v-
+;y$v?;y(v
+? ?3?N?b?
+?!?2?J?a?p?z?
+?"?2?B?R?b?r?
+?"?s?}?
+?$?0?P?\?
+?%?F?W?
+?(?.?3?>?D?J?U?]?b?k?
+?(?2?P?
+?(?H?h?
+?)?/?5?;?F?U?[?a?g?r?
+?,?3?
+?/=KzdN
+?:?R?
+???f?
+???Z?_?l?
+?'?8?a?q?
+?'?O?
+?\UNC
+?+?6?o?}?
+?<?I?q?
+?<?o?
+?<?Q?[?o?y?
+?0?P?p?
+?2?g?
+?4?A?L?
+?6?H?o?
+?8?K?a?
+?8?L?T?_?d?n?y?
+?8?X?x?
+?B?h?~?
+?B?Z?
+?E?o?
+?h?t?
+?V?d?p?
+?yzb<
+?Z?t?x?|?
+@.data
+@.reloc
+@_^[]
+@|f;4Ar
+@d@fffffVd@
+@f;D1
+@J@fffff
+@P`5Z
+@SVWj
+[5xo1
+[System Process]
+[WWj`j
+\$(VP
+\$<VW
+\$lPh
+\$Qcwu
+\$tSu$j
+\??\UNC\
+\\.\MountPointManager
+\\.\PhysicalDrive%lu
+\}Hu:
+\AC\#!
+\Application
+\AppPatch
+\AppPatch\
+\appraiser
+\Children\
+\CustomSDB
+\Device\CdRom
+\Device\Floppy
+\Device\Harddisk
+\Device\LanmanRedirector\;
+\Device\WinDfs\
+\DosDevices\
+\Globalization\Sorting\
+\inifile.upd
+\Packages\
+\Registry\Machine
+\REGISTRY\MACHINE\%s
+\Registry\Machine\Software
+\Registry\Machine\Software\Microsoft\Windows NT\CurrentVersion\AeDebug
+\Registry\Machine\Software\Microsoft\Windows NT\CurrentVersion\AeDebug\AutoExclusionList
+\Registry\Machine\Software\Microsoft\Windows NT\CurrentVersion\AeDebugProtected
+\Registry\Machine\Software\Microsoft\Windows NT\CurrentVersion\AeDebugProtected\AutoExclusionList
+\Registry\Machine\Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\InstalledSDB
+\Registry\Machine\Software\Microsoft\Windows NT\CurrentVersion\Terminal Server\Compatibility\Applications\
+\Registry\Machine\Software\Microsoft\Windows\Containers
+\Registry\MACHINE\Software\Microsoft\Windows\CurrentVersion\SideBySide
+\REGISTRY\MACHINE\Software\Policies\Microsoft\Windows\AppCompat
+\Registry\Machine\Software\Policies\Microsoft\Windows\Safer\CodeIdentifiers
+\Registry\Machine\System\CurrentControlSet\Control\ComputerName
+\Registry\Machine\System\CurrentControlSet\Control\ComputerName\ActiveComputerName
+\Registry\Machine\System\CurrentControlSet\Control\ComputerName\ComputerName
+\Registry\Machine\System\CurrentControlSet\Control\FileSystem
+\Registry\Machine\System\CurrentControlSet\Control\MUI\CallbackDlls
+\Registry\Machine\System\CurrentControlSet\Control\NLS\Language
+\Registry\Machine\System\CurrentControlSet\Control\Nls\Sorting\Ids
+\Registry\MACHINE\System\CurrentControlSet\Control\SafeBoot\Option
+\Registry\MACHINE\System\CurrentControlSet\Control\Session Manager\AppCertDlls
+\Registry\Machine\System\CurrentControlSet\Control\Terminal Server
+\REGISTRY\MACHINE\SYSTEM\CurrentControlSet\Control\WOW
+\Registry\Machine\System\CurrentControlSet\Policies
+\Registry\Machine\System\CurrentControlSet\Services\DnsCache\Parameters
+\Registry\Machine\System\CurrentControlSet\Services\LanmanServer\Parameters
+\Registry\Machine\System\CurrentControlSet\Services\Tcpip\Parameters
+\Registry\Machine\System\Setup
+\REGISTRY\USER\.DEFAULT
+\Sessions
+\Software\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppContainer\Mappings\
+\Software\Microsoft\Windows NT\CurrentVersion
+\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders
+\Software\Policies\Microsoft\Windows\Safer\CodeIdentifiers
+\StringFileInfo\%04X%04X\%s
+\StringFileInfo\000004B0\
+\StringFileInfo\000004E4\
+\StringFileInfo\040904B0\
+\StringFileInfo\040904E4\
+\SysARM32
+\SysNative
+\System32
+\system32\apphelp.dll
+\system32\csrstub.exe
+\SystemRoot\
+\SysWOW64
+\Temp
+\TEMP\
+\VarFileInfo\Translation
+\Windows
+\WinSxs
+]$VWj
+]8VWh
+^$;N(u
+^>Z$\e
+^X|~b/
+_"SV4
+_^[Y]
+__PROCESS_HISTORY
+_alldiv
+_allmul
+_allshl
+_aullshr
+_chkstk
+_CIcos
+_CIsin
+_CLUSTER_NETWORK_NAME_
+_ftol2_sse
+_H;O<
+_hread
+_hwrite
+_lclose
+_lcreat
+_llseek
+_lopen
+_lread
+_lwrite
+_memicmp
+_stricmp
+_strnicmp
+_vsnwprintf
+_wcsicmp
+_wcslwr
+_wcsnicmp
+_wtol
+`.rdata
+`@33333Cb@fffffVb@
+`0^0\
+`UaO 
+{%08lx-%04hx-%04hx-%02hx%02hx-%02hx%02hx%02hx%02hx%02hx%02hx}
+|$$PQ
+|$$PV
+|$@PV
+|$<PV
+|$4PV
+|$8PV
+|$TPV
+|0 muQf
+|0"euIf
+|0${uAj-[f9\06u7SYf9L0@
+|0n}u
+|arL-
+~ ;w(
+~*j Z
+~,9>t
+~<Xf9
+~lj XWP
++0g0q0
+< <$<,<4<
+< <%<+<1<6<<<B<G<M<S<X<^<d<i<o<u<z<
+< <,<B<I<[<b<t<{<
+< <;<B<L<Z<c<s<z<
+< <+<8<=<H<
+< <D<T<
+< <I<
+<!<,<6<V<w< =*=E=
+<!<\<
+<!<q<
+<!=K=p=
+<"<2<B<R<b<r<
+<"<H<V<
+<"=5=j=
+<$<*<3<:<T<]<u<|<
+<$<b<k<
+<$<K<n<
+<&<6<F<W<
+<(<2<[<
+<(<9<D<L<j<t<
+<(<H<h<
+<(=4=W=c=
+<)=P=
+<.<4<G<f<l<
+<?=I=_=i=
+<+>B>l>
+<<<v<
+<'<9<I<f<
+<-<A<
+<=<e<y<
+<-=O=q=
+<'=U=k=|=
+<><N<a<q<
+<0<R<`<r<{<
+<1=7=W=^=d=|=
+<2<G<c<s<
+<3<I<
+<3qrks
+<6=A=K=
+<7<F<y<
+<8<X<x<
+<A<j<
+<a<m<
+<c=t=}=
+<D=_>
+<F<R<t<
+<I=a=m={=
+<J=f=|=
+<k=9>Y>
+<N<X<
+<Ncy!)
+<Q>V>\>
+<SVWh
+<v<H=
+<W=a=
+<Y<q<
+<Z=f=
+= =@=`=|=
+=!=2=D=
+=!>V>k>r>}>
+="=2=B=R=b=r=
+="=8=X=x=
+=#=:=H=
+=#=]=k=r=
+=#>=>K>
+=$>J>f>
+=$>T>
+=%=+=6=E=K=Q=W=b=q=w=}=
+=&=9=Q=w=
+=(=[>{>
+=(=H=h=
+=(>/>7>=>D>P>^>b>j>q>w>
+=)=P=[=i=
+=,=8=B=O=
+=,=c=
+=,=P=k=
+=,>G>~>
+=,>v>
+=.?R?
+=:=c=
+=:>E>
+=;=M=t=
+=;=r>
+=?>I>
+=@=J=
+=^=j=
+=_>t>
+=+>R>
+='=,=2=<=F=V=f=v=
+==>[>l>
+='=1=
+='=7=H=X=
+='=K=
+='=o=z=
+=>>f>p>
+=0=F=
+=1?d?y?
+=2>H>h>
+=3=:=S=_=d=i=o=
+=4={=
+=4=>=_=s=
+=4=>=r=
+=5=T=_=
+=A=v=
+=D=}=
+=F>V>o>
+=I=z=
+=L>S>\>c>m>
+=M>P?
+=N=`=n=
+=Q>Z>
+=U>Z>`>k>s>
+=Z>l>
+=Z>w>
+=zdbft
+=zdbfu0Q
+> >6>C>L>U>g>t>{>
+>!?+?s?
+>!?b?l?
+>!>&>3>
+>!>'>->3>>>M>S>Y>_>j>y>
+>!>A>P>Z>
+>">+>6>A>H>
+>">2>B>R>b>r>
+>">8>X>x>
+>"tSV
+>#>)>1>:>\>b>h>n>|>
+>#>6>T>`>
+>$>;>L>b>
+>$>E>O>u>
+>%?/?
+>%>F>k>
+>(?2?
+>(>4>@>`>
+>(>H>h>
+>)>8>U>a>k>
+>*?T?X?\?`?d?h?l?p?t?x?|?
+>*>7>
+>,?9?F?\?h?w?
+>.?\?
+>.>4>G>N>_>u>|>
+>;>O>
+>??Q?_?
+>@_^[
+>\>f>
+>+>Q>c>o>
+>=?o?
+>=>I>]>
+>->4>]>
+>'>4>=>M>V>
+>0>P>p>
+>1?D?
+>2>P>Z>a>
+>3?b?
+>5?:?
+>5?L?T?^?{?
+>8?B?
+>9?C?
+>9?H?
+>B?H?N?X?^?h?n?x?
+>C?h?
+>D?\?
+>F>f>p>{>
+>H?r?
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+>J>b>o>
+>K?{?
+>L>Z>n>
+>NGdx
+>u>E?L?
+>X>}>
+0 0$0,04080<0@0D0H0L0
+0 0%0-02090?0_0
+0 0+070\0h1~1
+0 0<0X0t0
+0 0'060W0k0}0
+0!080S01272G2_2
+0!1+1f1
+0!1l1v1
+0"01070=0C0N0]0c0i0o0z0
+0"020B0R0b0r0
+0#0,0B0K0a0j0{0
+0#1e1t1
+0$1:1D1V1`1
+0$191R1a1l1z1
+0&0>0x0
+0&020>0J0V0b0n0z0
+0&3,3
+0(0H0h0
+0(0h0t0{0
+0)0D0
+0*0/0O0^0|0
+0*0j0
+0*1x1
+0*232:2@2J2_2
+0.0@0V0t0
+0.080P0
+0/070<0c0
+0;1o1
+0?1L1V1o1
+0+0@0d0
+0<1I1
+0>0_0
+0-0:0D0J0
+000@0
+000@0J0`0p0z0
+000<0H0T0`0l0
+000P0p0
+0-0s1
+0-1<1k1v1
+0123456789ABCDEFClientProcessId
+0-1G1
+0'282>2R2
+040904B0
+0497B57D-2E66-424F-A0C6-157CD5D41700
+050=0B0H0e0
+050t0
+062]2
+080X0x0
+090@0E0L0o0u0
+091E1m1
+0B0_0|1
+0b0u0
+0E0z0
+0f;1u
+0f;2u
+0H1c1~1
+0jhYf;
+0L0b0
+0L0S0`0y0
+0L1b1
+0N0*1
+0P0A1h1
+0SVW3
+0SVWj
+0u&,X
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+1 1*1f1p1 2*2`2
+1 101
+1!1K1j1
+1!1K1O1~192C2
+1"1(1/1
+1"1.1U1a1
+1"121B1R1b1r1
+1#1Q1~1
+1%2U2a2
+1&141F1O1U1^1d1j1p1{1
+1&202`2j213=3[3
+1(0&0
+1(1H1h1
+1*171A1V1c1|1
+1*191?1E1K1V1e1k1q1w1
+1,0*0
+1.2_2
+1/1]1}1
+1/1`1f142
+1/1o1
+1:1d1
+1:2D2
+1_1D2
+1_2q2
+1<.t$<\t
+1>1J1T1x1
+10.0.22621.1017
+10.0.22621.1017 (WinBuild.160101.0800)
+101H1
+101P1p1
+1'1]1
+111019184142Z
+13112 3
+131H1
+151A1
+172z2
+181D1
+181X1x1
+191\1t1
+1A1N1h1b2o2
+1B2L2?4L4
+1B2z2
+1f;2u
+1F1Q1
+1H2e2
+1I2P2
+1K2U2
+1L1S1
+1M2y2
+1N3T3Z3`3
+1s1z1
+1SSSSPW
+1v1*2
+1V1l1t1~1
+1wXv@7
+1Y2}2
+2 2&2f2|2>3
+2 2/2<2K2U2f2p2
+2!2'222A2G2M2S2^2m2s2y2
+2"222B2R2b2r2
+2"3+3y4
+2$2,242<2|2
+2%2\3x3
+2&2D2_2j2t2
+2(232^2
+2(2H2h2
+2(2N2q2
+2(3a3
+2)2F2Z2f2r2{2
+2)2H2h2
+2)2O9s9
+2*2]2b2m2
+2*2E2O2i2
+2,202<2T2X2d2|2
+2.3?3S3d3k3|3
+2.3c3
+2.3f6|6
+2/2:2B2J2`2
+2/2A2Z2x2
+2:3[3l3|3
+2:3\3h3r3
+2;2c2
+2}3w4
+2+3A3R3l3
+2=2o2
+2>2H2
+20<0}0
+20221109225325Z
+20221110014448.956Z0
+20221110225325Z0t0:
+202o2{2
+210930182225Z
+21272F2a2p2
+220302185119Z
+220505192315Z
+2'242\2
+229879+4700220
+2-2X2v2
+2-3=324
+2-3>3Y3
+230504192315Z0p1
+230511185119Z0
+23292
+232N2}2
+232O2_2i2{2
+2-373b3
+244Z4
+252@2}2
+253?3}3
+261019185142Z0
+262Q2[2n2
+272*343
+272N2Y2l2y2
+273X3d3L4z4
+282X2x2
+2a2s2|2
+2C2k2w2
+2E2[2
+2K3a3e4E5~5
+2o2y2
+2o3u3
+2q3V4s4
+2s3~3
+2t3{3
+2U3m3
+2X3u3
+3 3<3@3`3
+3 3<3@3D3L3P3T3\3`3d3l3p3t3|3
+3!3X3b3
+3!4-474_4k4
+3"3*373=3C3I3T3\3
+3"303T3~3
+3"323B3R3b3r3
+3"3'3:3R3`3g3l3x3
+3"3'313l3{3
+3"4D4h4
+3#3)3/3:3I3O3U3[3f3u3{3
+3#3/3|3
+3#3b3
+3$4,4Y4o4u4
+3%343]3
+3&3<3K3Z3b3'4B4I4[4
+3(3H3h3
+3*3L3
+3;3h3
+3@_^[
+3^4o4u4 5
+3`4{495]5
+3+3;3A3J3Q3Y3a3v3
+3=3M3
+3>3J3
+300930183225Z0|1
+313=3
+324<4B4y4
+333?3U3
+333K3`3
+3-3V3m3
+343}3
+3-474
+3'4E4`4
+354O4X4R6b6r6
+363;3M3}3
+383G3S3b3s3
+383X3x3
+3A4K4v4
+3A4v4
+3B4I4
+3d4i4q4v4
+3D4M4h4
+3F3V3
+3F4P4y4
+3http://www.microsoft.com/pkiops/Docs/Repository.htm0
+3j4t4\5}5
+3L4Y4
+3N3i3o3u3
+3P3W3|3
+3Q3[3
+3R3|3
+3S3c3j3
+3W4o4
+3X3x3
+4 4$4(4
+4 4@4H4L4h4
+4 4l4
+4!41484=4I4
+4!414M4j4
+4!4'4-43494?4E4K4Q4g4
+4!4F4i4t4
+4!4t5
+4!5,5
+4"4(434;4@4I4e4k4q4w4
+4"424B4R4b4r4
+4"5:5_5m5
+4#4-4D4Q4[4
+4$4*40464Q4r4
+4$4.4F4T4Z4
+4%4+41474B4Q4W4]4c4n4}4
+4%4a4
+4(4B4T4r4}4
+4(4H4h4
+4)4n4
+4*424P4\4
+4,4c4
+4.4E4\4m4
+4:5W5
+4[4p4
+4_4e4
+4+4<4B4M4T4g4
+4=5G5e5
+4>5L5X5a5
+4>6H6
+40>0Y0c0
+405H5h5
+424>4i4
+425s5
+434e4
+435J5
+445M5W5a5
+484X4
+484X4r4
+484X4x4
+4A4Y4k6|6
+4d4w4~4c5x5
+4D5M5|5
+4d5n5
+4Gf9u
+4H4d4
+4I6i6
+4J4`4q4
+4K4a4r4
+4K4Z4h4x4
+4K5c5
+4M4T465o5}5
+4M5]5
+4M5p6
+4M5w5
+5 5/545T5r5|5
+5!5-565?5H5Q5
+5!5E5P5
+5!5Y5q5
+5"515@5
+5"525B5R5b5r5
+5#5G5g5
+5$525U5
+5$5-5:5@5W5
+5$6.6U6o6y6
+5&5;5M5p5
+5&5@5H5
+5&585X5
+5&6Y6c6
+5(5@5^5
+5(5A5K5
+5(5D5H5d5h5
+5(5H5
+5.6S6
+5/5B5
+5?5N5z6
+5?6l6
+5@6T6^6
+5[608_8i8
+5+5~5
+5+555r5
+5+8`9
+5<5H5h5
+5<6L6v7
+5=6M6^6
+5=6T6a6~6
+5>5s5}5
+5>6R6
+506@6^6}6
+50686<6h6l6p6t6x6|6
+506R6`6r6
+535x5
+546a6
+546n6
+555?5i5t5~5
+575S5r5}5
+585X5r5
+585X5x5
+596C6e6o6
+5c7p7
+5D5P5Z5
+5l5y5
+5P5m5
+5P7\7h7p7
+5R6{6
+5T5j5
+5U5a5k5
+5V6a6
+5Vh0q
+6!6H6c6
+6!7.7?7h7
+6!797N7Y7k7
+6"626B6R6b6y6
+6"7_7
+6#6]6k6r6
+6#606P6
+6$6(6H6d6h6
+6$7X7p7
+6%6f6p6
+6(6@6f6
+6(6_6
+6(6H6h6
+6(7j8r8
+6)6\6
+6)6b6
+6)7F7W7
+6)7L7
+6*6X6x6
+6*7=7
+6.6:6E6[6
+6/7t7
+6:6L6S6]6
+6@6K6h6
+6[6d6
+6]6m6
+6^7s7
+6<6F6e6
+6=7D7
+6>6J6f6x6
+616=6
+636<9
+657M7w7
+657P7m7|7
+666e6q6
+677C7
+687t7
+6c7r7
+6E6N6Y6_6i6}6
+6f9G2
+6H6Z6
+6I7S7
+6L6i6t6
+6M6~6
+6O6i6
+6O6Z6f6p6
+6R6\6
+6T6^6
+6U6a6
+7 7-7L7W788w8|8
+7!7>7
+7!8/878M8^8f8l8{8
+7!8u8
+7"7.777P7\7e7n7
+7"727B7R7b7r7
+7"7B7L7j7v7|7
+7$7(7,74787<7D7H7L7T7X7\7h7l7t7x7|7
+7$7(7D7H7d7h7
+7$7L7
+7$8,8;8p8w8
+7%7>7{7
+7%717f7x7
+7%8/8
+7&7,7:7
+7&737L7g7
+7(7H7h7
+7)8.8}8
+7)838H8T8^8h8
+7,7t8
+7.8C8S8f8
+7/7|8
+7:7]7s7
+7?8]8f8
+7?8v8
+7@7T7
+7^7e7
+7^8h8
+7_^[]
+7+737?7G7S7[7g7o7{7
+7<7B7W7
+728?8L8
+747A7i7
+748`8i8r8x8
+748v8
+7'707
+7'707J7Q7
+777h7
+7-8[8
+7-8<8c8
+787^7
+787D7N7
+7-8C8J8T8
+7'8H8h8
+7-8K8z8
+7-8O8m8
+797e7
+797F7P7o7~7
+7A7S7|7
+7E8}8
+7E8T8Y8_8e8j8o8u8
+7h8o889K9j9x9
+7K8W8\8e8y8
+7K8X8u8
+7M8\8}8
+7N7b7o7
+7PSSS
+7R8-9L9
+7Sh W
+7T8f8
+7V7`738=8
+8":>:
+8"8/8A8N8h8u8
+8"828B8R8b8r8
+8"8-8B8M8b8m8
+8$8(8D8H8d8h8
+8$848D8t8
+8%8/8z8
+8(8H8
+8(8H8h8
+8)8Q8W8w8
+8)8W8
+8*999O9^9g9
+8,898W8t8
+8/8[8h8
+8/8b8
+8:8R8
+8[8b8
+8]9j9
+8+8;8U8m8w8
+8+9C9`9t9
+8>9F9
+808;8^8u8
+808=8t8
+809J9
+818V8
+828<8
+83898A8
+838m8{8
+839f9
+8'8/8M8^8m8|8
+8'8_8k8|8
+8'838?8K8b8
+889B9b9o9{9
+889g:
+8-929h9n:z:
+8'9L9
+8A9K9
+8B8M8W8
+8f;:u
+8f;9u
+8f;9u f
+8H8T8
+8I9_9
+8N9`9
+8O9Y9
+8T9t9
+8x;|;
+8Y9`9
+8Z9j9
+9 949H9\9p9
+9 w"A
+9!9+9Q9
+9"9(9.949x9
+9"9<9X9j9
+9"929B9R9b9r9
+9#:3:
+9&9-9O9w9
+9(9B9X9x9
+9(9H9b9r9
+9(9H9d9h9
+9(9H9h9
+9):L:
+9)9b9
+9*9:9J9l9s9
+9,:6:[:o:
+9.:5:
+9.9@9j9
+9/9=9I9R9n9z9
+9::J:
+9::S:m:
+9:9J9z9
+9':f:
+9?:U:f:
+9\$ t
+9\$Duqd
+9\$XuMd
+9]:{:
+9_@fffff
+9|$ t
+9|$\w
+9|$Pw
+9|$Tw
+9~,tM
+9~0t j`h
+9+:i:u:
+9<9M=
+9>:]:d:n:
+90:G:S:
+909e9u9
+91:@:M:n:{:
+929=9
+92989E9R9j9
+929Y9
+93:::
+93:H:x:
+94:f:1;
+949~9
+959B9R9p9
+96:c:{:
+96:r:
+969A9m9x9
+969Y9y9
+979P9]9s9
+979y9
+98:m:z:
+989i9s9
+989X9x9
+9-9>9]9n9
+9'989?9N9a9|9
+9'9C9^9r9
+9B4t/h
+9B9_9p9
+9B9X9
+9BSJBt
+9D$,uNf
+9D$0u@3
+9D$Dt
+9D9r9
+9e9u9
+9E9u9
+9G:Q:k:
+9G9k9
+9P9W9
+9Q tC
+9Q:{:
+9R:\:
+9S9]9
+9u t[
+9X0u2
+9Z0tJ
+a1N3w8
+a8]3v
+AccessCheck
+AcquireSRWLockExclusive
+AcquireSRWLockShared
+acres.dll
+ActivateActCtx
+ActivateActCtxWorker
+ActivatePackageVirtualizationContext
+ActiveComputerName
+AddAtomA
+AddAtomW
+AddConsoleAliasA
+AddConsoleAliasW
+AddDllDirectory
+AddHijriDate
+AddHijriDateTemp
+AddIntegrityLabelToBoundaryDescriptor
+AddLocalAlternateComputerNameA
+AddLocalAlternateComputerNameW
+AddRefActCtx
+AddRefActCtxWorker
+AddResourceAttributeAce
+AddScopedPolicyIDAce
+AddSecureMemoryCacheCallback
+AddSIDToBoundaryDescriptor
+AddVectoredContinueHandler
+AddVectoredExceptionHandler
+AdjustCalendarDate
+advapi32.dll
+ADVAPI32.DLL
+advapi32.dll
+AeGetPersistedLocation failed [%#x]
+AeWERQueryFileInfo
+AFGf;}
+Alignment error in the end of file view for CRC checksum
+AllocateAndInitializeSid
+AllocateUserPhysicalPages
+AllocateUserPhysicalPagesNuma
+AllocConsole
+AlternateComputerNames
+Amcache
+Amcache.hve
+An RtlString API failed [%x]
+Ansi string is too long to convert at %d
+api-ms-win-core-appcompat-l1-1-0.dll
+api-ms-win-core-appcompat-l1-1-1.dll
+api-ms-win-core-comm-l1-1-0.dll
+api-ms-win-core-console-l1-1-0.dll
+api-ms-win-core-console-l1-2-0.dll
+api-ms-win-core-console-l1-2-1.dll
+api-ms-win-core-console-l2-1-0.dll
+api-ms-win-core-console-l2-2-0.dll
+api-ms-win-core-console-l3-2-0.dll
+api-ms-win-core-datetime-l1-1-0.dll
+api-ms-win-core-datetime-l1-1-1.dll
+api-ms-win-core-datetime-l1-1-2.dll
+api-ms-win-core-debug-l1-1-0.dll
+api-ms-win-core-debug-l1-1-1.dll
+api-ms-win-core-debug-l1-1-2.WaitForDebugEventEx
+api-ms-win-core-delayload-l1-1-0.dll
+api-ms-win-core-delayload-l1-1-1.dll
+api-ms-win-core-enclave-l1-1-0.CreateEnclave
+api-ms-win-core-enclave-l1-1-0.InitializeEnclave
+api-ms-win-core-enclave-l1-1-0.IsEnclaveTypeSupported
+api-ms-win-core-enclave-l1-1-0.LoadEnclaveData
+api-ms-win-core-errorhandling-l1-1-0.dll
+api-ms-win-core-errorhandling-l1-1-3.dll
+api-ms-win-core-fibers-l1-1-0.dll
+api-ms-win-core-fibers-l2-1-0.dll
+api-ms-win-core-fibers-l2-1-1.dll
+api-ms-win-core-file-l1-1-0.dll
+api-ms-win-core-file-l1-2-0.dll
+api-ms-win-core-file-l1-2-1.dll
+api-ms-win-core-file-l1-2-2.dll
+api-ms-win-core-file-l1-2-2.FindFirstStreamW
+api-ms-win-core-file-l1-2-2.FindNextStreamW
+api-ms-win-core-file-l1-2-3.GetDiskSpaceInformationA
+api-ms-win-core-file-l1-2-3.GetDiskSpaceInformationW
+api-ms-win-core-file-l1-2-4.dll
+api-ms-win-core-file-l2-1-0.dll
+api-ms-win-core-file-l2-1-1.dll
+api-ms-win-core-file-l2-1-2.dll
+api-ms-win-core-file-l2-1-3.dll
+api-ms-win-core-handle-l1-1-0.dll
+api-ms-win-core-heap-l1-1-0.dll
+api-ms-win-core-heap-l2-1-0.dll
+api-ms-win-core-heap-obsolete-l1-1-0.dll
+api-ms-win-core-io-l1-1-0.dll
+api-ms-win-core-io-l1-1-1.dll
+api-ms-win-core-io-l1-1-1.GetOverlappedResultEx
+api-ms-win-core-ioring-l1-1-0.BuildIoRingCancelRequest
+api-ms-win-core-ioring-l1-1-0.BuildIoRingReadFile
+api-ms-win-core-ioring-l1-1-0.BuildIoRingRegisterBuffers
+api-ms-win-core-ioring-l1-1-0.BuildIoRingRegisterFileHandles
+api-ms-win-core-ioring-l1-1-0.CloseIoRing
+api-ms-win-core-ioring-l1-1-0.CreateIoRing
+api-ms-win-core-ioring-l1-1-0.GetIoRingInfo
+api-ms-win-core-ioring-l1-1-0.IsIoRingOpSupported
+api-ms-win-core-ioring-l1-1-0.PopIoRingCompletion
+api-ms-win-core-ioring-l1-1-0.QueryIoRingCapabilities
+api-ms-win-core-ioring-l1-1-0.SetIoRingCompletionEvent
+api-ms-win-core-ioring-l1-1-0.SubmitIoRing
+api-ms-win-core-ioring-l1-1-1.BuildIoRingFlushFile
+api-ms-win-core-ioring-l1-1-1.BuildIoRingWriteFile
+api-ms-win-core-job-l1-1-0.dll
+api-ms-win-core-libraryloader-l1-1-0.AddDllDirectory
+api-ms-win-core-libraryloader-l1-1-0.RemoveDllDirectory
+api-ms-win-core-libraryloader-l1-1-0.SetDefaultDllDirectories
+api-ms-win-core-libraryloader-l1-2-0.dll
+api-ms-win-core-libraryloader-l1-2-1.dll
+api-ms-win-core-libraryloader-l1-2-2.dll
+api-ms-win-core-libraryloader-l1-2-3.dll
+api-ms-win-core-libraryloader-l2-1-0.dll
+api-ms-win-core-localization-l1-2-0.dll
+api-ms-win-core-localization-l2-1-0.dll
+api-ms-win-core-localization-private-l1-1-0.dll
+api-ms-win-core-memory-l1-1-0.dll
+api-ms-win-core-memory-l1-1-1.CreateFileMappingFromApp
+api-ms-win-core-memory-l1-1-1.dll
+api-ms-win-core-memory-l1-1-1.MapViewOfFileFromApp
+api-ms-win-core-memory-l1-1-1.PrefetchVirtualMemory
+api-ms-win-core-memory-l1-1-1.UnmapViewOfFileEx
+api-ms-win-core-memory-l1-1-2.DiscardVirtualMemory
+api-ms-win-core-memory-l1-1-2.dll
+api-ms-win-core-memory-l1-1-2.OfferVirtualMemory
+api-ms-win-core-memory-l1-1-2.ReclaimVirtualMemory
+api-ms-win-core-namedpipe-l1-1-0.dll
+api-ms-win-core-namedpipe-l1-2-1.dll
+api-ms-win-core-namedpipe-l1-2-1.GetNamedPipeInfo
+api-ms-win-core-namedpipe-l1-2-2.dll
+api-ms-win-core-namespace-l1-1-0.dll
+api-ms-win-core-normalization-l1-1-0.dll
+api-ms-win-core-processenvironment-l1-1-0.dll
+api-ms-win-core-processenvironment-l1-2-0.dll
+api-ms-win-core-processsnapshot-l1-1-0.dll
+api-ms-win-core-processthreads-l1-1-0.CreateRemoteThreadEx
+api-ms-win-core-processthreads-l1-1-0.DeleteProcThreadAttributeList
+api-ms-win-core-processthreads-l1-1-0.dll
+api-ms-win-core-processthreads-l1-1-0.GetCurrentThreadStackLimits
+api-ms-win-core-processthreads-l1-1-0.InitializeProcThreadAttributeList
+api-ms-win-core-processthreads-l1-1-0.OpenProcessToken
+api-ms-win-core-processthreads-l1-1-0.OpenThreadToken
+api-ms-win-core-processthreads-l1-1-0.SetThreadToken
+api-ms-win-core-processthreads-l1-1-0.UpdateProcThreadAttribute
+api-ms-win-core-processthreads-l1-1-1.dll
+api-ms-win-core-processthreads-l1-1-1.GetProcessMitigationPolicy
+api-ms-win-core-processthreads-l1-1-1.SetProcessMitigationPolicy
+api-ms-win-core-processthreads-l1-1-2.dll
+api-ms-win-core-processthreads-l1-1-2.IsProcessCritical
+api-ms-win-core-processthreads-l1-1-2.QueryProtectedPolicy
+api-ms-win-core-processthreads-l1-1-2.SetProtectedPolicy
+api-ms-win-core-processthreads-l1-1-3.dll
+api-ms-win-core-processthreads-l1-1-3.GetProcessDefaultCpuSets
+api-ms-win-core-processthreads-l1-1-3.GetSystemCpuSetInformation
+api-ms-win-core-processthreads-l1-1-3.GetThreadDescription
+api-ms-win-core-processthreads-l1-1-3.GetThreadSelectedCpuSets
+api-ms-win-core-processthreads-l1-1-3.SetProcessDefaultCpuSets
+api-ms-win-core-processthreads-l1-1-3.SetThreadDescription
+api-ms-win-core-processthreads-l1-1-3.SetThreadSelectedCpuSets
+api-ms-win-core-processthreads-l1-1-4.SetProcessDynamicEHContinuationTargets
+api-ms-win-core-processthreads-l1-1-5.QueueUserAPC2
+api-ms-win-core-processthreads-l1-1-6.GetProcessDefaultCpuSetMasks
+api-ms-win-core-processthreads-l1-1-6.GetThreadSelectedCpuSetMasks
+api-ms-win-core-processthreads-l1-1-6.SetProcessDefaultCpuSetMasks
+api-ms-win-core-processthreads-l1-1-6.SetProcessDynamicEnforcedCetCompatibleRanges
+api-ms-win-core-processthreads-l1-1-6.SetThreadSelectedCpuSetMasks
+api-ms-win-core-processthreads-l1-1-7.GetMachineTypeAttributes
+api-ms-win-core-processtopology-l1-1-0.dll
+api-ms-win-core-profile-l1-1-0.dll
+api-ms-win-core-psapi-ansi-l1-1-0.dll
+api-ms-win-core-psapi-l1-1-0.dll
+api-ms-win-core-realtime-l1-1-0.dll
+api-ms-win-core-registry-l1-1-0.dll
+api-ms-win-core-rtlsupport-l1-1-0.dll
+api-ms-win-core-rtlsupport-l1-2-0.dll
+api-ms-win-core-sidebyside-l1-1-0.dll
+api-ms-win-core-string-l1-1-0.dll
+api-ms-win-core-synch-l1-1-0.dll
+api-ms-win-core-synch-l1-1-0.SetWaitableTimerEx
+api-ms-win-core-synch-l1-2-0.dll
+api-ms-win-core-synch-l1-2-0.InitOnceBeginInitialize
+api-ms-win-core-synch-l1-2-0.InitOnceComplete
+api-ms-win-core-synch-l1-2-0.InitOnceExecuteOnce
+api-ms-win-core-synch-l1-2-0.SleepConditionVariableCS
+api-ms-win-core-synch-l1-2-0.SleepConditionVariableSRW
+api-ms-win-core-synch-l1-2-1.dll
+api-ms-win-core-sysinfo-l1-1-0.dll
+api-ms-win-core-sysinfo-l1-1-0.GetLogicalProcessorInformationEx
+api-ms-win-core-sysinfo-l1-2-0.dll
+api-ms-win-core-sysinfo-l1-2-1.dll
+api-ms-win-core-sysinfo-l1-2-1.InstallELAMCertificateInfo
+api-ms-win-core-sysinfo-l1-2-2.GetProcessorSystemCycleTime
+api-ms-win-core-sysinfo-l1-2-3.dll
+api-ms-win-core-sysinfo-l1-2-6.IsUserCetAvailableInEnvironment
+api-ms-win-core-systemtopology-l1-1-0.dll
+api-ms-win-core-systemtopology-l1-1-1.dll
+api-ms-win-core-systemtopology-l1-1-2.GetNumaNodeProcessorMask2
+api-ms-win-core-threadpool-legacy-l1-1-0.dll
+api-ms-win-core-threadpool-private-l1-1-0.dll
+api-ms-win-core-timezone-l1-1-0.dll
+api-ms-win-core-timezone-l1-1-0.SystemTimeToTzSpecificLocalTimeEx
+api-ms-win-core-timezone-l1-1-0.TzSpecificLocalTimeToSystemTimeEx
+api-ms-win-core-timezone-l1-1-1.LocalFileTimeToLocalSystemTime
+api-ms-win-core-timezone-l1-1-1.LocalSystemTimeToLocalFileTime
+api-ms-win-core-util-l1-1-0.dll
+api-ms-win-core-windowserrorreporting-l1-1-0.dll
+api-ms-win-core-windowserrorreporting-l1-1-1.dll
+api-ms-win-core-windowserrorreporting-l1-1-2.dll
+api-ms-win-core-windowserrorreporting-l1-1-3.dll
+api-ms-win-core-wow64-l1-1-0.dll
+api-ms-win-core-wow64-l1-1-1.dll
+api-ms-win-core-wow64-l1-1-1.IsWow64Process2
+api-ms-win-core-wow64-l1-1-2.IsWow64GuestMachineSupported
+api-ms-win-core-wow64-l1-1-3.dll
+api-ms-win-core-xstate-l2-1-0.dll
+api-ms-win-core-xstate-l2-1-1.dll
+api-ms-win-core-xstate-l2-1-2.dll
+api-ms-win-eventing-provider-l1-1-0.dll
+api-ms-win-security-appcontainer-l1-1-0.dll
+api-ms-win-security-base-l1-1-0.dll
+api-ms-win-security-base-l1-2-0.dll
+ApiSetQueryApiSetPresence
+AppBaseFileName
+AppCertDlls
+AppCompat\Programs
+AppCompatFlags\Layers
+AppContainerFreeMemory
+AppContainerLookupMoniker
+ApphelpChpeModSettingsFromQueryResult
+ApphelpCreateAppcompatData
+ApphelpQueryModuleDataEx
+AppInit_DLLs
+Application.Manifest
+ApplicationRecoveryFinished
+ApplicationRecoveryInProgress
+AppPatch64
+AppPolicyGetClrCompat
+AppPolicyGetCreateFileAccess
+AppPolicyGetLifecycleManagement
+AppPolicyGetMediaFoundationCodecLoading
+AppPolicyGetProcessTerminationMethod
+AppPolicyGetShowDeveloperDiagnostic
+AppPolicyGetThreadInitializationType
+AppPolicyGetWindowingModel
+appraiser.sdb
+AppXGetOSMaxVersionTested
+AppXPostSuccessExtension
+AppXPreCreationExtension
+AppXReleaseAppXContext
+Architecture
+AreFileApisANSI
+AreShortNamesEnabled
+as.,k{n?,
+AslDoesDirectoryExistNtPath
+AslEnvExpandStrings
+AslEnvExpandStrings failed [%x]
+AslEnvExpandStrings2
+AslEnvExpandStrings2 failed [%x]
+AslEnvExpandStrings2 failed to expand strings for %ws [%x]
+AslEnvGetProcessWowInfo
+AslEnvGetProcessWowInfo failed [%x]
+AslEnvGetProcessWowInfo failed to determine processor info [%x]
+AslEnvGetSysNativeDirPathForGuestBuf
+AslEnvGetSystem32DirPathBuf
+AslEnvGetSystem32DirPathBuf failed [%x]
+AslEnvVarQuery failed [%x]
+AslEnvVerifyGuestProcessorSupport
+AslFileAllocAndGetAttributes
+AslFileClose
+AslFileMappingCreate
+AslFileMappingEnsure
+AslFileMappingEnsure failed [%x]
+AslFileMappingEnsureMappedAs
+AslFileMappingEnsureMappedAs failed [%x]
+AslFileMappingGetFileKindDetail
+AslFileMappingGetFileKindDetails failed [%x]
+AslFileMappingGetImageTypeEx
+AslFileMappingGetImageTypeEx failed [%x]
+AslFileOpen
+AslGuidToString
+AslGuidToString failed [%x]
+AslGuidToString_UStr
+AslPathBuildSignatureForDirectoryFileLongpath
+AslPathBuildSignatureForDirectoryFileLongpath for %ws [%x]
+AslPathBuildSignatureForInternetFileLongpath
+AslPathBuildSignatureForInternetFileLongpath failed for %ws [%x]
+AslPathBuildSignatureLongpath
+AslPathClean failed [%x]
+AslPathCleanUstr
+AslPathCleanUstr failed [%x]
+AslPathCleanUstr failed with source pointer behind destination pointer.
+AslPathCombine
+AslPathCombine failed [%x]
+AslPathGetLongFileNameLongpath
+AslPathGetLongFileNameLongpath failed for %ws [%x]
+AslPathIsOnRemovableMedia
+AslPathIsOnRemovableMedia failed for %ws [%x]
+AslPathIsTemporaryDirectory
+AslPathIsTemporaryInternetFile
+AslPathIsTemporaryInternetFile failed for %ws [%x]
+AslPathToSystemPath
+AslPathToSystemPathBuf
+AslPathToSystemPathBuf failed [%x]
+AslPathWildcardFindFirst
+AslPathWildcardFindFirst/Next failed to find a file [%x]
+AslPathWildcardFindNext
+AslpEnvResolveVars
+AslpEnvResolveVars failed [%x]
+AslpEnvResolveVars failed to fail properly for null buffer
+AslpFileGet16BitDescription
+AslpFileGet16BitModuleName
+AslpFileGetChecksum
+AslpFileGetChecksum failed [%x]
+AslpFileGetChecksumAttributes
+AslpFileGetChecksumAttributes called with a partial view which is not supported
+AslpFileGetChecksumAttributes failed [%x]
+AslpFileGetClrVersion
+AslpFileGetClrVersion failed [%x]
+AslpFileGetClrVersionAttribute
+AslpFileGetClrVersionAttribute failed [%x]
+AslpFileGetCrcChecksum
+AslpFileGetCrcChecksum failed [%x]
+AslpFileGetExeWrapper
+AslpFileGetExportName
+AslpFileGetFileKindDetailAttribute
+AslpFileGetFileKindDetailAttribute failed [%x]
+AslpFileGetHeaderAttributesNE
+AslpFileGetHeaderAttributesNE failed [%x]
+AslpFileGetHeaderAttributesPE
+AslpFileGetHeaderAttributesPE failed [%x]
+AslpFileGetImageNtHeader
+AslpFileGetImageNtHeader failed [%x]
+AslpFileGetModuleType failed [%x]
+AslpFileGetNtHeaderAttributes
+AslpFileGetPeExportNameExeWrapper
+AslpFileGetPeExportNameExeWrapper failed [%x]
+AslpFileGetSizeAttributes failed [%x]
+AslpFileGetVersionAttributes
+AslpFileGetVersionAttributes failed [%x]
+AslpFileGetVersionBlock
+AslpFileGetVersionBlock failed [%x]
+AslpFileHasActiveMarkWrapper
+AslpFileHasActiveMarkWrapper failed (FileSize: %I64u) [%x]
+AslpFileHasActiveMarkWrapper failed [%x]
+AslpFileLargeEnsureLargeFileMapping
+AslpFileLargeEnsureLargeFileMapping failed [%x]
+AslpFileLargeGetChecksum
+AslpFileLargeGetChecksum failed [%x]
+AslpFileLargeGetChecksumAttributes
+AslpFileLargeGetChecksumAttributes failed to get checksum attributes [%x]
+AslpFileLargeGetCrcChecksum
+AslpFileLargeMapCreate
+AslpFileMakeStringVersionAttributes
+AslpFileMakeStringVersionAttributes failed [%x]
+AslpFileMappingGetFileKind
+AslpFileMappingGetFileKind failed %S [%x]
+AslpFileQuery16BitDescription
+AslpFileQuery16BitDescription failed [%x]
+AslpFileQuery16BitModuleName
+AslpFileQuery16BitModuleName failed [%x]
+AslpFileQueryExportName
+AslpFileQueryExportName failed [%x]
+AslpFileQueryVersionString
+AslpFileQueryVersionString failed [%x]
+AslpFileVerQueryBlock
+AslpFileVerQueryBlock failed [%x]
+AslpPathGetFormatInfo failed [%x]
+AslpPathWildcardAllocMatchNode
+AslpPathWildcardAllocMatchNode failed [%x]
+AslpPathWildcardAllocMatchNode failed to create root of path [%x]
+AslpPathWildcardInitStack
+AslpPathWildcardInitStack failed [%x]
+AslpPathWildcardMakeLeaves
+AslpPathWildcardPeekNode
+AslpPathWildcardPeekNode failed [%x]
+AslpPathWildcardPopNode
+AslpPathWildcardPushNode failed [%x]
+AslRegistryBuildMachinePath
+AslRegistryBuildMachinePath failed for %ws [%x]
+AslRegistryBuildUserPath
+AslRegistryGetKey
+AslRegistryGetKey failed to open ManifestedMergeStubSdbs key [%x]
+AslRegistryGetKey failed to open SdbUpdates key [%x]
+AslRegistryGetString
+AslRegistryGetUInt32
+AslRegistryGetUInt32_UStr
+AslRegistryOpenKey failed [%x]
+AslRegistryOpenSubKey
+AslRegistryOpenSubKey passed bad Path [%x]
+AslStringAnsiToUnicode
+AslStringAnsiToUnicode failed [%x]
+AslStringDuplicate
+-AslStringDuplicate failed [%x]
+AslStringXmlSanitize failed [%x]
+AssignProcessToJobObject
+AttachConsole
+Attempt to read past the end of the database offset 0x%lx size 0x%lx (0x%lx)
+Attempt to release SDB handle that still has unreleased duplicates.
+Attribute size doesn't match
+Au;VQ
+aup7@
+AuthenticodeEnabled
+Autoextractor EXE de InstallShield
+AX_^[
+b@33333
+BackupRead
+BackupSeek
+BackupWrite
+Bad index 0x%lx
+Bad PDB
+BaseCheckAppcompatCache
+BaseCheckAppcompatCacheEx
+BaseCheckAppcompatCacheExWorker
+BaseCheckAppcompatCacheWorker
+BaseCheckElevation
+BaseCleanupAppcompatCacheSupport
+BaseCleanupAppcompatCacheSupportWorker
+BaseDestroyVDMEnvironment
+BaseDllFreeResourceId
+BaseDllMapResourceIdW
+BaseDllReadWriteIniFile
+BaseDumpAppcompatCache
+BaseDumpAppcompatCacheWorker
+BaseElevationPostProcessing
+BaseFlushAppcompatCache
+BaseFlushAppcompatCacheWorker
+BaseFormatObjectAttributes
+BaseFormatTimeOut
+BaseFreeAppCompatDataForProcess
+BaseFreeAppCompatDataForProcessWorker
+BaseGenerateAppCompatData
+BaseGetNamedObjectDirectory
+BaseInitAppcompatCacheSupport
+BaseInitAppcompatCacheSupportWorker
+BaseIoSize
+BaseIsAppcompatInfrastructureDisabled
+BaseIsAppcompatInfrastructureDisabledWorker
+BaseIsDosApplication
+Basep8BitStringToDynamicUnicodeString
+BasepAdjustObjectAttributesForPrivateNamespace
+BasepAllocateActivationContextActivationBlock
+BasepAnsiStringToDynamicUnicodeString
+BasepAppContainerEnvironmentExtension
+BasepAppXExtension
+BasepCheckAppCompat
+BasepCheckWebBladeHashes
+BasepCheckWinSaferRestrictions
+BasepConstructSxsCreateProcessMessage
+BasepCopyEncryption
+BasepCreateActCtx
+BasepFinishPackageActivation
+BasepFinishPackageActivationForSxS
+BasepFreeActivationContextActivationBlock
+BasepFreeAppCompatData
+BasepGetAppCompatData
+BasepGetComputerNameFromNtPath
+BasepGetExeArchType
+BasepGetPackageActivationTokenForFilePath
+BasepGetPackageActivationTokenForSxS
+BasepGetPackagedAppInfoForFile
+BasepInitAppCompatData
+BasepIsProcessAllowed
+BasepIsRemovableMedia: Host device is removable, Shim cache deactivated
+BasepIsRemovableMedia: NtQueryVolumeInformationFile failed 0x%lx
+BasepMapModuleHandle
+BasepNotifyLoadStringResource
+BasepNotifyTrackingService
+BasepPostSuccessAppXExtension
+BasepProcessInvalidImage
+BasepQueryAppCompat
+BasepQueryModuleChpeSettings
+BasepReleaseAppXContext
+BasepReleasePackagedAppInfo
+BasepReleaseSxsCreateProcessUtilityStruct
+BasepReportFault
+BasepSetFileEncryptionCompression
+BasepSxsCreateFileStream
+BasepSxsCreateResourceStreamFromFileHandle
+BaseQueryModuleData
+BaseReadAppCompatDataForProcess
+BaseReadAppCompatDataForProcessWorker
+BaseSetLastNTError
+BaseThreadInitThunk
+BaseUpdateAppcompatCache
+BaseUpdateAppcompatCacheWorker
+BaseUpdateVDMEntry
+BaseVerifyUnicodeString
+BaseWriteErrorElevationRequiredEvent
+BAUD=#
+BeginUpdateResourceA
+BeginUpdateResourceW
+BinaryType
+BindIoCompletionCallback
+both tags
+bsearch
+Buffer allocated was not large enough
+Buffer too small to query basic info.
+Buffer too small. Avail: %d, Need: %d
+BuildCommDCBA
+BuildCommDCBAndTimeoutsA
+BuildCommDCBAndTimeoutsW
+BuildCommDCBW
+BuildIoRingCancelRequest
+BuildIoRingFlushFile
+BuildIoRingReadFile
+BuildIoRingRegisterBuffers
+BuildIoRingRegisterFileHandles
+BuildIoRingWriteFile
+ByteMatch
+C@fffff
+C0Y0j0
+C9~,t3C
+Cache
+CallbackMayRunLong
+CallNamedPipeA
+CallNamedPipeW
+CancelDeviceWakeupRequest
+CancelIo
+CancelIoEx
+CancelSynchronousIo
+CancelThreadpoolIo
+CancelTimerQueueTimer
+CancelWaitableTimer
+Cannot resolve database, the path length is 0x%lx
+Can't convert tag ref
+Can't convert tag ref trParent
+Can't convert tag ref trPrev
+Can't convert TAGID
+Can't find DATABASE tag in db
+Can't find DATABASE tag in main db
+Can't find DATABASE tag in stub db
+Can't find LIBRARY tag in main db
+Can't find LIBRARY tag in stub db
+Can't find tag for tag ref 0x%x
+Can't get the name string
+Can't read database header
+CapabilityAlwaysExists
+CeipIsOptedIn
+cfgmgr32.dll
+ChangeTimerQueueTimer
+CheckAllowDecryptedRemoteDestinationPolicy
+CheckElevation
+CheckElevationEnabled
+CheckForReadOnlyResource
+CheckForReadOnlyResourceFilter
+CheckGroupPolicyEnabled
+CheckIsMSIXPackage
+CheckNameLegalDOS8Dot3A
+CheckNameLegalDOS8Dot3W
+CheckRemoteDebuggerPresent
+CheckTokenCapability
+CheckTokenMembership
+CheckTokenMembershipEx
+Chttp://www.microsoft.com/pkiops/crl/MicWinProPCA2011_2011-10-19.crl0a
+Cj\[f;
+ClearCommBreak
+ClearCommError
+ClientSessionId
+CloseConsoleHandle
+CloseHandle
+CloseIoRing
+ClosePackageInfo
+ClosePrivateNamespace
+CloseProfileUserMapping
+ClosePseudoConsole
+CloseState
+CloseThreadpool
+CloseThreadpoolCleanupGroup
+CloseThreadpoolCleanupGroupMembers
+CloseThreadpoolIo
+CloseThreadpoolTimer
+CloseThreadpoolWait
+CloseThreadpoolWork
+CLR version string null or too long
+CM_Get_Device_ID_ListW
+CM_Locate_DevNodeW
+CM_Open_DevNode_Key
+CmdBatNotification
+CommConfigDialogA
+CommConfigDialogW
+CompanyName
+CompareCalendarDates
+CompareFileTime
+CompareStringA
+CompareStringEx
+CompareStringOrdinal
+CompareStringW
+CompatCachepSetFlags
+CompatMode
+ComputerName
+ConfigDialog
+ConnectNamedPipe
+ConsoleMenuControl
+ContinueDebugEvent
+Control Panel\International
+Control Panel\International\Geo
+ConvertCalDateTimeToSystemTime
+ConvertDefaultLocale
+ConvertFiberToThread
+ConvertNLSDayOfWeekToWin32DayOfWeek
+ConvertSystemTimeToCalDateTime
+ConvertThreadToFiber
+ConvertThreadToFiberEx
+CopyContext
+CopyFile2
+CopyFileA
+CopyFileExA
+CopyFileExW
+CopyFileTransactedA
+CopyFileTransactedW
+CopyFileW
+CopyLZFile
+CorruptDetection
+CorruptionErrorOrSignature
+CorruptionStatus
+CRC1,0x
+CrcFileStart  : %I64u
+CrcViewOffset : %I64u
+CreateActCtxA
+CreateActCtxW
+CreateActCtxWWorker
+CreateBoundaryDescriptorA
+CreateBoundaryDescriptorW
+CreateConsoleScreenBuffer
+CreateDirectoryA
+CreateDirectoryExA
+CreateDirectoryExW
+CreateDirectoryTransactedA
+CreateDirectoryTransactedW
+CreateDirectoryW
+CreateEnclave
+CreateEventA
+CreateEventExA
+CreateEventExW
+CreateEventW
+CreateFiber
+CreateFiberEx
+CreateFile2
+CreateFileA
+CreateFileMappingA
+CreateFileMappingFromApp
+CreateFileMappingNumaA
+CreateFileMappingNumaW
+CreateFileMappingW
+CreateFileTransactedA
+CreateFileTransactedW
+CreateFileW
+CreateHardLinkA
+CreateHardLinkTransactedA
+CreateHardLinkTransactedW
+CreateHardLinkW
+CreateIoCompletionPort
+CreateIoRing
+CreateJobObjectA
+CreateJobObjectW
+CreateJobSet
+CreateMailslotA
+CreateMailslotW
+CreateMemoryResourceNotification
+CreateMutexA
+CreateMutexExA
+CreateMutexExW
+CreateMutexW
+CreateNamedPipeA
+CreateNamedPipeW
+CreatePackageVirtualizationContext
+CreatePipe
+CreatePrivateNamespaceA
+CreatePrivateNamespaceW
+CreateProcessA
+CreateProcessAsUserA
+CreateProcessAsUserW
+CreateProcessInternalA
+CreateProcessInternalW
+CreateProcessNotify
+CreateProcessW
+CreatePseudoConsole
+CreateRemoteThread
+CreateRemoteThreadEx
+CreateSemaphoreA
+CreateSemaphoreExA
+CreateSemaphoreExW
+CreateSemaphoreW
+CreateSocketHandle
+CreateSymbolicLinkA
+CreateSymbolicLinkTransactedA
+CreateSymbolicLinkTransactedW
+CreateSymbolicLinkW
+CreateTapePartition
+CreateThread
+CreateThreadpool
+CreateThreadpoolCleanupGroup
+CreateThreadpoolIo
+CreateThreadpoolTimer
+CreateThreadpoolWait
+CreateThreadpoolWork
+CreateTimerQueue
+CreateTimerQueueTimer
+CreateToolhelp32Snapshot
+CreateWaitableTimerA
+CreateWaitableTimerExA
+CreateWaitableTimerExW
+CreateWaitableTimerW
+CreateWellKnownSid
+CsrAllocateCaptureBuffer
+CsrAllocateMessagePointer
+CsrClientCallServer
+CsrFreeCaptureBuffer
+CsrVerifyRegion
+CtrlRoutine
+Custom
+Custom\Custom64
+cvKA;
+D$ 9}
+D$ f;
+D$ Pj
+D$ VW
+D$$+D$
+D$$=sdbft
+D$$9M
+D$$f90u)f9p
+D$$P3
+D$$Pj
+D$$PjP
+D$$PSh
+D$$Xj
+D$&Xj
+D$( t^
+D$(Ph
+D$(Pj
+D$(QQ
+D$(VPS
+D$,Pj
+D$,PVVWVVV
+D$,SP
+D$,VP
+D$,Xf
+D$@VP
+D$`Ph
+D$`Xj
+D$<Pj
+D$<Pj=
+D$<VWjDj
+D$090
+D$0G3
+D$0Ph<
+D$0Php
+D$0Pj
+D$2Pd
+D$4Ph
+D$4Pj
+D$4QPQQ
+D$8Pj
+D$8PSj
+D$8SVW
+D$Dj\Yf9L$Pt
+D$dPjP
+D$DPSQ
+D$DPSR
+D$DPV
+D$dWWj
+D$HjPP
+D$hPh
+D$HPh
+D$hPj
+D$HPW
+D$HSP
+D$hSV
+D$hVSP
+D$hWWPh,
+D$LP3
+D$lPj
+D$LPS
+D$pPh
+D$PQP
+D$PSVW
+D$tPj
+D$TPSSS
+D$Xf;
+D$XPh
+D$xPj
+d@fffff
+DATA=#
+Database "%ws" is not of the same type as the main EXE
+DatabaseRuntimePlatform
+DatabaseType
+DbgPrint
+DbgPrintEx
+DbgUiGetThreadDebugObject
+DbgUiIssueRemoteBreakin
+dbRegistryDefaultName
+DeactivateActCtx
+DeactivateActCtxWorker
+DeactivatePackageVirtualizationContext
+DebugActiveProcess
+DebugActiveProcessStop
+DebugBreak
+DebugBreakProcess
+Debugger
+DebuggerProtectionLevel
+DebugSetProcessKillOnExit
+DecodePointer
+DecodeSystemPointer
+DecryptFileW
+Default
+DefineDosDeviceA
+DefineDosDeviceW
+DelayLoadFailureHook
+DeleteAtom
+DeleteBoundaryDescriptor
+DeleteCriticalSection
+DeleteFiber
+DeleteFileA
+DeleteFileTransactedA
+DeleteFileTransactedW
+DeleteFileW
+DeleteProcThreadAttributeList
+DeleteSynchronizationBarrier
+DeleteTimerQueue
+DeleteTimerQueueEx
+DeleteTimerQueueTimer
+DeleteVolumeMountPointA
+DeleteVolumeMountPointW
+DeviceIoControl
+Did not find
+DisableDoubleQuerySdbs
+DisableThreadLibraryCalls
+DisableThreadProfiling
+DisallowedPolicyDefault
+DisassociateCurrentThreadFromCallback
+DiscardVirtualMemory
+DisconnectNamedPipe
+DllPath
+DNSAPI.DLL
+Dnscache
+DnscacheTcpipParameters
+DnsHostnameToComputerNameA
+DnsHostnameToComputerNameExW
+DnsHostnameToComputerNameW
+DnsValidateName_W
+DosDateTimeToFileTime
+DosPathToSessionPathA
+DosPathToSessionPathW
+drvCommConfigDialogW
+drvGetDefaultCommConfigW
+drvmain.sdb
+drvSetDefaultCommConfigW
+DTR=*
+DuplicateConsoleHandle
+DuplicateEncryptionInfoFile
+DuplicateEncryptionInfoFileExt
+DuplicateHandle
+DuplicatePackageVirtualizationContext
+DuplicateToken
+EfsClientEncryptFileEx
+EfsClientFreeProtectorList
+EfsClientQueryProtectors
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+Ehttp://www.microsoft.com/pkiops/certs/MicWinProPCA2011_2011-10-19.crt0
+EnableProcessOptionalXStateFeatures
+EnableThreadProfiling
+EncodePointer
+EncodeSystemPointer
+Encountered a merge entry key not a string or guid %x
+Encountered an index with an unexpected key for tag %x
+Encountered an index without a TAG_INDEX_BITS entry 0x%08X
+EncryptedFileKeyInfo
+EncryptFileW
+EndUpdateResourceA
+EndUpdateResourceW
+Enter.
+EnterCriticalSection
+EnterSynchronizationBarrier
+EnumCalendarInfoA
+EnumCalendarInfoExA
+EnumCalendarInfoExEx
+EnumCalendarInfoExW
+EnumCalendarInfoW
+EnumDateFormatsA
+EnumDateFormatsExA
+EnumDateFormatsExEx
+EnumDateFormatsExW
+EnumDateFormatsW
+EnumerateLocalComputerNamesA
+EnumerateLocalComputerNamesW
+EnumLanguageGroupLocalesA
+EnumLanguageGroupLocalesW
+EnumResourceLanguagesA
+EnumResourceLanguagesExA
+EnumResourceLanguagesExW
+EnumResourceLanguagesW
+EnumResourceNamesA
+EnumResourceNamesExA
+EnumResourceNamesExW
+EnumResourceNamesW
+EnumResourceTypesA
+EnumResourceTypesExA
+EnumResourceTypesExW
+EnumResourceTypesW
+EnumSystemCodePagesA
+EnumSystemCodePagesW
+EnumSystemFirmwareTables
+EnumSystemGeoID
+EnumSystemGeoNames
+EnumSystemLanguageGroupsA
+EnumSystemLanguageGroupsW
+EnumSystemLocalesA
+EnumSystemLocalesEx
+EnumSystemLocalesW
+EnumTimeFormatsA
+EnumTimeFormatsEx
+EnumTimeFormatsW
+EnumUILanguagesA
+EnumUILanguagesW
+en-US
+EqualSid
+EraseTape
+Error getting ptr to tag data
+Error getting StringRef
+Error in registry value retrieved with NtQueryValueKey, not REG_SZ or REG_EXPAND_SZ
+Error reading buffer
+Error reading data
+Error reading size data
+Error reading tag
+Error reading tag data
+EscapeCommFunction
+EtwEventEnabled
+EtwEventRegister
+EtwEventUnregister
+EtwEventWrite
+EtwEventWriteNoRegistration
+EventRegister
+EventSetInformation
+EventUnregister
+EventWriteTransfer
+Exception encountered [%x]
+Exception retrieving version block [%x] for '%ls'
+EXE d'auto-extraction d'InstallShield
+ExitProcess
+ExitThread
+ExitVDM
+Expand callback failed to expand SDB
+Expanded SDB file too small or too large to be valid.
+ExpandEnvironmentStringsA
+ExpandEnvironmentStringsW
+Export directory invalid or invalid image format
+Export directory pointer invalid (points to location outside file), invalid image format
+ExpungeConsoleCommandHistoryA
+ExpungeConsoleCommandHistoryW
+ext-ms-win-ntuser-windowstation-l1-1-0
+ext-ms-win-ntuser-windowstation-l1-1-1
+ext-ms-win-ntuser-windowstation-l1-1-2
+ext-ms-win-oobe-query-l1-1-0
+ext-ms-win-oobe-query-l1-1-0.dll
+ext-ms-win-packagevirtualizationcontext-l1-1-0.dll
+EXTRACTOPT
+F$PSWj
+f;<3[r
+f;A ut
+f;D$(u
+f;D$4u
+f;D$8u
+f;D$Du
+f;Y v
+f@33333#g@
+F4!FP
+f9\$Hu
+f9\$Xu
+f9|$ 
+f9<Bu
+f94Ht"h
+f94Hu
+f98t,
+f98tk
+f9t$ 
+f9t$`u
+f9t$Hu
+f9t$Pu
+Failed to allocate %d bytes for user key buffer
+Failed to allocate %ld bytes for key path
+Failed to allocate basic info.
+Failed to allocate DB structure
+Failed to allocate memory
+Failed to allocate memory for text blob
+Failed to allocate or convert stub path.
+Failed to allocate partial info.
+Failed to allocate path string [%x]
+Failed to allocate process history buffer
+Failed to allocate sdb context
+Failed to allocate search path parts
+Failed to allocate stub path.
+Failed to allocate temp buffer
+Failed to cat string [%x]
+Failed to check file attributes [%x]
+Failed to check if tag %x was updated by other PDB
+Failed to check MATCHING_REG entry
+Failed to check MATCHING_TEXT entry
+Failed to check MATCHING_WILDCARD_REGISTRY entry
+Failed to check timestamp [%x]
+Failed to compute the path length [%x]
+Failed to construct full key path
+Failed to convert dos path to nt path [%x]
+Failed to convert guid to string [%x]
+Failed to create file mapping [%x]
+Failed to create file mapping for redirected SDB file [%x]
+Failed to duplicate stub path.
+Failed to expand environment variables in temporary internet file path [%x]
+Failed to find Attribute to use for sdb tag
+Failed to find the Cor20Header
+Failed to get attribute %d [%x]
+Failed to get database type [%x]
+Failed to get file id [%d]
+Failed to get full path [%x]
+Failed to get HWID
+Failed to get key path tag
+Failed to get manifested stub [%x]
+Failed to get MATCHING_TEXT file path
+Failed to get pointer to the index data tagid x%lx
+Failed to get processor architecture [%x]
+Failed to get program id [%d]
+Failed to get root tag
+Failed to get runtime platform [%x]
+Failed to get system root directory [%x]
+Failed to get TAG_REG_VALUE_DATA_BINARY
+Failed to get TAG_REG_VALUE_DATA_DWORD
+Failed to get TAG_REG_VALUE_DATA_QWORD
+Failed to get TAG_REG_VALUE_DATA_SZ
+Failed to get text to match blob
+Failed to get the database ID
+Failed to get the database id
+Failed to get the pointer to index data, index tagid 0x%lx
+Failed to get the string from the database
+Failed to get timestamp from %S. [%x]
+Failed to hash File path [%#x]
+Failed to initialize SEARCHDBCONTEXT
+Failed to map file [%x]
+Failed to map SDB [%x]
+Failed to open database
+Failed to open dir [%x]
+Failed to open file [%x]
+Failed to open file key [%d]
+Failed to open Key "%ws" [%x]
+Failed to open SDB - File size too large or small.
+Failed to query basic info.
+Failed to query key value [%x]
+Failed to query partial info.
+Failed to query reg value.
+Failed to read database header
+Failed to read database id 0x%lx
+Failed to read encoding type
+Failed to read HWID attribute
+Failed to read key path
+Failed to read matching text blob
+Failed to read MATCHING_REG entry
+Failed to read MATCHING_TEXT entry
+Failed to read MATCHING_TEXT file path
+Failed to read MATCHING_WILDCARD_REGISTRY entry
+Failed to read text encoding
+Failed to read text to match
+Failed to read value
+Failed to read value data
+Failed to read value type
+Failed to resolve matching dir
+Failed to resolve matching file
+Failed to resolve matching text file
+Failed to retrieve process history
+Failed to retrieve temporary directory [%x]
+Failed to split the wildcard path
+Failed to upcase unicode string "%ws"
+FatalAppExitA
+FatalAppExitW
+FatalExit
+feclient.dll
+fg:SM
+FGf;}
+FH;F<s
+FH;F<s6f
+File mapping invalid
+File mapping invalid [%x]
+File mapping not a PE [%x]
+FileDescription
+FileId
+FilePath: '%ws'  Pattern: '%ws'
+FileSize      : %I64u
+FileSystem
+FileTimeToDosDateTime
+FileTimeToLocalFileTime
+FileTimeToSystemTime
+FileVersion
+FillConsoleOutputAttribute
+FillConsoleOutputCharacterA
+FillConsoleOutputCharacterW
+FindActCtxSectionGuid
+FindActCtxSectionGuidWorker
+FindActCtxSectionStringA
+FindActCtxSectionStringW
+FindActCtxSectionStringWWorker
+FindAtomA
+FindAtomW
+FindClose
+FindCloseChangeNotification
+FindFirstChangeNotificationA
+FindFirstChangeNotificationW
+FindFirstFile failed for %ws [GLE: %d]
+FindFirstFile failed for %ws [GLE: %x]
+FindFirstFileA
+FindFirstFileExA
+FindFirstFileExW
+FindFirstFileNameTransactedW
+FindFirstFileNameW
+FindFirstFileTransactedA
+FindFirstFileTransactedW
+FindFirstFileW
+FindFirstStreamTransactedW
+FindFirstStreamW
+FindFirstVolumeA
+FindFirstVolumeMountPointA
+FindFirstVolumeMountPointW
+FindFirstVolumeW
+FindNextChangeNotification
+FindNextFileA
+FindNextFileNameW
+FindNextFileW
+FindNextStreamW
+FindNextVolumeA
+FindNextVolumeMountPointA
+FindNextVolumeMountPointW
+FindNextVolumeW
+FindNLSString
+FindNLSStringEx
+FindPackagesByPackageFamily
+FindResourceA
+FindResourceExA
+FindResourceExW
+FindResourceW
+FindStringOrdinal
+FindVolumeClose
+FindVolumeMountPointClose
+first tag
+Fj0Yf
+Fl;F`
+Flags
+Flags:%d; DatabasePath:%ws
+floor
+FlsAlloc
+FlsFree
+FlsGetValue
+FlsSetValue
+FlushConsoleInputBuffer
+FlushFileBuffers
+FlushInstructionCache
+FlushProcessWriteBuffers
+FlushViewOfFile
+FoldStringA
+FoldStringW
+FormatApplicationUserModelId
+FormatMessageA
+FormatMessageW
+Found
+FreeConsole
+FreeEncryptedFileKeyInfo
+FreeEnvironmentStringsA
+FreeEnvironmentStringsW
+FreeLibrary
+FreeLibraryAndExitThread
+FreeLibraryWhenCallbackReturns
+FreeMemoryJobObject
+FreeResource
+FreeSid
+FreeUserPhysicalPages
+FriendlyName
+frxmain.sdb
+Full path: %ws, Flags: %x
+G QQh
+G<PjPZ
+G0+G,QP
+GenerateConsoleCtrlEvent
+Gentee installer
+Gentee.Installer
+GetACP
+GetActiveProcessorCount
+GetActiveProcessorGroupCount
+GetAppContainerAce
+GetAppContainerNamedObjectPath
+GetApplicationRecoveryCallback
+GetApplicationRecoveryCallbackWorker
+GetApplicationRestartSettings
+GetApplicationRestartSettingsWorker
+GetApplicationUserModelId
+GetAtomNameA
+GetAtomNameW
+GetBinaryType
+GetBinaryTypeA
+GetBinaryTypeW
+GetCachedSigningLevel
+GetCalendar
+GetCalendarDateFormat
+GetCalendarDateFormatEx
+GetCalendarDaysInMonth
+GetCalendarDifferenceInDays
+GetCalendarInfoA
+GetCalendarInfoEx
+GetCalendarInfoW
+GetCalendarMonthsInYear
+GetCalendarSupportedDateRange
+GetCalendarWeekNumber
+GetCommandLineA
+GetCommandLineW
+GetCommConfig
+GetCommMask
+GetCommModemStatus
+GetCommProperties
+GetCommState
+GetCommTimeouts
+GetComPlusPackageInstallStatus
+GetCompressedFileSizeA
+GetCompressedFileSizeTransactedA
+GetCompressedFileSizeTransactedW
+GetCompressedFileSizeW
+GetComputerNameA
+GetComputerNameExA
+GetComputerNameExW
+GetComputerNameW
+GetConsoleAliasA
+GetConsoleAliasesA
+GetConsoleAliasesLengthA
+GetConsoleAliasesLengthW
+GetConsoleAliasesW
+GetConsoleAliasExesA
+GetConsoleAliasExesLengthA
+GetConsoleAliasExesLengthW
+GetConsoleAliasExesW
+GetConsoleAliasW
+GetConsoleCharType
+GetConsoleCommandHistoryA
+GetConsoleCommandHistoryLengthA
+GetConsoleCommandHistoryLengthW
+GetConsoleCommandHistoryW
+GetConsoleCP
+GetConsoleCursorInfo
+GetConsoleCursorMode
+GetConsoleDisplayMode
+GetConsoleFontInfo
+GetConsoleFontSize
+GetConsoleHardwareState
+GetConsoleHistoryInfo
+GetConsoleInputExeNameA
+GetConsoleInputExeNameW
+GetConsoleInputWaitHandle
+GetConsoleKeyboardLayoutNameA
+GetConsoleKeyboardLayoutNameW
+GetConsoleMode
+GetConsoleNlsMode
+GetConsoleOriginalTitleA
+GetConsoleOriginalTitleW
+GetConsoleOutputCP
+GetConsoleProcessList
+GetConsoleScreenBufferInfo
+GetConsoleScreenBufferInfoEx
+GetConsoleSelectionInfo
+GetConsoleTitleA
+GetConsoleTitleW
+GetConsoleWindow
+GetCPInfo
+GetCPInfoExA
+GetCPInfoExW
+GetCurrencyFormatA
+GetCurrencyFormatEx
+GetCurrencyFormatW
+GetCurrentActCtx
+GetCurrentActCtxWorker
+GetCurrentApplicationUserModelId
+GetCurrentConsoleFont
+GetCurrentConsoleFontEx
+GetCurrentDirectoryA
+GetCurrentDirectoryW
+GetCurrentPackageFamilyName
+GetCurrentPackageFullName
+GetCurrentPackageId
+GetCurrentPackageInfo
+GetCurrentPackagePath
+GetCurrentPackageVirtualizationContext
+GetCurrentProcess
+GetCurrentProcessId
+GetCurrentProcessorNumber
+GetCurrentProcessorNumberEx
+GetCurrentThread
+GetCurrentThreadId
+GetCurrentThreadStackLimits
+GetDateFormatA
+GetDateFormatAWorker
+GetDateFormatEx
+GetDateFormatW
+GetDateFormatWWorker
+GetDefaultCommConfigA
+GetDefaultCommConfigW
+GetDevicePowerState
+GetDiskFreeSpaceA
+GetDiskFreeSpaceExA
+GetDiskFreeSpaceExW
+GetDiskFreeSpaceW
+GetDiskSpaceInformationA
+GetDiskSpaceInformationW
+GetDllDirectoryA
+GetDllDirectoryW
+GetDriveTypeA
+GetDriveTypeW
+GetDurationFormat
+GetDurationFormatEx
+GetDynamicTimeZoneInformation
+GetEightBitStringToUnicodeStringRoutine
+GetEnabledXStateFeatures
+GetEncryptedFileVersionExt
+GetEnvironmentStrings
+GetEnvironmentStringsA
+GetEnvironmentStringsW
+GetEnvironmentVariableA
+GetEnvironmentVariableW
+GetEraNameCountedString
+GetErrorMode
+GetExitCodeProcess
+GetExitCodeThread
+GetExpandedNameA
+GetExpandedNameW
+GetFileAttributesA
+GetFileAttributesExA
+GetFileAttributesExW
+GetFileAttributesTransactedA
+GetFileAttributesTransactedW
+GetFileAttributesW
+GetFileBandwidthReservation
+GetFileInformationByHandle
+GetFileInformationByHandleEx
+GetFileMUIInfo
+GetFileMUIPath
+GetFileSize
+GetFileSizeEx
+GetFileTime
+GetFileType
+GetFinalPathNameByHandleA
+GetFinalPathNameByHandleW
+GetFirmwareEnvironmentVariableA
+GetFirmwareEnvironmentVariableExA
+GetFirmwareEnvironmentVariableExW
+GetFirmwareEnvironmentVariableW
+GetFirmwareType
+GetFullPathNameA
+GetFullPathNameTransactedA
+GetFullPathNameTransactedW
+GetFullPathNameW
+GetGeoInfoA
+GetGeoInfoEx
+GetGeoInfoW
+GetHandleContext
+GetHandleInformation
+GetIoRingInfo
+GetLargePageMinimum
+GetLargestConsoleWindowSize
+GetLastError
+GetLocaleInfoA
+GetLocaleInfoEx
+GetLocaleInfoHelper
+GetLocaleInfoW
+GetLocalTime
+GetLogicalDrives
+GetLogicalDriveStringsA
+GetLogicalDriveStringsW
+GetLogicalProcessorInformation
+GetLogicalProcessorInformationEx
+GetLongPathNameA
+GetLongPathNameTransactedA
+GetLongPathNameTransactedW
+GetLongPathNameW
+GetMachineTypeAttributes
+GetMailslotInfo
+GetMaximumProcessorCount
+GetMaximumProcessorGroupCount
+GetMemory
+GetMemoryErrorHandlingCapabilities
+GetModuleFileNameA
+GetModuleFileNameW
+GetModuleHandleA
+GetModuleHandleExA
+GetModuleHandleExW
+GetModuleHandleW
+GetNamedLocaleHashNode
+GetNamedPipeAttribute
+GetNamedPipeClientComputerNameA
+GetNamedPipeClientComputerNameW
+GetNamedPipeClientProcessId
+GetNamedPipeClientSessionId
+GetNamedPipeHandleStateA
+GetNamedPipeHandleStateW
+GetNamedPipeInfo
+GetNamedPipeServerProcessId
+GetNamedPipeServerSessionId
+GetNativeSystemInfo
+GetNextVDMCommand
+GetNLSVersion
+GetNLSVersionEx
+GetNumaAvailableMemoryNode
+GetNumaAvailableMemoryNodeEx
+GetNumaHighestNodeNumber
+GetNumaNodeNumberFromHandle
+GetNumaNodeProcessorMask
+GetNumaNodeProcessorMask2
+GetNumaNodeProcessorMaskEx
+GetNumaProcessorNode
+GetNumaProcessorNodeEx
+GetNumaProximityNode
+GetNumaProximityNodeEx
+GetNumberFormatA
+GetNumberFormatEx
+GetNumberFormatW
+GetNumberOfConsoleFonts
+GetNumberOfConsoleInputEvents
+GetNumberOfConsoleMouseButtons
+GetOEMCP
+GetOverlappedResult
+GetOverlappedResultEx
+GetPackageApplicationIds
+GetPackagedDataForFile
+GetPackageFamilyName
+GetPackageFullName
+GetPackageId
+GetPackageInfo
+GetPackagePath
+GetPackagePathByFullName
+GetPackagesByPackageFamily
+GetPackageTargetPlatformProperty
+GetPathFunction (for SdbFileType %d, IsLtRs3: %d) failed [%x]
+GetPhysicallyInstalledSystemMemory
+GetPriorityClass
+GetPrivateProfileIntA
+GetPrivateProfileIntW
+GetPrivateProfileSectionA
+GetPrivateProfileSectionNamesA
+GetPrivateProfileSectionNamesW
+GetPrivateProfileSectionW
+GetPrivateProfileStringA
+GetPrivateProfileStringW
+GetPrivateProfileStructA
+GetPrivateProfileStructW
+GetProcAddress
+GetProcAddressForCaller
+GetProcessAffinityMask
+GetProcessDefaultCpuSetMasks
+GetProcessDefaultCpuSets
+GetProcessDEPPolicy
+GetProcessesInVirtualizationContext
+GetProcessGroupAffinity
+GetProcessHandleCount
+GetProcessHeap
+GetProcessHeaps
+GetProcessId
+GetProcessIdOfThread
+GetProcessInformation
+GetProcessIoCounters
+GetProcessMitigationPolicy
+GetProcessorSystemCycleTime
+GetProcessPreferredUILanguages
+GetProcessPriorityBoost
+GetProcessShutdownParameters
+GetProcessTimes
+GetProcessVersion
+GetProcessWorkingSetSize
+GetProcessWorkingSetSizeEx
+GetProductInfo
+GetProfileIntA
+GetProfileIntW
+GetProfileSectionA
+GetProfileSectionW
+GetProfileStringA
+GetProfileStringW
+GetPtrCalData
+GetPtrCalDataArray
+GetQueuedCompletionStatus
+GetQueuedCompletionStatusEx
+GetRegistryExtensionFlags
+GetShortPathNameA
+GetShortPathNameW
+GetStagedPackagePathByFullName
+GetStartupInfoA
+GetStartupInfoW
+GetStateFolder
+GetStdHandle
+GetStringScripts
+GetStringTableEntry
+GetStringTypeA
+GetStringTypeExA
+GetStringTypeExW
+GetStringTypeW
+GetSystemAppDataKey
+GetSystemCpuSetInformation
+GetSystemDefaultLangID
+GetSystemDefaultLCID
+GetSystemDefaultLocaleName
+GetSystemDefaultUILanguage
+GetSystemDEPPolicy
+GetSystemDirectoryA
+GetSystemDirectoryW
+GetSystemFileCacheSize
+GetSystemFirmwareTable
+GetSystemInfo
+GetSystemPowerStatus
+GetSystemPreferredUILanguages
+GetSystemRegistryQuota
+GetSystemTime
+GetSystemTimeAdjustment
+GetSystemTimeAsFileTime
+GetSystemTimePreciseAsFileTime
+GetSystemTimes
+GetSystemWindowsDirectoryA
+GetSystemWindowsDirectoryW
+GetSystemWow64Directory2W
+GetSystemWow64DirectoryA
+GetSystemWow64DirectoryW
+GetTapeParameters
+GetTapePosition
+GetTapeStatus
+GetTargetPlatformContext
+GetTempFileNameA
+GetTempFileNameW
+GetTempPath2A
+GetTempPath2W
+GetTempPathA
+GetTempPathW
+GetTermsrCompatFlags
+GetThreadContext
+GetThreadDescription
+GetThreadEnabledXStateFeatures
+GetThreadErrorMode
+GetThreadGroupAffinity
+GetThreadId
+GetThreadIdealProcessorEx
+GetThreadInformation
+GetThreadIOPendingFlag
+GetThreadLocale
+GetThreadPreferredUILanguages
+GetThreadPriority
+GetThreadPriorityBoost
+GetThreadSelectedCpuSetMasks
+GetThreadSelectedCpuSets
+GetThreadSelectorEntry
+GetThreadTimes
+GetThreadUILanguage
+GetTickCount
+GetTickCount64
+GetTimeFormatA
+GetTimeFormatAWorker
+GetTimeFormatEx
+GetTimeFormatW
+GetTimeFormatWWorker
+GetTimeZoneInformation
+GetTimeZoneInformationForYear
+GetTokenInformation
+GetUILanguageInfo
+GetUnicodeStringToEightBitSizeRoutine
+GetUnicodeStringToEightBitStringRoutine
+GetUserDefaultGeoName
+GetUserDefaultLangID
+GetUserDefaultLCID
+GetUserDefaultLocaleName
+GetUserDefaultUILanguage
+GetUserGeoID
+GetUserOverrideString
+GetUserOverrideWord
+GetUserPreferredUILanguages
+GetVDMCurrentDirectories
+GetVersion
+GetVersionExA
+GetVersionExW
+GetVolumeInformationA
+GetVolumeInformationByHandleW
+GetVolumeInformationW
+GetVolumeNameForVolumeMountPointA
+GetVolumeNameForVolumeMountPointW
+GetVolumePathNameA
+GetVolumePathNamesForVolumeNameA
+GetVolumePathNamesForVolumeNameW
+GetVolumePathNameW
+GetWindowsDirectoryA
+GetWindowsDirectoryW
+GetWriteWatch
+GetXStateFeaturesMask
+GH;G<
+GIPEND
+Gl;G`r
+GlobalAddAtomA
+GlobalAddAtomExA
+GlobalAddAtomExW
+GlobalAddAtomW
+GlobalAlloc
+GlobalCompact
+GlobalDeleteAtom
+GlobalFindAtomA
+GlobalFindAtomW
+GlobalFix
+GlobalFlags
+GlobalFree
+GlobalGetAtomNameA
+GlobalGetAtomNameW
+GlobalHandle
+GlobalLock
+GlobalMemoryStatus
+GlobalMemoryStatusEx
+GlobalReAlloc
+GLOBALROOT
+GLOBALROOT\Sessions\
+GlobalSize
+GlobalUnfix
+GlobalUnlock
+GlobalUnWire
+GlobalWire
+GXjhh
+h@33333
+Headless
+HEAP_SIGNATURE
+Heap32First
+Heap32ListFirst
+Heap32ListNext
+Heap32Next
+HeapAlloc
+HeapCompact
+HeapCreate
+HeapDestroy
+HeapFree
+HeapLock
+HeapQueryInformation
+HeapReAlloc
+HeapSetInformation
+HeapSize
+HeapSummary
+HeapUnlock
+HeapValidate
+HeapWalk
+HEROSOFTSOUTHERN
+hotkey.%u %s
+hrbares Programm EXE
+http://schemas.microsoft.com/SMI/2005/WindowsSettings
+http://schemas.microsoft.com/SMI/2011/WindowsSettings
+http://schemas.microsoft.com/SMI/2013/WindowsSettings
+http://schemas.microsoft.com/SMI/2014/WindowsSettings
+http://schemas.microsoft.com/SMI/2016/WindowsSettings
+http://schemas.microsoft.com/SMI/2017/WindowsSettings
+http://schemas.microsoft.com/SMI/2019/WindowsSettings
+http://schemas.microsoft.com/SMI/2020/WindowsSettings
+hXb1y)7
+I_RpcExceptionFilter
+I0G1-0+
+IdnToAscii
+IdnToNameprepUnicode
+IdnToUnicode
+idska32
+IDSR=OFF
+IDSR=ON
+IGNORESRPV2
+IJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+Illustrate.Spoon.Installer
+InitAtomTable
+InitializeConditionVariable
+InitializeContext
+InitializeContext2
+InitializeCriticalSection
+InitializeCriticalSectionAndSpinCount
+InitializeCriticalSectionEx
+InitializeEnclave
+InitializeProcThreadAttributeList
+InitializeSListHead
+InitializeSRWLock
+InitializeSynchronizationBarrier
+InitOnceBeginInitialize
+InitOnceComplete
+InitOnceExecuteOnce
+InitOnceGetStringTableOffset
+InitOnceGetStringTableOffset succeeded but failed to find string table
+InitOnceInitialize
+InstallELAMCertificateInfo
+InstallLanguage
+InstallShield 
+InstallShield Selbstausf
+InstallShield Self-extracting EXE
+InstallShield.Setup
+InterlockedCompareExchange
+InterlockedCompareExchange64
+InterlockedDecrement
+InterlockedExchange
+InterlockedExchangeAdd
+InterlockedFlushSList
+InterlockedIncrement
+InterlockedPopEntrySList
+InterlockedPushEntrySList
+InterlockedPushListSList
+InterlockedPushListSListEx
+Internal_EnumCalendarInfo
+Internal_EnumDateFormats
+Internal_EnumLanguageGroupLocales
+Internal_EnumSystemCodePages
+Internal_EnumSystemLanguageGroups
+Internal_EnumTimeFormats
+Internal_EnumUILanguages
+InternalLcidToName
+InternalName
+Invalid argument
+Invalid buffer size
+Invalid COM Descriptor virtual address encountered
+Invalid combination of Host/Current processor architectures passed to AslpEnvResolveVars Host: %x4 Current: %x4
+Invalid COR20 Metadata signature encountered
+Invalid COR20 Metadata virtual address encountered
+Invalid match file length
+Invalid path size
+Invalid pdb
+Invalid tagid 0x%lx
+Invalid value type
+InvalidateConsoleDIBits
+InventoryApplicationFile
+IsBadCodePtr
+IsBadHugeReadPtr
+IsBadHugeWritePtr
+IsBadReadPtr
+IsBadStringPtrA
+IsBadStringPtrW
+IsBadWritePtr
+IsCalendarLeapDay
+IsCalendarLeapMonth
+IsCalendarLeapYear
+IsDBCSLeadByte
+IsDBCSLeadByteEx
+IsDebuggerPresent
+isdigit
+IsEnclaveTypeSupported
+IsIoRingOpSupported
+IsNativeVhdBoot
+IsNLSDefinedString
+IsNormalizedString
+IsProcessCritical
+IsProcessInJob
+IsProcessorFeaturePresent
+IsSystemResumeAutomatic
+IsThreadAFiber
+IsThreadpoolTimerSet
+IsUserCetAvailableInEnvironment
+IsValidCalDateTime
+IsValidCodePage
+IsValidLanguageGroup
+IsValidLocale
+IsValidLocaleName
+IsValidNLSVersion
+IsWow64GuestMachineSupported
+IsWow64Process
+IsWow64Process2
+j [f;
+j [f9^
+j [f9Y
+j h81
+j hP4
+j hx1
+j Xf9
+j Y9M
+j Yf9
+j$h07
+j$hp4
+j$hP8
+j%Yf;
+j%Yf9
+j%Zf9
+j(h08
+j(hp7
+j(hX1
+j(WSP
+j*Zf98t
+j,hh-
+j,hP7
+j.[f;
+j.[f9\J
+j.Xf;
+j.Xf9
+j.Zf;
+j/Xf;
+j/Yf;
+j:_f9x
+j:Xf9F
+j?[f;
+j?^f9q
+j?^j\f;
+j?Xf;
+j?Yf9L0
+j?YSf
+j?Zf;
+j\[f;
+j\[f9\0
+j\[f9\J
+j\^f9tH
+j\Xf;
+j\XPS
+j\Yf9H
+j\Yf9L0
+j\Yf9L0p
+j\Zf;
+j\Zf9TA
+j\Zf9TH
+j-^f9q&j\^
+j-^f9q:j\^
+j-^f9q0j\^
+j-^f9qDj\^
+j=Xf;
+J>f;O
+j7^f;
+ja-JP
+jAZf;
+jbXf;
+jbYf;
+jD^VS
+jDh(-
+jdYf;
+jg^f;
+jgXf;
+jHYf;
+jhYf;
+jHYf;
+Jj\[f;
+jmYf;
+jMZf9W
+jNYQf
+jph06
+JR.Inno.Setup
+jThx.
+jtYf;
+jWX^[
+jWX_^[
+jWX_^[]
+jWXP3
+j'Xf;
+jxhp*
+j'Yf;
+jyXf;
+jZZf;
+k;x<}
+K32EmptyWorkingSet
+K32EnumDeviceDrivers
+K32EnumPageFilesA
+K32EnumPageFilesW
+K32EnumProcesses
+K32EnumProcessModules
+K32EnumProcessModulesEx
+K32GetDeviceDriverBaseNameA
+K32GetDeviceDriverBaseNameW
+K32GetDeviceDriverFileNameA
+K32GetDeviceDriverFileNameW
+K32GetMappedFileNameA
+K32GetMappedFileNameW
+K32GetModuleBaseNameA
+K32GetModuleBaseNameW
+K32GetModuleFileNameExA
+K32GetModuleFileNameExW
+K32GetModuleInformation
+K32GetPerformanceInfo
+K32GetProcessImageFileNameA
+K32GetProcessImageFileNameW
+K32GetProcessMemoryInfo
+K32GetWsChanges
+K32GetWsChangesEx
+K32InitializeProcessForWsWatch
+K32QueryWorkingSet
+K32QueryWorkingSetEx
+k9t$$t
+kernel32
+KERNEL32.dll
+KernelBase
+kernelbase.AppPolicyGetClrCompat
+kernelbase.AppPolicyGetCreateFileAccess
+kernelbase.AppPolicyGetLifecycleManagement
+kernelbase.AppPolicyGetMediaFoundationCodecLoading
+kernelbase.AppPolicyGetProcessTerminationMethod
+kernelbase.AppPolicyGetShowDeveloperDiagnostic
+kernelbase.AppPolicyGetThreadInitializationType
+kernelbase.AppPolicyGetWindowingModel
+kernelbase.AppXGetOSMaxVersionTested
+kernelbase.CeipIsOptedIn
+kernelbase.ClosePackageInfo
+kernelbase.CloseState
+kernelbase.CtrlRoutine
+KERNELBASE.dll
+kernelbase.dll
+kernelbase.FindPackagesByPackageFamily
+kernelbase.FormatApplicationUserModelId
+kernelbase.GetApplicationUserModelId
+kernelbase.GetConsoleInputExeNameA
+kernelbase.GetConsoleInputExeNameW
+kernelbase.GetCurrentApplicationUserModelId
+kernelbase.GetCurrentPackageFamilyName
+kernelbase.GetCurrentPackageFullName
+kernelbase.GetCurrentPackageId
+kernelbase.GetCurrentPackageInfo
+kernelbase.GetCurrentPackagePath
+kernelbase.GetPackageApplicationIds
+kernelbase.GetPackageFamilyName
+kernelbase.GetPackageFullName
+kernelbase.GetPackageId
+kernelbase.GetPackageInfo
+kernelbase.GetPackagePath
+kernelbase.GetPackagePathByFullName
+kernelbase.GetPackagesByPackageFamily
+kernelbase.GetStagedPackagePathByFullName
+kernelbase.GetStateFolder
+kernelbase.GetSystemAppDataKey
+kernelbase.OpenPackageInfoByFullName
+kernelbase.OpenState
+kernelbase.OpenStateExplicit
+kernelbase.PackageFamilyNameFromFullName
+kernelbase.PackageFamilyNameFromId
+kernelbase.PackageFullNameFromId
+kernelbase.PackageIdFromFullName
+kernelbase.PackageNameAndPublisherIdFromFamilyName
+kernelbase.ParseApplicationUserModelId
+kernelbase.RaiseFailFastException
+kernelbase.ReadConsoleInputExA
+kernelbase.ReadConsoleInputExW
+kernelbase.SetConsoleInputExeNameA
+kernelbase.SetConsoleInputExeNameW
+kernelbase.SetLastConsoleEventActive
+KernelBaseGetGlobalData
+Kernel-SkipOOBE
+kj,Yj Z
+kj^h|
+kj^h8
+kjD_W
+kjjhxO
+kjnh8
+kjoXP
+kjwh8
+kjWX_^[
+kPhL]
+kPhXX
+kPVh8T
+kPWh`
+kPWVh
+kQRPh49
+kSSh0
+kSSSh
+kSSSS
+kSVWQQ
+ku!Whx
+ku^hh
+kVPhH
+kVVVV
+kYj:f
+L$ _^
+L$ PQ
+L$(Qj
+L$(RS
+L$,^3
+L$,_^[3
+L$,+L$
+L$,Qj
+L$@PW
+L$\_^[3
+L$\Qh
+L$<_^[3
+L$<QRP
+L$0^[3
+L$0Qj
+L$4_^[3
+L$4t$3
+L$4u3
+L$D_^[3
+L$LPj
+L$LQWWW
+L$pQh
+L$t_^[3
+LanguageOverlayUtil.dll
+Launch
+LauncherMain
+LaunchNonProtected
+LCIDToLocaleName
+LCMapStringA
+LCMapStringEx
+LCMapStringW
+LdrAddRefDll
+LdrDisableThreadCalloutsForDll
+LdrFindResource_U
+LdrFindResourceEx_U
+LdrGetDllDirectory
+LdrGetDllHandle
+LdrGetProcedureAddress
+LdrLoadDll
+LdrOpenImageFileOptionsKey
+LdrQueryImageFileExecutionOptions
+LdrQueryImageFileKeyOption
+LdrResFindResource failed %ls [%x]
+LdrResFindResource failed [%x]
+LdrResFindResource returned null version block with status: [%x]
+LdrResFindResourceDirectory
+LdrResSearchResource
+LdrSetDllDirectory
+LdrSetDllManifestProber
+LdrUnloadDll
+LeaveCriticalSection
+LeaveCriticalSectionWhenCallbackReturns
+LegalCopyright
+LO>2yS
+LoadAppInit_DLLs
+LoadAppInitDlls
+LoadEnclaveData
+LoadLibraryA
+LoadLibraryExA
+LoadLibraryExW
+LoadLibraryW
+LoadModule
+LoadPackagedLibrary
+LoadResource
+LoadStringBaseExW
+LoadStringBaseW
+LocalAlloc
+LOCALAPPDATA
+LocalCompact
+LocaleNameToLCID
+LocalFileTimeToFileTime
+LocalFileTimeToLocalSystemTime
+LocalFlags
+LocalFree
+LocalHandle
+LocalLock
+LocalReAlloc
+LocalShrink
+LocalSize
+LocalSystemTimeToLocalFileTime
+LocalUnlock
+LocateXStateFeature
+LockFile
+LockFileEx
+LockResource
+Long path conversion failed %d [%x]
+lstrcat
+lstrcatA
+lstrcatW
+lstrcmp
+lstrcmpA
+lstrcmpi
+lstrcmpiA
+lstrcmpiW
+lstrcmpW
+lstrcpy
+lstrcpyA
+lstrcpyn
+lstrcpynA
+lstrcpynW
+lstrcpyW
+lstrlen
+lstrlenA
+lstrlenW
+LSVW3
+LZClose
+LZCloseFile
+LZCopy
+LZCreateFileW
+LZDone
+LZInit
+LZOpenFileA
+LZOpenFileW
+LZRead
+LZSeek
+LZStart
+M;UJg
+m<&8cx
+M<n(-
+M0K0I
+Magic does not match a valid value: 0x%lx
+MajorVersion mismatch, MajorVersion 0x%lx Expected 0x%lx
+MapUserPhysicalPages
+MapUserPhysicalPagesScatter
+MapViewOfFile
+MapViewOfFileEx
+MapViewOfFileExNuma
+MapViewOfFileFromApp
+MaxBandwidth
+MaxIops
+mem16.dll
+memcmp
+memcpy
+memmove
+memmove_s
+memset
+Microsoft
+Microsoft Corporation
+Microsoft Corporation1
+Microsoft Corporation1&0$
+Microsoft Corporation1)0'
+Microsoft Corporation1.0,
+Microsoft Corporation1200
+Microsoft Time-Stamp PCA 2010
+Microsoft Time-Stamp PCA 20100
+Microsoft Time-Stamp Service
+Microsoft Time-Stamp Service0
+Microsoft Windows0
+microsoft.system.package.metadata\Application.Local
+Microsoft.Windows.Base.Win32.Job
+Microsoft.Windows.NTVDM
+microsoftedge.exe
+microsoftedgebchost.exe
+microsoftedgecp.exe
+microsoftedgedevtools.exe
+modem
+MODEM
+Module32First
+Module32FirstW
+Module32Next
+Module32NextW
+MoveFileA
+MoveFileExA
+MoveFileExW
+MoveFileTransactedA
+MoveFileTransactedW
+MoveFileW
+MoveFileWithProgressA
+MoveFileWithProgressTransactedW
+MoveFileWithProgressW
+Mp@fffff
+MqcY z
+msimain.sdb
+muifontsetup.dll
+MUILanguageCleanup.dll
+MulDiv
+MultiByteToWideChar
+N$^[]
+n@fffff&o@
+N0L0J
+Nation
+ncalrpc
+NdrAsyncClientCall
+NeedCurrentDirectoryForExePathA
+NeedCurrentDirectoryForExePathW
+NetSetupApi.dll
+Network ComputerName
+Nhttp://www.microsoft.com/pkiops/crl/Microsoft%20Time-Stamp%20PCA%202010(1).crl0l
+NlsCheckPolicy
+NlsGetCacheUpdateCount
+NlsIsUserDefaultLocale
+NlsMbCodePageTag
+NlsUpdateLocale
+NlsUpdateSystemLocale
+NlsValidateLocale
+No device query callback specified
+No expand callback method set. Cannot expand ZDB file.
+No return context was supplied for InitOnceGetStringTableOffset
+No stringtable in DB
+Node on the stack with invalid handle.
+NormalizeString
+NOS_PO
+NotifyMountMgr
+NotifyUILanguageChange
+NotifyUILanguageChange API
+nsisinstall
+NtAddAtomEx
+NtAllocateVirtualMemory
+NtApphelpCacheControl
+NtAssignProcessToJobObject
+NtClearEvent
+NtClose
+NtCreateEvent
+NtCreateFile
+NtCreateFile failed [%x]
+NtCreateJobObject
+NtCreateJobSet
+NtCreateKey
+NtCreateMailslotFile
+NtCreateSection
+NtDeleteAtom
+NtDeleteValueKey
+NtDeviceIoControlFile
+ntdll.dll
+NTDLL.DLL
+NTDLL.LdrResolveDelayLoadedAPI
+NTDLL.LdrResolveDelayLoadsFromDll
+NTDLL.NtFlushProcessWriteBuffers
+NTDLL.RtlAcquireSRWLockExclusive
+NTDLL.RtlAcquireSRWLockShared
+NTDLL.RtlAddVectoredContinueHandler
+NTDLL.RtlAddVectoredExceptionHandler
+NTDLL.RtlAllocateHeap
+NTDLL.RtlCaptureStackBackTrace
+NTDLL.RtlDecodePointer
+NTDLL.RtlDecodeSystemPointer
+NTDLL.RtlDeleteCriticalSection
+NTDLL.RtlEncodePointer
+NTDLL.RtlEncodeSystemPointer
+NTDLL.RtlEnterCriticalSection
+NTDLL.RtlExitUserThread
+NTDLL.RtlGetCurrentProcessorNumber
+NTDLL.RtlGetCurrentProcessorNumberEx
+NTDLL.RtlInitializeConditionVariable
+NTDLL.RtlInitializeCriticalSection
+NTDLL.RtlInitializeSListHead
+NTDLL.RtlInitializeSRWLock
+NTDLL.RtlInterlockedCompareExchange64
+NTDLL.RtlInterlockedFlushSList
+NTDLL.RtlInterlockedPopEntrySList
+NTDLL.RtlInterlockedPushEntrySList
+NTDLL.RtlInterlockedPushListSList
+NTDLL.RtlInterlockedPushListSListEx
+NTDLL.RtlLeaveCriticalSection
+NTDLL.RtlMoveMemory
+NTDLL.RtlQueryDepthSList
+NTDLL.RtlReAllocateHeap
+NTDLL.RtlReleaseSRWLockExclusive
+NTDLL.RtlReleaseSRWLockShared
+NTDLL.RtlRemoveVectoredContinueHandler
+NTDLL.RtlRemoveVectoredExceptionHandler
+NTDLL.RtlRestoreLastWin32Error
+NTDLL.RtlRunOnceInitialize
+NTDLL.RtlSetCriticalSectionSpinCount
+NTDLL.RtlSizeHeap
+NTDLL.RtlTryAcquireSRWLockExclusive
+NTDLL.RtlTryAcquireSRWLockShared
+NTDLL.RtlTryEnterCriticalSection
+NTDLL.RtlWakeAllConditionVariable
+NTDLL.RtlWakeConditionVariable
+NTDLL.RtlZeroMemory
+NTDLL.TpCallbackLeaveCriticalSectionOnCompletion
+NTDLL.TpCallbackReleaseMutexOnCompletion
+NTDLL.TpCallbackReleaseSemaphoreOnCompletion
+NTDLL.TpCallbackSetEventOnCompletion
+NTDLL.TpCallbackUnloadDllOnCompletion
+NTDLL.TpCancelAsyncIoOperation
+NTDLL.TpDisassociateCallback
+NTDLL.TpIsTimerSet
+NTDLL.TpPostWork
+NTDLL.TpReleaseCleanupGroup
+NTDLL.TpReleaseCleanupGroupMembers
+NTDLL.TpReleaseIoCompletion
+NTDLL.TpReleasePool
+NTDLL.TpReleaseTimer
+NTDLL.TpReleaseWait
+NTDLL.TpReleaseWork
+NTDLL.TpSetPoolMaxThreads
+NTDLL.TpSetTimer
+NTDLL.TpSetTimerEx
+NTDLL.TpSetWait
+NTDLL.TpSetWaitEx
+NTDLL.TpStartAsyncIoOperation
+NTDLL.TpWaitForIoCompletion
+NTDLL.TpWaitForTimer
+NTDLL.TpWaitForWait
+NTDLL.TpWaitForWork
+NTDLL.VerSetConditionMask
+NtEnumerateKey
+NtEnumerateValueKey
+NtFindAtom
+NtFlushKey
+NtFreeVirtualMemory
+NtFsControlFile
+NtfsDisable8dot3NameCreation
+NtGetDevicePowerState
+NtInitiatePowerAction
+NtIsSystemResumeAutomatic
+NtLockFile
+NtMapUserPhysicalPagesScatter
+NtMapViewOfSection
+NtOpenFile
+NtOpenJobObject
+NtOpenKey
+NtOpenKey failed for %ws [%x]
+NtOpenProcessToken
+NtOpenThreadToken
+NtPowerInformation
+NtProtectVirtualMemory
+NtQueryAttributesFile
+NtQueryDirectoryFile
+NtQueryDirectoryFile failed to query next file [%x]
+NtQueryEaFile
+NtQueryEvent
+NtQueryFullAttributesFile
+NtQueryInformationAtom
+NtQueryInformationByName
+NtQueryInformationFile
+NtQueryInformationFile failed [%x]
+NtQueryInformationJobObject
+NtQueryInformationProcess
+NtQueryInformationThread
+NtQueryInformationToken
+NtQueryInstallUILanguage
+NtQueryLicenseValue
+NtQuerySection
+NtQuerySecurityObject
+NtQuerySystemEnvironmentValueEx
+NtQuerySystemInformation
+NtQuerySystemInformationEx
+NtQueryTimerResolution
+NtQueryValueKey
+NtQueryValueKey failed to get registry value of temporary internet file [%x]
+NtQueryVirtualMemory
+NtQueryVolumeInformationFile
+NtQueryWnfStateData
+NtRaiseHardError
+NtReadFile
+NtReplacePartitionUnit
+NtSetEaFile
+NtSetInformationDebugObject
+NtSetInformationFile
+NtSetInformationJobObject
+NtSetInformationProcess
+NtSetInformationThread
+NtSetSecurityObject
+NtSetSystemEnvironmentValueEx
+NtSetSystemInformation
+NtSetThreadExecutionState
+NtSetTimerResolution
+NtSetValueKey
+NtSetVolumeInformationFile
+NtTerminateJobObject
+NtTerminateProcess
+NtUnlockFile
+NtUnmapViewOfSection
+NtVdm64.Dll
+NtVdm64CreateProcessInternalW
+NtVdm64RaiseInvalid16BitError
+NtWaitForMultipleObjects
+NtWaitForSingleObject
+NtWow64QueryInformationProcess64
+NtWow64ReadVirtualMemory64
+NtWriteFile
+Nullsoft.NSIS
+NullSoftInst
+NullsoftInst
+NV Domain
+NV Hostname
+O RRh
+O$RRh
+O0M0K
+OCTS=OFF
+OCTS=ON
+ODSR=OFF
+ODSR=ON
+OfferVirtualMemory
+Offset and region size add up to cause an integer overflow or underflow
+oj):e
+OnMachineUILanguageClear
+OnMachineUILanguageInit
+OnMachineUILanguageSwitch
+OnUILanguageAdd
+OnUILanguageRemove
+OnUserProfileChanged
+OOBEComplete
+OobeCompleteWnfSupported
+OOBEInProgress
+OpenConsoleW
+OpenConsoleWStub
+OpenEventA
+OpenEventW
+OpenFile
+OpenFileById
+OpenFileMappingA
+OpenFileMappingW
+OpenJobObjectA
+OpenJobObjectW
+OpenMutexA
+OpenMutexW
+OpenPackageInfoByFullName
+OpenPackageInfoByFullNameForUser
+OpenPrivateNamespaceA
+OpenPrivateNamespaceW
+OpenProcess
+OpenProcessToken
+OpenProfileUserMapping
+OpenRegKey
+OpenSemaphoreA
+OpenSemaphoreW
+OpenState
+OpenStateExplicit
+OpenThread
+OpenThreadToken
+OpenWaitableTimerA
+OpenWaitableTimerW
+OptionalNames
+OptionValue
+Original entry 0x%08X has bad GUID size
+Original entry 0x%08X missing merge id key
+OriginalFilename
+Out of memory
+Out of memory [%x]
+OutputDebugStringA
+OutputDebugStringW
+Overflow doing pointer addition
+P@33333SP@
+p=ru@
+P0WRVS
+PackageFamilyNameFromFullName
+PackageFamilyNameFromId
+PackageForTheWeb 
+PackageForTheWeb Error
+PackageForTheWeb Fehler
+PackageFullNameFromId
+PackageIdFromFullName
+PackageNameAndPublisherIdFromFamilyName
+PADDINGXXPADDING
+ParentMoniker
+PARITY=@
+ParseApplicationUserModelId
+pcamain.sdb
+PDB was not supplied for InitOnceGetStringTableOffset
+PEB_SIGNATURE
+PeekConsoleInputA
+PeekConsoleInputW
+PeekNamedPipe
+'Phls
+Phttp://www.microsoft.com/pkiops/certs/Microsoft%20Time-Stamp%20PCA%202010(1).crt0
+Pj [S
+Pj=Vj
+Policies
+PopIoRingCompletion
+PostQueuedCompletionStatus
+PowerClearRequest
+PowerCreateRequest
+PowerSetRequest
+PPj`j
+PPPPQP
+PQh8K
+PQhtM
+PQQQS
+PQQQW
+PreferExternalManifest
+PrefetchVirtualMemory
+PrepareTape
+PreventGeoIdChange
+PreviousInstallLanguage
+PrivCopyFileExW
+PrivMoveFileIdentityW
+Process32First
+Process32FirstW
+Process32Next
+Process32NextW
+ProcessIdToSessionId
+ProductName
+ProductVersion
+ProgId
+ProgramId
+ProtectedDebugger
+PRRRV
+PssCaptureSnapshot
+PssDuplicateSnapshot
+PssFreeSnapshot
+PSSh(K
+PSSjp
+PssQuerySnapshot
+PSSSh
+PSSSW
+PssWalkMarkerCreate
+PssWalkMarkerFree
+PssWalkMarkerGetPosition
+PssWalkMarkerRewind
+PssWalkMarkerSeek
+PssWalkMarkerSeekToBeginning
+PssWalkMarkerSetPosition
+PssWalkMarkerTell
+PssWalkSnapshot
+pSVWj03
+Pulled out a non-stringtable item
+PulseEvent
+PurgeComm
+PVh@$
+PVj Z
+PVVh|
+PVVhp
+PVVVVVVh 
+PVVVVVVVj
+PWWh?
+PWWhpF
+q$j;Y
+q\Q17
+Qj\Yf;
+Qkkbal
+QPj%Y
+QQQQh
+QQSV3
+QQSVW
+QQSVW3
+QQSVWh
+QQSVWj
+QQVW3
+QQVWj
+QRPhT9
+QSVW3
+QSVWf
+QSVWh
+QSVWj
+QueryActCtxSettingsW
+QueryActCtxSettingsWWorker
+QueryActCtxW
+QueryActCtxWWorker
+QueryDepthSList
+QueryDosDeviceA
+QueryDosDeviceW
+QueryFullProcessImageNameA
+QueryFullProcessImageNameW
+QueryIdleProcessorCycleTime
+QueryIdleProcessorCycleTimeEx
+QueryInformationJobObject
+QueryIoRateControlInformationJobObject
+QueryIoRingCapabilities
+QueryMemoryResourceNotification
+QueryOOBESupport
+QueryPerformanceCounter
+QueryPerformanceFrequency
+QueryProcessAffinityUpdateMode
+QueryProcessCycleTime
+QueryProtectedPolicy
+QueryThreadCycleTime
+QueryThreadpoolStackInformation
+QueryThreadProfiling
+QueryUnbiasedInterruptTime
+QueueUserAPC
+QueueUserAPC2
+QueueUserWorkItem
+QuirkGetData2Worker
+QuirkGetDataWorker
+QuirkIsEnabled2Worker
+QuirkIsEnabled3Worker
+QuirkIsEnabledForPackage2Worker
+QuirkIsEnabledForPackage3Worker
+QuirkIsEnabledForPackage4Worker
+QuirkIsEnabledForPackageWorker
+QuirkIsEnabledForProcessWorker
+QuirkIsEnabledWorker
+QUIRKS_FORCE_RESULT
+QuirksGetNameHash
+R!s4Z
+r#j0Yf
+RaiseException
+RaiseFailFastException
+RaiseInvalid16BitExeError
+ReadConsoleA
+ReadConsoleInputA
+ReadConsoleInputExA
+ReadConsoleInputExW
+ReadConsoleInputW
+ReadConsoleOutputA
+ReadConsoleOutputAttribute
+ReadConsoleOutputCharacterA
+ReadConsoleOutputCharacterW
+ReadConsoleOutputW
+ReadConsoleW
+ReadDirectoryChangesExW
+ReadDirectoryChangesW
+ReadFile
+ReadFileEx
+ReadFileScatter
+Reading from unfinished list
+ReadProcessMemory
+ReadThreadProfilingData
+ReclaimVirtualMemory
+Redmond1
+RegCloseKey
+RegCopyTreeW
+RegCreateKeyExA
+RegCreateKeyExW
+RegDeleteKeyExA
+RegDeleteKeyExW
+RegDeleteTreeA
+RegDeleteTreeW
+RegDeleteValueA
+RegDeleteValueW
+RegDisablePredefinedCacheEx
+RegEnumKeyExA
+RegEnumKeyExW
+RegEnumValueA
+RegEnumValueW
+RegFlushKey
+RegGetKeySecurity
+RegGetValueA
+RegGetValueW
+Region
+RegisterApplicationRecoveryCallback
+RegisterApplicationRestart
+RegisterBadMemoryNotification
+RegisterConsoleIME
+RegisterConsoleOS2
+RegisterConsoleVDM
+RegisterWaitForInputIdle
+RegisterWaitForSingleObject
+RegisterWaitForSingleObjectEx
+RegisterWaitUntilOOBECompleted
+RegisterWowBaseHandlers
+RegisterWowExec
+RegLoadAppKey failed [%d]
+RegLoadAppKeyW
+RegLoadKeyA
+RegLoadKeyW
+RegLoadMUIStringA
+RegLoadMUIStringW
+RegNotifyChangeKeyValue
+RegOpenCurrentUser
+RegOpenKeyExA
+RegOpenKeyExW
+RegOpenUserClassesRoot
+RegQueryInfoKeyA
+RegQueryInfoKeyW
+RegQueryValueExA
+RegQueryValueExW
+RegRestoreKeyA
+RegRestoreKeyW
+RegSaveKeyExA
+RegSaveKeyExW
+RegSetKeySecurity
+RegSetValueExA
+RegSetValueExW
+RegUnLoadKeyA
+RegUnLoadKeyW
+ReleaseActCtx
+ReleaseActCtxWorker
+ReleaseMutex
+ReleaseMutexWhenCallbackReturns
+ReleasePackagedDataForFile
+ReleasePackageVirtualizationContext
+ReleaseSemaphore
+ReleaseSemaphoreWhenCallbackReturns
+ReleaseSRWLockExclusive
+ReleaseSRWLockShared
+Re-mapped file as image to get version block: %ls
+RemoveDirectoryA
+RemoveDirectoryTransactedA
+RemoveDirectoryTransactedW
+RemoveDirectoryW
+RemoveDllDirectory
+RemoveLocalAlternateComputerNameA
+RemoveLocalAlternateComputerNameW
+RemoveSecureMemoryCacheCallback
+RemoveVectoredContinueHandler
+RemoveVectoredExceptionHandler
+ReOpenFile
+ReplaceFile
+ReplaceFileA
+ReplaceFileW
+ReplacePartitionUnit
+RequestDeviceWakeup
+RequestWakeupLatency
+RequireSignedAppInit_DLLs
+ReservationIops
+ResetEvent
+ResetWriteWatch
+ResizePseudoConsole
+ResolveDelayLoadedAPI
+ResolveDelayLoadsFromDll
+ResolveLocaleName
+ResourceData
+RestoreLastError
+ResumeThread
+Roshal.WinRAR.WinRAR
+RpcAsyncCancelCall
+RpcAsyncCompleteCall
+RpcAsyncInitializeHandle
+RpcBindingFree
+RpcBindingFromStringBindingW
+RpcBindingSetAuthInfoExW
+RPCRT4.dll
+RpcStringBindingComposeW
+RpcStringFreeW
+RPWWWV
+RR.Raphael.Install.Builder
+RRRWt
+RtlAcquirePrivilege
+RtlAcquireSRWLockExclusive
+RtlActivateActivationContext
+RtlActivateActivationContextUnsafeFast
+RtlAddAccessAllowedAce
+RtlAddAtomToAtomTable
+RtlAddIntegrityLabelToBoundaryDescriptor
+RtlAddRefActivationContext
+RtlAllocateAndInitializeSid
+RtlAllocateHeap
+RtlAnsiStringToUnicodeString
+RtlAnsiStringToUnicodeString failed [%x]
+RtlAppendUnicodeStringBuffer failed [%x]
+RtlAppendUnicodeStringToString
+RtlAppendUnicodeStringToString failed for root HKCU path [%x]
+RtlAppendUnicodeToString
+RtlAppendUnicodeToString failed for shell folders path [%x]
+RtlArrayGet failed to get the next node
+RtlArrayInitialize failed [%x]
+RtlAssignUnicodeStringBuffer failed [%x]
+RtlCaptureContext
+RtlCaptureStackBackTrace
+RtlCharToInteger
+RtlCompactHeap
+RtlCompareMemory
+RtlCompareUnicodeString
+RtlComputeImportTableHash
+RtlConvertSidToUnicodeString
+RtlCopyUnicodeString
+RtlCreateAcl
+RtlCreateActivationContext
+RtlCreateAtomTable
+RtlCreateBoundaryDescriptor
+RtlCreateEnvironment
+RtlCreateEnvironmentEx
+RtlCreateQueryDebugBuffer
+RtlCreateSecurityDescriptor
+RtlCreateUnicodeString
+RtlCreateUnicodeStringFromAsciiz
+RtlDeactivateActivationContext
+RtlDeactivateActivationContextUnsafeFast
+RtlDecodeSystemPointer
+RtlDeleteAtomFromAtomTable
+RtlDeregisterSecureMemoryCacheCallback
+RtlDeregisterWait
+RtlDestroyAtomTable
+RtlDestroyEnvironment
+RtlDestroyQueryDebugBuffer
+RtlDetermineDosPathNameType_U
+RtlDisableThreadProfiling
+RtlDnsHostNameToComputerName
+RtlDoesFileExists_U
+RtlDosPathNameToNtPathName_U
+RtlDosPathNameToNtPathName_U_WithStatus
+RtlDosPathNameToNtPathName_U_WithStatus failed [%x]
+RtlDosPathNameToNtPathName_U_WithStatus failed for %S [%x]
+RtlDosPathNameToRelativeNtPathName_U
+RtlEnableThreadProfiling
+RtlEncodeSystemPointer
+RtlEnsureUnicodeStringBufferSizeBytes failed [%x]
+RtlEnterCriticalSection
+RtlEqualSid
+RtlEqualString
+RtlEqualUnicodeString
+RtlExitUserProcess
+RtlExitUserThread
+RtlExtendedLargeIntegerDivide
+RtlFileMapInitializeByFilePath failed %S [%x]
+RtlFileMapMapView failed [%x]
+RtlFillMemory
+RtlFindActivationContextSectionGuid
+RtlFindActivationContextSectionString
+RtlFormatCurrentUserKeyPath
+RtlFormatCurrentUserKeyPath failed [%x]
+RtlFreeAnsiString
+RtlFreeHeap
+RtlFreeOemString
+RtlFreeSid
+RtlFreeUnicodeString
+RtlGetActiveActivationContext
+RtlGetActiveConsoleId
+RtlGetAppContainerParent
+RtlGetAppContainerSidType
+RtlGetCurrentDirectory_U
+RtlGetCurrentProcessorNumberEx
+RtlGetCurrentServiceSessionId
+RtlGetCurrentTransaction
+RtlGetDeviceFamilyInfoEnum
+RtlGetFullPathName_U
+RtlGetFullPathName_UEx
+RtlGetFullPathName_UEx failed to get full path with larger buffer.
+RtlGetLengthWithoutLastFullDosOrNtPathElement
+RtlGetLongestNtPathLength
+RtlGetNativeSystemInformation
+RtlGetNativeSystemInformation failed [%x]
+RtlGetNtSystemRoot
+RtlGetPersistedStateLocation
+RtlGetSuiteMask
+RtlGetThreadErrorMode
+RtlGetThreadPreferredUILanguages
+RtlGetUILanguageInfo
+RtlGetUserInfoHeap
+RtlGetVersion
+RtlGUIDFromString
+RtlHashUnicodeString
+RtlHashUnicodeString failed: 0x%x
+RtlImageDirectoryEntryToData
+RtlImageDirectoryEntryToData returned ExportDirectory that was too small
+RtlImageNtHeader
+RtlImageNtHeaderEx
+RtlInitAnsiString
+RtlInitAnsiStringEx
+RtlInitializeCriticalSection
+RtlInitializeSid
+RtlInitString
+RtlInitUnicodeString
+RtlInitUnicodeStringEx
+RtlInitUnicodeStringEx failed [%x]
+RtlInitUnicodeStringEx failed: 0x%x
+RtlIntegerToUnicodeString
+RtlIsNameLegalDOS8Dot3
+RtlIsTextUnicode
+RtlLCIDToCultureName
+RtlLeaveCriticalSection
+RtlLengthSecurityDescriptor
+RtlLockHeap
+RtlLookupAtomInAtomTable
+RtlMoveMemory
+RtlMultiAppendUnicodeStringBuffer
+RtlMultiByteToUnicodeN
+RtlMultiByteToUnicodeSize
+RtlNotifyFeatureUsage
+RtlNtPathNameToDosPathName
+RtlNtPathNameToDosPathName failed [%x]
+RtlNtStatusToDosError
+RtlNtStatusToDosErrorNoTeb
+RtlOemStringToUnicodeString
+RtlpApplyLengthFunction
+RtlpConvertCultureNamesToLCIDs
+RtlpConvertLCIDsToCultureNames
+RtlPcToFileHeader
+RtlpEnsureBufferSize
+RtlPrefixString
+RtlPrefixUnicodeString
+RtlPublishWnfStateData
+RtlQueryActivationContextApplicationSettings
+RtlQueryAtomInAtomTable
+RtlQueryElevationFlags
+RtlQueryEnvironmentVariable
+RtlQueryEnvironmentVariable_U
+RtlQueryFeatureConfiguration
+RtlQueryInformationActivationContext
+RtlQueryPackageClaims
+RtlQueryPackageIdentity
+RtlQueryProcessDebugInformation
+RtlQueryProtectedPolicy
+RtlQueryRegistryValuesEx
+RtlQueryThreadProfiling
+RtlQueryWnfStateData
+RtlRaiseStatus
+RtlReadThreadProfilingData
+RtlReAllocateHeap
+RtlRegisterSecureMemoryCacheCallback
+RtlRegisterWait
+RtlReleaseActivationContext
+RtlReleasePebLock
+RtlReleasePrivilege
+RtlReleaseRelativeName
+RtlReleaseSRWLockExclusive
+RtlRunOnceExecuteOnce
+RtlRunOnceExecuteOnce failed for InitOnceGetStringTableOffset [%x]
+RtlSetCurrentTransaction
+RtlSetDaclSecurityDescriptor
+RtlSetEnvironmentStrings
+RtlSetEnvironmentVariable
+RtlSetGroupSecurityDescriptor
+RtlSetIoCompletionCallback
+RtlSetLastWin32Error
+RtlSetLastWin32ErrorAndNtStatusFromNtStatus
+RtlSetOwnerSecurityDescriptor
+RtlSetProtectedPolicy
+RtlSetSearchPathMode
+RtlSetThreadPoolStartFunc
+RtlSetThreadPreferredUILanguages
+RtlSetUserCallbackExceptionFilter
+RtlSizeHeap
+RtlSizeTAdd failed [%x]
+RtlSizeTSub failed [%x]
+RtlStringCbCopyNW failed [%x]
+RtlStringCbLengthW failed to find the string end [%x]
+RtlStringCchCatW failed [%x]
+RtlStringCchCatW failed to cat file to path [%x]
+RtlStringCchCopyA failed [%x]
+RtlStringCchCopyNW failed to copy path [%x]
+RtlStringCchCopyW failed [%x]
+RtlStringCchCopyW failed for c:\ [%x]
+RtlStringCchCopyW failed to copy FileName [%x]
+RtlStringCchLengthW failed [%x]
+RtlStringCchPrintfW failed [%x]
+RtlStringCchPrintfW failed when building internet file signature [%x]
+RtlSubAuthorityCountSid
+RtlSubAuthoritySid
+RtlSubscribeWnfStateChangeNotification
+RtlSwitchedVVI
+RtlTimeFieldsToTime
+RtlTimeToTimeFields
+RtlTryAcquirePebLock
+RtlUnhandledExceptionFilter
+RtlUnicodeStringCatString failed [%x]
+RtlUnicodeStringCbCatStringN failed [%x]
+RtlUnicodeStringCopy failed [%x]
+RtlUnicodeStringToAnsiString
+RtlUnicodeStringToInteger
+RtlUnicodeStringToOemString
+RtlUnicodeToMultiByteN
+RtlUnicodeToMultiByteSize
+RtlUnlockHeap
+RtlUnsubscribeWnfStateChangeNotification
+RtlUnwind
+RtlUpcaseUnicodeChar
+RtlUpcaseUnicodeString
+RtlUShortAdd failed [%x]
+RtlVerifyVersionInfo
+RtlWerpReportException
+RtlWow64LogMessageInEventLogger
+RtlxAnsiStringToUnicodeSize
+RtlxUnicodeStringToAnsiSize
+RtlZeroMemory
+RtlZombifyActivationContext
+RTS=*
+RZTk?`x%
+s#j(X;Q
+S_^[]
+SaferCloseLevel
+SaferComputeTokenFromLevel
+SaferIdentifyLevel
+SaferRecordEventLogEntry
+samlib.dll
+SB_ENABLE_TRACE
+ScrollConsoleScreenBufferA
+ScrollConsoleScreenBufferW
+SDB compression algorithm does not match callback algorithm.
+SDB file too small to be valid
+SDB Handle count was decremented after zero.
+SDB is not compressed
+SdbFileDetails missing array item for SdbFileType: %d
+SdbFileDetails missing function pointer for path.
+SdbFindFirstTagRef
+SdbFindNextTag
+SdbFindNextTagRef
+SdbGetBinaryTagData
+SdbGetDatabaseID
+SdbGetItemFromItemRef
+SdbGetMergeRedirectPath
+SdbGetMergeRedirectPath failed to check for sdb merge redirect [%x]
+SdbGetMergeStubPath
+SdbGetNextChild
+SdbGetPathCustomSdb
+SdbGetPathCustomSdb failed to get the database path.
+SdbGetPathSystemSdb failed to get file path for SDB_SYSTEM
+SdbGetPathSystemSdb failed.
+SdbGetStringTagPtr
+SdbGetTagDataSize
+SdbGetTagFromTagID
+SdbGuestHostArchsToRuntimePlatformFlag
+SdbGuestTargetPlatformFlagsToRuntimePlatformFlags
+SdbInitDatabaseEx
+SdbMakeIndexKeyFromStringEx
+SdbMergeIsEntryUpdated
+SdbOpenDatabaseEx
+SdbpCheckAllAttributes
+SdbpCheckAttribute
+SdbpCheckAttribute failed [%x]
+SdbpCheckMatchingDevice
+SdbpCheckMatchingDir
+SdbpCheckMatchingFiles
+SdbpCheckMatchingRegistry
+SdbpCheckMatchingRegistryEntry
+SdbpCheckMatchingRegistryValue
+SdbpCheckMatchingText
+SdbpCheckMatchingTextEntry
+SdbpCheckMatchingWildcardFiles
+SdbpCheckMatchingWildcardRegistry
+SdbpCheckPackageAttributes
+SdbpCheckSdbCapability
+SdbpCreateSearchPathPartsFromPath
+SdbpFindFirstNamedTagHelper
+SdbpGetBinaryRuntimePlatform
+SdbpGetCustomSdbFileName
+SdbpGetCustomSdbFileName failed [%x]
+SdbpGetFileTimestamp
+SdbpGetFirstIndexedRecord
+SdbpGetManifestedMergeStubAlloc
+SdbpGetMappedData
+SdbpGetMappedStringFromTable
+SdbpGetMappedTagData
+SdbpGetMappedTagData returned null data pointer for data with size > 0. Null returned for %s
+SdbpGetMatchingTextAttributes
+SdbpGetMergeSdbsDisabled
+SdbpGetMergeSdbsDisabled failed [%x]
+SdbpGetNextIndexedRecord
+SdbpGetNextTagId
+SdbpGetPathAppPatch
+SdbpGetPathAppPatchPreRS3
+SdbpGetPathAppraiser
+SdbpGetPathCustomSdb
+SdbpGetPathCustomSdbPreRS3
+SdbpGetPathSystem
+SdbpGetProcessHistory
+SdbpGetProcessHostGuestArchitectures
+SdbpGetProcessHostGuestArchitectures failed [%x]
+SdbpGetRegistryMatchingAttributes
+SdbpGetStringTableItemFromStringRef
+SdbpGetStringTableItemFromStringRef failed to get tagid for string ref
+SdbpGetSystemSdbFilePath
+SdbpGetSystemSdbFilePath failed [%x]
+SdbpGetTagHeadSize
+SdbpInitializeSearchDBContext
+SdbpIsEntryIdAvailableInOtherDb
+SdbpMergeAreTagValuesEqual
+SdbpOpenCompressedDatabase
+SdbpOpenCompressedDatabase failed to allocate expanded buffer - out of memory
+SdbpOpenCompressedDatabase failed to open compressed database.
+SdbpOpenDatabaseInMemory
+SdbpOpenLocalDatabaseEx
+SdbpReadMappedData
+SdbpReadStringRef
+SdbpReadTagData
+SdbpResolveInitSdbPath
+SdbpResolveInitSdbPath failed to resolve the sdb path [%x]
+SdbpResolveMatchingFile
+SdbpValidateAndApplyCompatFlags
+SdbQueryContext
+SdbReadBinaryTag
+SdbReadDWORDTag
+SdbReadQWORDTag
+SdbReadWORDTag
+SdbReadWORDTagRef
+SdbReleaseDatabase
+SdbResolveDatabaseEx
+SdbTagIDToTagRef
+SdbUnpackQueryResult
+SearchPathA
+SearchPathMode
+SearchPathW
+second tag
+SERIALCOMM
+serialui.dll
+ServerProcessId
+ServerSessionId
+Session Manager
+setbcdlocale.dll
+SetCachedSigningLevel
+SetCalendarInfoA
+SetCalendarInfoW
+SetCommBreak
+SetCommConfig
+SetCommMask
+SetCommState
+SetCommTimeouts
+SetComPlusPackageInstallStatus
+SetComputerNameA
+SetComputerNameEx2W
+SetComputerNameExA
+SetComputerNameExW
+SetComputerNameW
+SetConsoleActiveScreenBuffer
+SetConsoleCP
+SetConsoleCtrlHandler
+SetConsoleCursor
+SetConsoleCursorInfo
+SetConsoleCursorMode
+SetConsoleCursorPosition
+SetConsoleDisplayMode
+SetConsoleFont
+SetConsoleHardwareState
+SetConsoleHistoryInfo
+SetConsoleIcon
+SetConsoleInputExeNameA
+SetConsoleInputExeNameW
+SetConsoleKeyShortcuts
+SetConsoleLocalEUDC
+SetConsoleMaximumWindowSize
+SetConsoleMenuClose
+SetConsoleMode
+SetConsoleNlsMode
+SetConsoleNumberOfCommandsA
+SetConsoleNumberOfCommandsW
+SetConsoleOS2OemFormat
+SetConsoleOutputCP
+SetConsolePalette
+SetConsoleScreenBufferInfoEx
+SetConsoleScreenBufferSize
+SetConsoleTextAttribute
+SetConsoleTitleA
+SetConsoleTitleW
+SetConsoleWindowInfo
+SetCriticalSectionSpinCount
+SetCurrentConsoleFontEx
+SetCurrentDirectoryA
+SetCurrentDirectoryW
+SetDefaultCommConfigA
+SetDefaultCommConfigW
+SetDefaultDllDirectories
+SetDllDirectoryA
+SetDllDirectoryW
+SetDynamicTimeZoneInformation
+SetEndOfFile
+SetEnvironmentStringsA
+SetEnvironmentStringsW
+SetEnvironmentVariableA
+SetEnvironmentVariableW
+SetErrorMode
+SetEvent
+SetEventWhenCallbackReturns
+SetFileApisToANSI
+SetFileApisToOEM
+SetFileAttributesA
+SetFileAttributesTransactedA
+SetFileAttributesTransactedW
+SetFileAttributesW
+SetFileBandwidthReservation
+SetFileCompletionNotificationModes
+SetFileInformationByHandle
+SetFileIoOverlappedRange
+SetFilePointer
+SetFilePointerEx
+SetFileShortNameA
+SetFileShortNameW
+SetFileTime
+SetFileValidData
+SetFirmwareEnvironmentVariableA
+SetFirmwareEnvironmentVariableExA
+SetFirmwareEnvironmentVariableExW
+SetFirmwareEnvironmentVariableW
+SetHandleContext
+SetHandleCount
+SetHandleInformation
+SetInformationJobObject
+SetIoRateControlInformationJobObject
+SetIoRingCompletionEvent
+SetLastConsoleEventActive
+SetLastError
+SetLocaleInfoA
+SetLocaleInfoW
+SetLocalPrimaryComputerNameA
+SetLocalPrimaryComputerNameW
+SetLocalTime
+SetMailslotInfo
+SetMessageWaitingIndicator
+SetNamedPipeAttribute
+SetNamedPipeHandleState
+SetPriorityClass
+SetProcessAffinityMask
+SetProcessAffinityUpdateMode
+SetProcessDefaultCpuSetMasks
+SetProcessDefaultCpuSets
+SetProcessDEPPolicy
+SetProcessDynamicEHContinuationTargets
+SetProcessDynamicEnforcedCetCompatibleRanges
+SetProcessInformation
+SetProcessMitigationPolicy
+SetProcessPreferredUILanguages
+SetProcessPriorityBoost
+SetProcessShutdownParameters
+SetProcessWorkingSetSize
+SetProcessWorkingSetSizeEx
+SetProtectedPolicy
+SetSearchPathMode
+SetStdHandle
+SetStdHandleEx
+SetSystemFileCacheSize
+SetSystemPowerState
+SetSystemTime
+SetSystemTimeAdjustment
+SetTapeParameters
+SetTapePosition
+SetTermsrvAppInstallMode
+SetThreadAffinityMask
+SetThreadContext
+SetThreadDescription
+SetThreadErrorMode
+SetThreadExecutionState
+SetThreadGroupAffinity
+SetThreadIdealProcessor
+SetThreadIdealProcessorEx
+SetThreadInformation
+SetThreadLocale
+SetThreadpoolStackInformation
+SetThreadpoolThreadMaximum
+SetThreadpoolThreadMinimum
+SetThreadpoolTimer
+SetThreadpoolTimerEx
+SetThreadpoolWait
+SetThreadpoolWaitEx
+SetThreadPreferredUILanguages
+SetThreadPriority
+SetThreadPriorityBoost
+SetThreadSelectedCpuSetMasks
+SetThreadSelectedCpuSets
+SetThreadStackGuarantee
+SetThreadToken
+SetThreadUILanguage
+SetTimerQueueTimer
+SetTimeZoneInformation
+SetUnhandledExceptionFilter
+Setup cannot start the program _Setup.exe
+Setup couldn't decompress the file '%s'.
+Setup Initialization Error
+SetupComm
+SetupSupported
+SetUserGeoID
+SetUserGeoName
+SetVDMCurrentDirectories
+SetVolumeLabelA
+SetVolumeLabelW
+SetVolumeMountPointA
+SetVolumeMountPointW
+SetVolumeMountPointWStub
+SetWaitableTimer
+SetWaitableTimerEx
+SetXStateFeaturesMask
+Shim Exception %#x in module "%hs", line %d, at address %Ix. flags:%#x. !exr %#p !cxr %#p
+ShimExceptionHandler
+ShowConsoleCursor
+SIGN.IE=%X%X %s
+SIGN.MEDIA=
+SIGN.MEDIA=%X %s
+SignalObjectAndWait
+SIZE_T arithmetic failed [%x]
+SizeofResource
+Sj\[f;
+Sleep
+SleepConditionVariableCS
+SleepConditionVariableSRW
+SleepEx
+Software\Microsoft\Shell\Oobe
+Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Quirks
+Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\SdbUpdates
+Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\SdbUpdates\ManifestedMergeStubSdbs
+Software\Microsoft\Windows NT\CurrentVersion\Windows
+SortCloseHandle
+sortdefault.nls
+SortGetHandle
+SPSVj
+SSj`j
+SSSSh
+StartThreadpoolIo
+STOP=#
+STOP=1.5
+strcat_s
+strchr
+strcpy_s
+StringCchPrintf [%#x]
+StringCchPrintf for StoreDirectory [%#x]
+StringFileInfo
+StringTable
+strncmp
+strncpy_s
+strnlen
+strrchr
+SubmitIoRing
+SubmitThreadpoolWork
+SuspendThread
+SVhHJ
+SVWh@
+SVWhX
+SVWj(j
+SVWjHP
+SVWjLX
+SVWjnX
+SVWjZ3
+SVWQh
+SVWQP
+SVWRP
+SVWUj
+SWh Q
+SWh$P
+SwitchToFiber
+SwitchToThread
+SWj%Y
+SWj0Y
+SWj7Y
+swprintf_s
+SXS: %s - Failure getting active activation context; ntstatus %08lx
+SXS: %s() ACTCTX_FLAG_RESOURCE_NAME_VALID set but lpResourceName == 0
+SXS: %s() AssemblyDirectory is not null terminated
+SXS: %s() Bad flags/size 0x%lx/0x%lx
+SXS: %s() Bad lpApplication name '%ls'
+SXS: %s() Bad lpAssemblyDirectory %ls
+SXS: %s() Bad lpSource PathType %ls, 0x%lx
+SXS: %s() bad wProcessorArchitecture 0x%x
+SXS: %s() BaseDllMapResourceIdA failed
+SXS: %s() BaseDllMapResourceIdW failed
+SXS: %s() BasepSxsCreateStreams() failed
+SXS: %s() Calling csrss server failed. Status = 0x%x
+SXS: %s() empty lpSource %ls
+SXS: %s() NtCreateSection() failed. Status = 0x%x
+SXS: %s() NtCreateSection() failed. Status = 0x%x.
+SXS: %s() NtMapViewOfSection failed
+SXS: %s() NtOpenFile(%wZ) failed
+SXS: %s() NtOpenFile(%wZ) failed. Status = 0x%x
+SXS: %s() NtQueryInformationFile failed. Status = 0x%x
+SXS: %s() Null %p or size 0x%lx too small
+SXS: Invalid parameter(s) passed to FindActCtxSection*()
+SXS: RtlCreateActivationContext() failed 0x%08lx
+SXSManifest
+sysmain.sdb
+SYSTEM\CurrentControlSet\Control\WinInit
+SYSTEM\CurrentControlSet\Control\WOW
+SYSTEM\Setup
+SYSTEMROOT
+systemroot
+SystemRoot
+SystemSetupInProgress
+SystemTimeToFileTime
+SystemTimeToTzSpecificLocalTime
+SystemTimeToTzSpecificLocalTimeEx
+t"9X<t
+t"SSj`j
+t$$!|$4
+t$$j V
+t$$Pj
+t$(PVQ
+T$,@;
+t$,h,
+T$,j8h
+t$,Pj
+t$,VP
+t$:F|t
+t$@PS
+T$@VW
+t$`Ph;
+T$<PR
+t$0Pj
+t$4;t$<
+t$DSWj
+t$dVP
+t$f;F
+t$HSSS
+t$j)j
+t$Qh\
+t&h\M
+t&Wh,
+t);t$
+t,j"W
+t.f9E
+t/jDjH
+t;j[Xf
+t@f;A
+t[f;A uU
+t\SSh0
+t`f;U
+t}SWhHP
+t+j Xf;
+t+VVPW
+t>VhP
+t1jdXf;
+t2Vh$m
+t3Vj ^
+t598t1WWj
+t6hdN
+t6RRj
+t79t$Du1
+t7Vh$m
+t9jyXf;
+Tag_MATCH_LOGIC_NOT_IF_SDB_CAPABILITY_EXISTS_Supported
+Tag_MATCHING_COMMAND_LINE_Supported
+Tag_MATCHING_SDB_CAPABILITY_Supported
+TagID 0x%08X, Tag %04X not BINARY type
+TagID 0x%08X, Tag %04X not STRINGREF type
+TagID 0x%X, Tag 0x%X not of the expected type
+TargetNtPath
+tASWh
+tbf;A
+tBj'^
+tCSVVVj
+tDf91tP
+tdWPd
+TerminateJobObject
+TerminateProcess
+TerminateThread
+TermsrvAdjustPhyMemLimits
+TermsrvAppInstallMode
+TermsrvBuildIniFileName
+TermsrvBuildSysIniPath
+TermsrvConvertSysRootToUserDir
+TermsrvCopyIniFile
+TermsrvCORIniFile
+TermsrvCreateRegEntry
+TermsrvDeleteKey
+TermsrvDeleteValue
+TermsrvGetComputerName
+TermsrvGetPreSetValue
+TermsrvGetString
+TermsrvGetWindowsDirectoryA
+TermsrvGetWindowsDirectoryW
+TermsrvLogInstallIniFile
+TermsrvOpenRegEntry
+TermsrvOpenUserClasses
+TermsrvRestoreKey
+TermsrvSetKeySecurity
+TermsrvSetValueKey
+TermsrvSyncUserIniFileExt
+TermsrvUpdateAllUserMenu
+tff;U
+tFf93tj
+tGj[Xf
+Thales TSS ESN:F7A6-E251-150A1%0#
+The tag 0x%lx is not an index tag
+tHh@N
+ThraexSoftware.AstrumInstallWizard
+Thread32First
+Thread32Next
+timeBeginPeriod
+TimeDateMUICallback.dll
+timeEndPeriod
+timeGetDevCaps
+timeGetSystemTime
+timeGetTime
+tiSWh`P
+tKSVj"
+tL;pTsGj
+TlP0X
+TlsAlloc
+TlsFree
+TlsGetValue
+TlsSetValue
+TMSAMVOF
+TO=OFF
+TO=ON
+tolower
+Toolhelp32ReadProcessMemory
+toupper
+towlower
+TpAllocCleanupGroup
+TpAllocIoCompletion
+TpAllocPool
+TpAllocTimer
+TpAllocWait
+TpAllocWork
+TpCallbackMayRunLong
+TpCaptureCaller
+TpQueryPoolStackInformation
+TpSetPoolMinThreads
+TpSetPoolStackInformation
+TpSimpleTryPost
+tpVPW
+tQj03
+TransactNamedPipe
+Translation
+TransmitCommChar
+TransparentEnabled
+TryAcquireSRWLockExclusive
+TryAcquireSRWLockShared
+TryEnterCriticalSection
+Trying to operate on non-list, non-root tag
+Trying to read mapped data past the end of the database offset 0x%x size 0x%x
+TrySubmitThreadpoolCallback
+tsappcmp.dll
+TSAppCompat
+tsf3gip.dll
+t'Sh(H
+TSUserEnabled
+t-SWh
+tUSWh
+tUWWP
+tX9u tS
+tz9},t
+tz-E@
+TzSpecificLocalTimeToSystemTime
+TzSpecificLocalTimeToSystemTimeEx
+u h\}
+u hLl
+u htr
+u jZh
+u PPPP
+u SPd
+u Vjd3
+u#h<H
+u#hLl
+u#j Yf;
+u$f9H>u
+u$h4O
+u$WSQ
+u%j'3
+u%WWj
+u&f90t
+u)f9\0Ju"f9\0T
+u)WWW
+U.HaN
+u:93wySV
+u:f9u
+u;9\$$t)jP
+u;j Yf;
+u?f97u:3
+u|j Zj,
+U0S0Q
+u1f90t(f
+u5h<H
+u99NTtA
+u9VWh
+UCM_Get_Device_ID_List_SizeW
+ud;5T
+u-f9F>u'
+u'f9W
+uFhtD
+Unable to allocate process history buffer
+Unable to find merge stub database for %S
+Unable to open main database %S
+Unable to open merge stub database %S
+Unhandled ASL_FILE_KIND: %d
+UnhandledExceptionFilter
+Unknown file encoding
+Unknown registry value data type
+Unknown registry value type
+UnlockFile
+UnlockFileEx
+UnmapViewOfFile
+UnmapViewOfFileEx
+UnregisterApplicationRecoveryCallback
+UnregisterApplicationRestart
+UnregisterBadMemoryNotification
+UnregisterConsoleIME
+UnregisterWait
+UnregisterWaitEx
+UnregisterWaitUntilOOBECompleted
+uO9NLt9
+UpdateCalendarDayOfWeek
+UpdateProcThreadAttribute
+UpdateResourceA
+UpdateResourceW
+uqjDXPj@
+UQPXY]Y[
+URPQQh
+us;5P
+UserLanguageProfileCallback.dll
+UTCLimit
+UTCLimitTimeout
+UTRegister
+UTUnRegister
+u'WVd
+uyL7j
+v@t^c
+v~Bpd
+VarFileInfo
+VDMConsoleOperation
+VDMDisallowed
+VDMOperationStarted
+VerifyConsoleIoHandle
+VerifyScripts
+VerifyVersionInfoA
+VerifyVersionInfoW
+VerLanguageNameA
+VerLanguageNameW
+VerSetConditionMask
+Version block has bad size
+Version block invalid
+Version block out of range
+VersionBlock is too long
+VersionBlock not long enough
+ViewFileOffset: %I64u
+ViewFileSize  : %u
+VirtualAlloc
+VirtualAllocEx
+VirtualAllocExNuma
+VirtualFree
+VirtualFreeEx
+VirtualLock
+VirtualProtect
+VirtualProtectEx
+VirtualQuery
+VirtualQueryEx
+VirtualUnlock
+Vjd^N
+VM>RV
+VolumeNameLength
+VolumeNamePresent
+VPj%Y
+VS_VERSION_INFO
+VusjoYf9L0
+VVj`j
+VWh@y
+VWj0^
+VWQQP
+VWSSSSSQ
+w+QPQ
+w<;G`r
+w<Xf9
+WaitCommEvent
+WaitForDebugEvent
+WaitForDebugEventEx
+WaitForMultipleObjects
+WaitForMultipleObjectsEx
+WaitForSingleObject
+WaitForSingleObjectEx
+WaitForThreadpoolIoCallbacks
+WaitForThreadpoolTimerCallbacks
+WaitForThreadpoolWaitCallbacks
+WaitForThreadpoolWorkCallbacks
+WaitNamedPipeA
+WaitNamedPipeW
+WakeAllConditionVariable
+WakeConditionVariable
+Washington1
+wcscat_s
+wcschr
+wcscpy_s
+wcscspn
+wcsncmp
+wcsncpy
+wcsncpy_s
+wcsnlen
+wcsrchr
+wcsstr
+WER/CrashAPI:%u: ERROR Arithmetic overflow when calculating allocation size
+WER/CrashAPI:%u: ERROR Arithmetic overflow when calculating filename size
+WER/CrashAPI:%u: ERROR Could not set the peb signature
+WER/CrashAPI:%u: ERROR Debugger spawn failed: 0x%x
+WER/CrashAPI:%u: ERROR Exception in WerpCurrentPeb
+WER/CrashAPI:%u: ERROR Failed register runtime crash dll
+WER/CrashAPI:%u: ERROR Failed to allocate attribute list: 0x%x
+WER/CrashAPI:%u: ERROR Failed to read the peb from the process
+WER/CrashAPI:%u: ERROR Final gather block size exceeds limit
+WER/CrashAPI:%u: ERROR InitializeProcThreadAttributeList failed: 0x%x
+WER/CrashAPI:%u: ERROR Invalid arg
+WER/CrashAPI:%u: ERROR Invalid args
+WER/CrashAPI:%u: ERROR Invalid args passed
+WER/CrashAPI:%u: ERROR Invalid args, too  big block
+WER/CrashAPI:%u: ERROR Invalid arguments
+WER/CrashAPI:%u: ERROR Invalid arguments in call to function
+WER/CrashAPI:%u: ERROR Invalid handle passed
+WER/CrashAPI:%u: ERROR Invalid Heap
+WER/CrashAPI:%u: ERROR Invalid params
+WER/CrashAPI:%u: ERROR Invalid PEB entry
+WER/CrashAPI:%u: ERROR Invalid state
+WER/CrashAPI:%u: ERROR No 32 PEB for process
+WER/CrashAPI:%u: ERROR No 64 bit PEB for process
+WER/CrashAPI:%u: ERROR No done event for recovery mode
+WER/CrashAPI:%u: ERROR No PEB for process
+WER/CrashAPI:%u: ERROR NtQueryInformationProcess failed
+WER/CrashAPI:%u: ERROR NtQueryInformationProcess failed 0x%x
+WER/CrashAPI:%u: ERROR NtQueryInformationProcess failed with status 0x%x
+WER/CrashAPI:%u: ERROR NtQueryInformationProcess failed with status: 0x%x
+WER/CrashAPI:%u: ERROR NtWow64QueryInformationProcess64 failed with 0x%x
+WER/CrashAPI:%u: ERROR NtWow64ReadVirtualMemory64 failed with 0x%x
+WER/CrashAPI:%u: ERROR OOM
+WER/CrashAPI:%u: ERROR PEB is not initialized
+WER/CrashAPI:%u: ERROR ReadProcessMemory failed while trying to read Peb32BaseAddress
+WER/CrashAPI:%u: ERROR ReadProcessMemory failed while trying to read PebBaseAddress
+WER/CrashAPI:%u: ERROR ReadProcessMemory failed while trying to read WerRegistrationData
+WER/CrashAPI:%u: ERROR RtlInitUnicodeStringEx returned 0x%x
+WER/CrashAPI:%u: ERROR StringCbCopy failed
+WER/CrashAPI:%u: ERROR Stringcchcopy failed while copying the debugger path 0x%x
+WER/CrashAPI:%u: ERROR StringCchCopy failed with 0x%x
+WER/CrashAPI:%u: ERROR StringCchPrintf failed while printing the debugger path with 0x%x
+WER/CrashAPI:%u: ERROR StringCchPrintf failed while printng the debugger commandline with 0x%x
+WER/CrashAPI:%u: ERROR Unable to create the m_hAliveEvent event
+WER/CrashAPI:%u: ERROR Unable to get NtWow64QueryInformationProcess64
+WER/CrashAPI:%u: ERROR Unable to get NtWow64ReadVirtualMemory64
+WER/CrashAPI:%u: ERROR Unable to get the heap handle
+WER/CrashAPI:%u: ERROR Unable to get the peb lock
+WER/CrashAPI:%u: ERROR Unable to get the pPeb, WerpCurrentPeb failed
+WER/CrashAPI:%u: ERROR UpdateProcThreadAttribute failed: 0x%x
+WER/CrashAPI:%u: ERROR VirtualAlloc failed
+WER/CrashAPI:%u: ERROR WerpAcquirePebLock failed
+WER/CrashAPI:%u: ERROR WerpGetHeapHandle returned NULL
+WER/CrashAPI:%u: ERROR WerpGetRecoveryInfoForSelf failed with 0x%x
+WER/CrashAPI:%u: ERROR WerpHeapFree failed with 0x%x
+WER/CrashAPI:%u: ERROR WerpHeapInitialize failed
+WER/CrashAPI:%u: ERROR WerpInitPEBStore failed
+WER/CrashAPI:%u: ERROR WerpNtWow64QueryInformationProcess64 failed with status 0x%x
+WER/CrashAPI:%u: ERROR WerpNtWow64ReadVirtualMemory64  failed while trying to read PebBaseAddress
+WER/CrashAPI:%u: ERROR WerpNtWow64ReadVirtualMemory64 failed while trying to read PebBaseAddress
+WER/CrashAPI:%u: ERROR WerpPathTail returned NULL
+WER/CrashAPI:%u: ERROR WerpValidatePebHeader failed
+WER/CrashAPI:%u: TRACE Faulting process protection/signer: %02x/%02x
+WER/CrashAPI:%u: TRACE Mapped protection level %02X -> %08X
+WER/CrashAPI:%u: TRACE WERP_DEBUGGER_INFO.AutoEnabled: %u
+WER/CrashAPI:%u: TRACE WERP_DEBUGGER_INFO.Available: %u
+WER/CrashAPI:%u: TRACE WERP_DEBUGGER_INFO.Debugger: %S
+WER/CrashAPI:%u: TRACE WERP_DEBUGGER_INFO.Protected: %u
+WER/CrashAPI:%u: TRACE WERP_DEBUGGER_INFO.ProtectionLevel: %08X
+WER/CrashAPI:%u: WARNING NtQueryInformationProcess/ProcessProtectionInformation failed: NTSTATUS %08X
+WER/Heap:%u: ERROR Arithmetic overflow when aligning block size
+WER/Heap:%u: ERROR Arithmetic overflow when calculating block size
+WER/Heap:%u: ERROR Exception while checking for Corrupted heap
+WER/Heap:%u: ERROR Failed to lock the heap
+WER/Heap:%u: ERROR Invalid args
+WER/Heap:%u: ERROR Invalid arguments
+WER/Heap:%u: ERROR Invalid block passed
+WER/Heap:%u: ERROR Invalid page size, GetSystemInfo  may have failed
+WER/Recovery:%u: ERROR Already in recovery
+WER/Recovery:%u: ERROR Exception encountered while running the recovery function
+WER/Recovery:%u: ERROR Invalid events
+WER/Recovery:%u: ERROR Invalid params
+WER/Recovery:%u: ERROR No recovery function found
+WER/Recovery:%u: ERROR No recovery rotuine found when control reached WerpRecoveryInvokedRemotely
+WER/Recovery:%u: ERROR WerpInitiateRecovery failed
+WER/ReportFault:%u: ERROR CreateFileMapping failed: %u.
+WER/ReportFault:%u: ERROR CreateProcess/mode%u failed with Win32 error %u.
+WER/ReportFault:%u: ERROR Failed to allocate attribute list: HRESULT %08X.
+WER/ReportFault:%u: ERROR Failed to get the paths for the crash vertical: HRESULT %08X.
+WER/ReportFault:%u: ERROR GetSystemWindowsDirectory failed or the size was inadequate.
+WER/ReportFault:%u: ERROR InitializeProcThreadAttributeList failed: %u.
+WER/ReportFault:%u: ERROR Invalid params passed
+WER/ReportFault:%u: ERROR MapViewOfFile failed: %u.
+WER/ReportFault:%u: ERROR RtlWerpReportException failed: Service port busy
+WER/ReportFault:%u: ERROR RtlWerpReportException failed: too many concurrent workers
+WER/ReportFault:%u: ERROR StartCrashVertical failed: HRESULT %08X.
+WER/ReportFault:%u: ERROR StringCchPrintf failed: HRESULT %08X.
+WER/ReportFault:%u: ERROR UpdateProcThreadAttribute/CHILD_PROCESS failed: %u.
+WER/ReportFault:%u: ERROR UpdateProcThreadAttribute/EXTENDED_FLAGS failed: %u.
+WER/ReportFault:%u: ERROR UpdateProcThreadAttribute/HANDLE_LIST failed: %u.
+WER/ReportFault:%u: ERROR WaitForMultipleObjects returned %08X.
+WER/ReportFault:%u: ERROR WerpBuildCreateProcessAttributeList failed, HRESULT %08X.
+WER/ReportFault:%u: WARNING CreateEvent/hCompletionEvent failed: %u.
+WER/ReportFault:%u: WARNING CreateEvent/hRecoveryEvent failed: %u.
+WER/ReportFault:%u: WARNING CreateProcess/mode%u failed with Win32 error %u.
+WER/ReportFault:%u: WARNING DuplicateHandle of current process failed: %u.
+WER/ReportFault:%u: WARNING DuplicateHandle of current thread failed: %u.
+WER/ReportFault:%u: WARNING IsWow64Process2 failed: %u.
+WER/ReportFault:%u: WARNING RtlWerpReportException failed: NTSTATUS %08X.
+WerFault.exe
+WerFaultSecure.exe
+WerGetFlags
+WerGetFlagsWorker
+WerpGetDebugger
+WerpInitiateRemoteRecovery
+WerpLaunchAeDebug
+WerpNotifyLoadStringResourceWorker
+WerpNotifyUseStringResourceWorker
+WerRegisterAdditionalProcess
+WerRegisterAppLocalDump
+WerRegisterCustomMetadata
+WerRegisterExcludedMemoryBlock
+WerRegisterFile
+WerRegisterFileWorker
+WerRegisterMemoryBlock
+WerRegisterMemoryBlockWorker
+WerRegisterRuntimeExceptionModule
+WerRegisterRuntimeExceptionModuleWorker
+WerSetFlags
+WerSetFlagsWorker
+WerUnregisterAdditionalProcess
+WerUnregisterAppLocalDump
+WerUnregisterCustomMetadata
+WerUnregisterExcludedMemoryBlock
+WerUnregisterFile
+WerUnregisterFileWorker
+WerUnregisterMemoryBlock
+WerUnregisterMemoryBlockWorker
+WerUnregisterRuntimeExceptionModule
+WerUnregisterRuntimeExceptionModuleWorker
+WideCharToMultiByte
+WilStagingFeatureDescriptors$__m
+win.ini
+WINDIR
+windows blue
+windows eight
+Windows NT BASE API Client DLL
+windows seven
+windows threshold
+windows vista
+WinExec
+Wj@_Wj
+wkernel32.pdb
+wlf9|$$te
+wn>Jj
+Wow64
+Wow64DisableWow64FsRedirection
+Wow64EnableWow64FsRedirection
+Wow64GetThreadContext
+Wow64GetThreadSelectorEntry
+Wow64RevertWow64FsRedirection
+Wow64SetThreadContext
+Wow64SuspendThread
+Wow64Transition
+wowexec.pif
+WriteConsoleA
+WriteConsoleInputA
+WriteConsoleInputVDMA
+WriteConsoleInputVDMW
+WriteConsoleInputW
+WriteConsoleOutputA
+WriteConsoleOutputAttribute
+WriteConsoleOutputCharacterA
+WriteConsoleOutputCharacterW
+WriteConsoleOutputW
+WriteConsoleW
+WriteFile
+WriteFileEx
+WriteFileGather
+WritePrivateProfileSectionA
+WritePrivateProfileSectionW
+WritePrivateProfileStringA
+WritePrivateProfileStringW
+WritePrivateProfileStructA
+WritePrivateProfileStructW
+WriteProcessMemory
+WriteProfileSectionA
+WriteProfileSectionW
+WriteProfileStringA
+WriteProfileStringW
+WriteTapemark
+WTSGetActiveConsoleSessionId
+Wu`jX
+WVPSS
+wwahost.exe
+WWh`F
+WWh0{
+w-WRS
+x[9|$@wU
+x\9\$@wV
+x\9|$TwV
+x]9|$@wW
+x]9|$DwW
+X_^[]
+x~hpC
+x<Yf9
+X0V0T
+x59\$
+x8hTD
+X9A<u
+X9D$L
+xe93v
+XFf9G
+xfVVS
+Xj;;F
+xlxze
+XON=OFF
+XON=ON
+xSu$W
+xv9\$P|p
+xZ9|$@wT
+xZ9|$<wT
+y Ph'
+y VSh`
+y!Phd
+y!Qh@~
+y%PWh`
+y.Vh@
+y/hLx
+y?9;t
+Y__^[
+y`VhHp
+y0Vh$o
+yeWVh
+yGVhX
+YQh0m
+zdbft
+Zf9T$
+Zj"Yf;
+ZombifyActCtx
+ZombifyActCtxWorker
+ZwClose
+ZwClose failed [%x]
+ZwCreateFile
+ZwCreateSection
+ZwCreateSection failed [%x]
+ZwEnumerateKey
+ZwEnumerateValueKey
+ZwMapViewOfSection
+ZwMapViewOfSection failed to map the end of the file [%x]
+ZwMapViewOfSection failed to map the start of the file [%x]
+ZwOpenFile
+ZwOpenKey
+ZwQueryDirectoryFile
+ZwQueryInformationFile
+ZwQuerySystemInformation
+ZwQuerySystemInformation failed [%x]
+ZwQueryValueKey
+ZwUnmapViewOfSection
